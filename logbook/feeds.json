@@ -1,5 +1,5 @@
 {
-  "updatedAt": null,
+  "updatedAt": "2026-11-09T06:11:34.971100+00:00",
   "sources": [
     {
       "id": "hyperallergic",
@@ -27,5 +27,398 @@
       "site": "https://www.theverge.com/"
     }
   ],
-  "items": []
+  "items": [
+    {
+      "sourceId": "verge",
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing t",
+      "published": "2026-11-08T17:54:50-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
+      "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
+      "summary": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at ",
+      "published": "2026-11-08T17:37:22-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Epic Games Launcher is coming to SteamOS",
+      "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+      "summary": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported",
+      "published": "2026-11-08T15:52:05-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the c",
+      "published": "2026-11-08T15:22:39-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Apple is racing to make Siri more agentic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has de",
+      "published": "2026-11-08T14:18:19-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music ",
+      "published": "2026-11-08T12:23:19-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
+      "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+      "summary": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which fe",
+      "published": "2026-11-08T11:00:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Chatbots might be coming to Apple’s HomeView",
+      "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+      "summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under ",
+      "published": "2026-11-08T10:00:30-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "There’s no slowing down media’s pivot-to-video 2.0",
+      "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrives in our subscribers' i",
+      "published": "2026-11-08T08:00:00-05:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Death Row’s Last Meals Anchor a Museum-Wide Survey of Incarceration Art",
+      "url": "https://www.artnews.com/art-news/reviews/grand-rapids-museum-of-art-hosts-surveys-of-prison-art-1234804902/",
+      "summary": "From now through January 2027, the Grand Rapids Art Museum is host to three solo exhibitions of art by or about people once incarcerated within the United States.",
+      "published": "2026-11-07T13:40:00+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
+      "url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
+      "summary": "With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I",
+      "published": "2026-11-07T12:00:00-05:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Please Don’t Sit on the Flowers",
+      "url": "https://hyperallergic.com/please-dont-sit-on-the-flowers/",
+      "summary": "Long-lost Georgia O’Keeffe landscape goes to auction, Brancusi gets lost at MoMA, interview with Doris Salcedo, and is showing at documenta worth it?",
+      "published": "2026-11-07T11:00:00+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "How Going Blind Made Doris Salcedo’s Art Bigger and Better",
+      "url": "https://www.artnews.com/art-news/artists/doris-salcedo-blind-white-cube-house-hair-1234804779/",
+      "summary": "The Colombian artist spent three years crafting a monumental structure out of human hair for her new show at White Cube in New York.",
+      "published": "2026-11-07T10:00:00+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "A New Hudson Valley Art Space Promises to Be As Accessible as It Is In Flux",
+      "url": "https://www.artnews.com/art-news/news/branchline-gochman-family-collection-opening-1234805014/",
+      "summary": "Branchline in Katonah, New York, opens November 6 with an exhibition 'Line Break' of Indigenous artists.",
+      "published": "2026-11-06T23:16:14+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "The Jewish Sisters in Renoir’s “Pink and Blue”",
+      "url": "https://hyperallergic.com/the-jewish-sisters-in-renoirs-pink-and-blue/",
+      "summary": "Author Catherine Ostler follows the lives of the two cherubic girls, whose rarefied lives in an elite, artistic French family would be toppled by the horrors of the Holocaust.",
+      "published": "2026-11-06T22:00:50+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Pablo Helguera to Helm the New School’s Vera List Center",
+      "url": "https://hyperallergic.com/pablo-helguera-to-helm-the-new-schools-vera-list-center/",
+      "summary": "Upon his appointment, the artist reflected on the urgency he feels to “make sense of rapidly unfolding events, question prevailing narratives, and imagine alternative futures.”",
+      "published": "2026-11-06T21:32:13+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "President Trump Moves to Make Oval Office a Public Monument",
+      "url": "https://www.artnews.com/art-news/news/trump-proclamation-seeks-oval-office-national-monument-1234804961/",
+      "summary": "In his second term, Trump made it a priority to redecorate both the Oval Office and the Cabinet Room",
+      "published": "2026-11-06T20:57:36+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Meg Onli and Zack Winokur to Curate 2028 Whitney Biennial",
+      "url": "https://hyperallergic.com/meg-onli-and-zack-winokur-to-curate-2028-whitney-biennial/",
+      "summary": "Having co-curated the 2024 Biennial, Onli returns to the next edition with Winokur, who founded the American Modern Opera Company.",
+      "published": "2026-11-06T19:24:39+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Andy Warhol’s ‘Camouflage’ Portraits Inspired Piaget’s New Limited-Edition Watch",
+      "url": "https://www.artnews.com/art-news/news/andy-warhol-piaget-camouflage-watch-1234804925/",
+      "summary": "This is the second time the watchmaker has collaborated with the Warhol Foundation.",
+      "published": "2026-11-06T18:51:44+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "DC Protesters Slam Trump's Fascist Triumphal Arch",
+      "url": "https://hyperallergic.com/dc-protesters-slam-trumps-fascist-triumphal-arch/",
+      "summary": "A group of 50 used puppets and a fake arch to deliver the point that Americans are against the \"Arc de Trump.\"",
+      "published": "2026-11-06T18:45:25+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Miami Beach Dealer Faces Another Lawsuit from Artist Alleging Non-Payment",
+      "url": "https://www.artnews.com/art-news/news/gabriel-kilongo-lawsuit-yirui-jia-jupiter-gallery-1234804928/",
+      "summary": "It is the fourth lawsuit that Gabriel Kilongo has faced in the past two years.",
+      "published": "2026-11-06T18:33:37+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Carsten Höller’s Spiraling Silver Slides Appear in Mexico City as a Permanent Installation",
+      "url": "https://www.artnews.com/art-news/news/carsten-hollers-slides-appear-mexico-city-installation-1234804936/",
+      "summary": "The Mexico City Slides installation ranges from 12 to 38 metres in height and 31 to 90 metres in length",
+      "published": "2026-11-06T18:20:50+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Rome’s Galleria Borghese’s $11.15 M. Extension Is Moving Forward Despite Pushback",
+      "url": "https://www.artnews.com/art-news/news/romes-galleria-borghese-opens-competition-extension-1234804922/",
+      "summary": "The competition for the extension is being organized by the Italian engineering firm Proger Spa, also a patron of the museum.",
+      "published": "2026-11-06T18:17:13+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Federal Judge Temporarily Blocks Construction of Trump’s Arch, Hours After it Gains Final Approval",
+      "url": "https://www.artnews.com/art-news/news/federal-judge-temporarily-blocks-construction-of-trumps-arch-hours-after-it-gains-final-approval-1234804912/",
+      "summary": "U.S. District Judge Tanya Chutkan issued a restraining order Friday morning halting construction of the 250-foot arch for 14 days, giving the court time to consider lawsuits challenging the project’s legality.",
+      "published": "2026-11-06T17:04:13+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Jordan Poorman Cocker’s Vision of Global Indigeneity",
+      "url": "https://hyperallergic.com/jordan-poorman-cockers-vision-of-global-indigeneity/",
+      "summary": "The curator, who just organized a major rehang of Indigenous art at Crystal Bridges, reflects on the ways institutions can create space for Native artists to flourish.",
+      "published": "2026-11-06T16:56:02+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "A View From the Easel: Natali Bravo-Barbee",
+      "url": "https://hyperallergic.com/a-view-from-the-easel-natali-bravo-barbee/",
+      "summary": "“As a mother, there are so many spaces in my life that are organized around other people’s needs. The studio is a space where I get to return to myself.”",
+      "published": "2026-11-06T16:14:35+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Intermedia + Digital Arts MFA Program at UMBC Now Accepting Applications",
+      "url": "https://hyperallergic.com/intermedia-digital-arts-mfa-program-at-umbc-now-accepting-applications/",
+      "summary": "Funding for tuition, healthcare, and stipends is available. Apply to the University of Maryland, Baltimore County program by Feb 1 to be considered for financial support.",
+      "published": "2026-11-06T16:00:00+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Art Collector Barbara Jakobson’s Famous Upper East Side Townhouse On the Market for $9 Million",
+      "url": "https://www.artnews.com/art-news/news/barbara-jakobson-art-collector-upper-east-side-townhouse-market-9-million-1234804913/",
+      "summary": "Jakobson, a longtime MoMA trustee, appeared on ARTnews's Top 200 Collectors list three times in the '90s.",
+      "published": "2026-11-06T15:42:45+00:00"
+    },
+    {
+      "sourceId": "nieman",
+      "title": "The Nieman Lab News-About-News Quiz, November 6, 2026",
+      "url": "https://www.niemanlab.org/2026/11/the-nieman-lab-news-about-news-quiz-november-6-2026/",
+      "summary": "What a week! Recap it with the second edition of the Nieman Lab News-About-News Quiz, your weekly incentive to keep up with the latest happenings in the world of digital journalism. All questions are based on the week’s ",
+      "published": "2026-11-06T13:30:40+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Met Gala’s New Theme Is So Basic",
+      "url": "https://hyperallergic.com/met-galas-new-theme-is-so-basic/",
+      "summary": "Brancusi at MoMA, trouble at Pace, a rediscovered Georgia O'Keeffe painting, and The Met presents the biggest rescission indicator yet.",
+      "published": "2026-11-06T11:00:00+00:00"
+    },
+    {
+      "sourceId": "nieman",
+      "title": "Meta pulls down controversial terms of service",
+      "url": "https://www.niemanlab.org/2026/11/meta-pulls-down-controversial-terms-of-service/",
+      "summary": "Meta has indefinitely delayed its proposed commercial terms of service, which would have permitted the company to scrape the websites of Meta Business account users. On Thursday, the company took down the preview link to",
+      "published": "2026-11-05T23:27:49+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "It’s Time to Talk About Classism in the Art World",
+      "url": "https://hyperallergic.com/its-time-to-talk-about-classism-in-the-art-world/",
+      "summary": "In his memoiristic new book, photographer Mark Alice Durant weaves his personal experiences into a larger rebuke of the economic inequality that governs the art world.",
+      "published": "2026-11-05T21:56:38+00:00"
+    },
+    {
+      "sourceId": "nieman",
+      "title": "With “Bimbo University,” Nikita Redkar leans into femininity to explain the news",
+      "url": "https://www.niemanlab.org/2026/11/with-bimbo-university-nikita-redkar-leans-into-femininity-to-explain-the-news/",
+      "summary": "For Nikita Redkar, a big part of filming a video is putting together an outfit. In a July video about youth-led protests in India, the 33-year-old is walking around New York City explaining how movements grow when people",
+      "published": "2026-11-05T21:03:35+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Met Gala's New Theme Is the Biggest Recession Indicator Yet",
+      "url": "https://hyperallergic.com/met-galas-new-theme-is-the-biggest-recession-indicator-yet/",
+      "summary": "Brace yourself for A-listers strutting down the red carpet in everyday garb like jeans, T-shirts, and \"humble, even 'disposable' materials.\"",
+      "published": "2026-11-05T20:59:11+00:00"
+    },
+    {
+      "sourceId": "nieman",
+      "title": "The Onion’s new plan to market its print newspaper: sponsoring a bowl game",
+      "url": "https://www.niemanlab.org/2026/11/the-onions-new-plan-to-market-its-print-newspaper-sponsoring-a-bowl-game/",
+      "summary": "College football already has an Orange Bowl, a Peach Bowl, and a Citrus Bowl, so on its face, there’s nothing outlandish about the concept of an Onion Bowl. But this matchup wouldn’t be titled to evoke some locale’s bump",
+      "published": "2026-11-05T20:39:06+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "MFA Boston to Allow Visitors to Watch Live Conservation of Dutch Painting",
+      "url": "https://hyperallergic.com/mfa-boston-to-allow-visitors-to-watch-live-conservation-of-dutch-painting/",
+      "summary": "Nicolaes Eliasz Pickenoy’s 17th-century group portrait of an Amsterdam wine guild will be the star of a pop-up restoration studio that museumgoers can peer into.",
+      "published": "2026-11-05T20:19:00+00:00"
+    },
+    {
+      "sourceId": "filmmaker",
+      "title": "Designing Godzilla with Takashi Yamazaki",
+      "url": "https://filmmakermagazine.com/134728-designing-godzilla-takashi-yamazaki/",
+      "summary": "The most striking aspect of Godzilla Minus One’s (2023) back-to-basics approach to the classic kaiju is the quality of its VFX work. The famous atomic lizard has seen a resurgence since the American Godzilla reboot, dire",
+      "published": "2026-11-05T18:04:17+00:00"
+    },
+    {
+      "sourceId": "nieman",
+      "title": "Weird animals win on Instagram. Mongabay’s next-best choice? Its reporters.",
+      "url": "https://www.niemanlab.org/2026/11/weird-animals-win-on-instagram-mongabays-next-best-choice-its-reporters/",
+      "summary": "Mongabay’s most successful videos are about weird animals. But not every video from the environmental newsroom can be about strange — or strangely cute — animals. Some have to be about shrimp farm pollution. Or a defores",
+      "published": "2026-11-04T19:32:33+00:00"
+    },
+    {
+      "sourceId": "filmmaker",
+      "title": "Julia Loktev Captures History as It Happens",
+      "url": "https://filmmakermagazine.com/134720-julia-loktev-captures-history-as-it-happens/",
+      "summary": "Julia Loktev had just arrived in Moscow to follow a few journalists targeted by Putin’s regime when Russia began its full-scale invasion of Ukraine. That was February 2022, and the electrifying documentary that emerged f",
+      "published": "2026-11-04T17:52:39+00:00"
+    },
+    {
+      "sourceId": "nieman",
+      "title": "The New York Times stays on track to reach 15 million subscribers by the end of 2027",
+      "url": "https://www.niemanlab.org/2026/11/the-new-york-times-stays-on-track-to-reach-15-million-subscribers-by-the-end-of-2027/",
+      "summary": "The New York Times added 420,000 new digital subscribers in the third quarter of 2026, keeping it on track to achieve its goal of hitting 15 million subscriptions by the end of 2027. The Times now has 13.76 million total",
+      "published": "2026-11-04T14:30:47+00:00"
+    },
+    {
+      "sourceId": "filmmaker",
+      "title": "What Is an “Oscar Movie,” Anyway?",
+      "url": "https://filmmakermagazine.com/134710-considerations-what-is-an-oscar-movie-anyway/",
+      "summary": "For some of us (myself regrettably included), it’s never not awards season. I started my spreadsheet tracking the 2027 crop of Oscar contenders months ago, foolishly imagining that I might be able to foresee the likely w",
+      "published": "2026-11-03T15:04:49+00:00"
+    },
+    {
+      "sourceId": "filmmaker",
+      "title": "The Rise of Surprise",
+      "url": "https://filmmakermagazine.com/134700-the-rise-of-surprise/",
+      "summary": "Shortly after its 1974 inception, the Telluride Film Festival began to foster a sense of surprise and exclusivity. The festival, whose slate is composed entirely of North American premieres, doesn’t announce its program ",
+      "published": "2026-11-02T19:19:40+00:00"
+    },
+    {
+      "sourceId": "nieman",
+      "title": "Anthropic, OpenAI, Google, and Microsoft will make it easier for publishers to opt out of being scraped",
+      "url": "https://www.niemanlab.org/2026/11/anthropic-openai-google-and-microsoft-will-make-it-easier-for-publishers-to-opt-out-of-being-scraped/",
+      "summary": "Right now, if you don’t want your site to be scraped by AI companies, you have to block each company’s crawlers individually. On Friday, Anthropic, OpenAI, Google, and Microsoft said they would support a common robots.tx",
+      "published": "2026-11-02T17:15:45+00:00"
+    },
+    {
+      "sourceId": "nieman",
+      "title": "Elon Musk’s Grokipedia is littered with mistakes. But Wikipedia could still learn some things from it.",
+      "url": "https://www.niemanlab.org/2026/11/elon-musks-grokipedia-is-littered-with-mistakes-but-wikipedia-could-still-learn-some-things-from-it/",
+      "summary": "When I saw Grokipedia’s articles about me, the memories came rushing back: my 19 years in minor league baseball, including that impressive season with the Montgomery Rebels when I hit 20 home runs. I was lean back then —",
+      "published": "2026-11-02T15:59:14+00:00"
+    },
+    {
+      "sourceId": "filmmaker",
+      "title": "Fall 2026 Festigraphix",
+      "url": "https://filmmakermagazine.com/134683-fall-2026-festigraphix/",
+      "summary": "The fall is a time of plentiful options at the cinema. Advocacy from trusted voices can help you get your bearings, but sometimes, it’s helpful to get a wider view of common themes and interests to crack the code of the ",
+      "published": "2026-10-30T17:05:34+00:00"
+    },
+    {
+      "sourceId": "nieman",
+      "title": "The Nieman Lab News-About-News Quiz, October 30, 2026",
+      "url": "https://www.niemanlab.org/2026/10/the-nieman-lab-news-about-news-quiz-october-30-2026/",
+      "summary": "For decades now, news publishers have been yammering on about “gamifying” the news. But what about gamifying the news about the news? Welcome to the Nieman Lab News-About-News Quiz, a weekly incentive to keep up with the",
+      "published": "2026-10-30T13:00:16+00:00"
+    },
+    {
+      "sourceId": "nieman",
+      "title": "Press Forward gave $20 million to 205 local newsrooms over two years. Here’s how some of them spent it.",
+      "url": "https://www.niemanlab.org/2026/10/press-forward-gave-20-million-to-205-local-newsrooms-over-two-years-heres-how-some-of-them-spent-it/",
+      "summary": "Most local newsrooms in the U.S. have one thing in common: They need more money, and many dream of dollars they can use however they want. In 2024, Press Forward, the nonprofit trying to mobilize a philanthropic army for",
+      "published": "2026-10-29T20:52:01+00:00"
+    },
+    {
+      "sourceId": "nieman",
+      "title": "Only 32% of Americans have high confidence that news orgs will report midterm election results accurately, survey finds",
+      "url": "https://www.niemanlab.org/2026/10/only-32-of-americans-have-high-confidence-that-news-orgs-will-report-midterm-election-results-accurately/",
+      "summary": "About six in 10 Americans said they have at least “some” confidence that news organizations will report the upcoming midterm election results accurately, according to a new national survey. But only 32% said they had “qu",
+      "published": "2026-10-29T18:35:18+00:00"
+    },
+    {
+      "sourceId": "filmmaker",
+      "title": "Diego Marcon’s Kids Are Not All Right",
+      "url": "https://filmmakermagazine.com/134583-diego-marcons-kids-are-not-all-right/",
+      "summary": "[Please note that the following article contains graphic imagery and description. —Eds.] Diego Marcon’s videos merge the misadventures of coming of age with the whimsical terror of Grimm’s Fairy Tales, telling tales of f",
+      "published": "2026-10-29T15:12:33+00:00"
+    },
+    {
+      "sourceId": "nieman",
+      "title": "The New York Times is adding more AI features to its Cooking app, and users aren’t thrilled",
+      "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
+      "summary": "Sometimes, adding just one new ingredient to a stew can ruin the whole thing.[sidenote]Olives, yecch.[/sidenote] And that’s how at least some New York Times readers see its addition of AI features to its popular Cooking ",
+      "published": "2026-10-28T18:51:20+00:00"
+    },
+    {
+      "sourceId": "filmmaker",
+      "title": "The 2026 Gotham Award Nominees",
+      "url": "https://filmmakermagazine.com/134467-the-2026-gotham-award-nominees/",
+      "summary": "With four nods apiece, All of a Sudden, Clarissa, La Gradiva, The Invite, and Tender Loving Care lead the way in nominations for the 2026 36th edition of The Gotham Awards, announced today by The Gotham Film & Media Inst",
+      "published": "2026-10-27T20:00:56+00:00"
+    },
+    {
+      "sourceId": "filmmaker",
+      "title": "So Film Is Dying. So What?",
+      "url": "https://filmmakermagazine.com/134509-so-film-is-dying-so-what/",
+      "summary": "Two weeks after returning to London from Helsinki, I keep thinking about something that appeared onscreen in Nour Ouayda’s The Secret Garden (2023): a clod of dirt and grass. Where another pedestrian in Beirut would have",
+      "published": "2026-10-27T15:11:05+00:00"
+    },
+    {
+      "sourceId": "filmmaker",
+      "title": "On Gods’ Time in Johann Lurf’s Forever…Forever",
+      "url": "https://filmmakermagazine.com/134352-on-gods-time-johann-lurf-forever-forever/",
+      "summary": "What if the earth spun at a rate of 24 times per second? This was the question that incited Johann Lurf to undertake Forever…Forever (2026), which recently played Toronto and New York, and last night opened the Viennale.",
+      "published": "2026-10-23T15:09:22+00:00"
+    },
+    {
+      "sourceId": "filmmaker",
+      "title": "Norm Macdonald Plays Himself",
+      "url": "https://filmmakermagazine.com/134357-norm-macdonald-plays-himself/",
+      "summary": "“Hey, congratulations, George! That’s awesome. You got cured of AIDS!” That’s the late comedian Norm Macdonald, playing himself, to convalescent (though not from AIDS) fellow comic George Simmons (Adam Sandler, also play",
+      "published": "2026-10-22T15:07:49+00:00"
+    },
+    {
+      "sourceId": "filmmaker",
+      "title": "An Eerie Mundane: FIDMarseille 2026",
+      "url": "https://filmmakermagazine.com/134364-an-eerie-mundane-fidmarseille-2026/",
+      "summary": "Every July, as tourists descend on the picturesque beaches and seaside towns of France’s Côte d’Azur, a different kind of gathering takes place in the cinemas of the Riviera’s westernmost city. Long heralded for champion",
+      "published": "2026-10-21T15:06:02+00:00"
+    },
+    {
+      "sourceId": "filmmaker",
+      "title": "Mike Leigh’s Tender Loving Care Tests the Limits of Looking",
+      "url": "https://filmmakermagazine.com/134372-mike-leighs-tender-loving-care-tests-the-limits-of-looking/",
+      "summary": "After six decades of peering into the thatches of England’s working class, British filmmaker Mike Leigh has delivered what he maintains will be his last film. With Tender Loving Care (2026), Leigh, expert arranger of opt",
+      "published": "2026-10-14T15:04:03+00:00"
+    }
+  ]
 }
