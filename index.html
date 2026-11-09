@@ -474,10 +474,8 @@ function makeTask(t){
   toggle.addEventListener('click',()=>{
     if(expanded.has(t.id))expanded.delete(t.id);else expanded.add(t.id);
     render();
-    if(expanded.has(t.id)){
-      const note=document.getElementById('note-'+t.id);
-      if(note&&!t.note)note.focus();
-    }
+    // Expanding never opens the keyboard automatically; choose a subtask,
+    // note or URL field deliberately.
   });
   const grip=document.createElement('button');grip.type='button';grip.className='drag-handle';
   grip.title='Drag to reorder';
