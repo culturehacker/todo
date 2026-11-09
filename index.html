@@ -350,7 +350,7 @@ function focusAfterAdding(){
   // keyboard. Close the keyboard after +, rather than forcing it to refocus.
   if(window.matchMedia&&window.matchMedia('(pointer: coarse)').matches){
     input.blur();
-    window.requestAnimationFrame(()=>window.scrollTo({top:0,behavior:'instant'}));
+    window.requestAnimationFrame(()=>window.scrollTo(0,0));
   }else{
     input.focus({preventScroll:true});
   }
