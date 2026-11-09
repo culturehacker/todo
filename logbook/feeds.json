@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T06:11:34.971100+00:00",
+  "updatedAt": "2026-11-09T16:19:33.461416+00:00",
   "sources": [
     {
       "id": "hyperallergic",
@@ -29,67 +29,109 @@
   ],
   "items": [
     {
-      "sourceId": "verge",
-      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing t",
-      "published": "2026-11-08T17:54:50-05:00"
+      "sourceId": "artnews",
+      "title": "Using the Graphics of GTA, Sara Sadik Explores the Challenges France’s Muslim Youth Face",
+      "url": "https://www.artnews.com/art-news/artists/using-the-graphics-of-gta-sara-sadik-explores-the-challenges-frances-muslim-youth-face-1234805097/",
+      "summary": "Sadik’s video game-inspired films center the issues young, Muslim men and teenagers face in France, from employment to notions of masculinity.",
+      "published": "2026-11-09T16:09:51+00:00"
+    },
+    {
+      "sourceId": "filmmaker",
+      "title": "Albert Serra Dares to Look",
+      "url": "https://filmmakermagazine.com/134766-albert-serra-dares-to-look/",
+      "summary": "“I will not shoot a film about a concert. I don’t give a shit about a concert.” So was Sixteen Moments of My Life (2026), a film about a concert, introduced by its director, Albert Serra, ahead of its world premiere at L",
+      "published": "2026-11-09T15:40:02+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Chicago Crowds Try and Fail to Move Anish Kapoor’s Bean, Art Lawyer Michael Ward Stout Has Died, Louvre President Says Mona Lisa’s Move Will Be Sad, and More",
+      "url": "https://www.artnews.com/art-news/news/chicago-crowds-try-and-fail-to-move-anish-kapoors-bean-1234805106/",
+      "summary": "Here's what we're reading this morning.",
+      "published": "2026-11-09T14:20:00+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "The People Against the Arch",
+      "url": "https://hyperallergic.com/the-people-against-the-arch/",
+      "summary": "Protesters in DC roast the Arc de Trump, plus the Whitney Museum announces the next curators of its blockbuster biennial.",
+      "published": "2026-11-09T11:00:00+00:00"
     },
     {
       "sourceId": "verge",
-      "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
-      "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
-      "summary": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at ",
-      "published": "2026-11-08T17:37:22-05:00"
+      "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+      "summary": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claim",
+      "published": "2026-11-09T10:50:38-05:00"
     },
     {
       "sourceId": "verge",
-      "title": "Epic Games Launcher is coming to SteamOS",
-      "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
-      "summary": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported",
-      "published": "2026-11-08T15:52:05-05:00"
+      "title": "Disney and Adobe are building generative AI tools together",
+      "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+      "summary": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, ",
+      "published": "2026-11-09T10:38:56-05:00"
     },
     {
       "sourceId": "verge",
-      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the c",
-      "published": "2026-11-08T15:22:39-05:00"
+      "title": "Hold up — I had a great time talking to the RIAA guy",
+      "url": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
+      "summary": "Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA became everyone’s villain for suing kids",
+      "published": "2026-11-09T10:30:00-05:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "The 13 Best London Museums to Visit",
+      "url": "https://www.artnews.com/list/art-news/artists/best-london-museums-to-visit-1234804828/",
+      "summary": "London’s numerous museums, many of them free to enter, feature some of the best art, history, science, and cultural collections in the world",
+      "published": "2026-11-09T10:30:00+00:00"
     },
     {
       "sourceId": "verge",
-      "title": "Apple is racing to make Siri more agentic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has de",
-      "published": "2026-11-08T14:18:19-05:00"
+      "title": "Medium is launching a new note-taking app called TK",
+      "url": "https://www.theverge.com/tech/1029676/medium-tk-notes-app",
+      "summary": "For the first time ever, Medium is becoming more than just a blogging platform. The company is launching a new app, called TK, that combines note taking and journaling with something resembling a private social network. ",
+      "published": "2026-11-09T10:04:45-05:00"
     },
     {
       "sourceId": "verge",
-      "title": "Elvis and Eminem rights holders are suing Suno",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-      "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music ",
-      "published": "2026-11-08T12:23:19-05:00"
+      "title": "How to shop like a pro during Black Friday and Cyber Monday",
+      "url": "https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find",
+      "summary": "Despite Amazon and other retailers filling the summer and fall months with more sales than ever before, Black Friday and Cyber Monday remain the biggest shopping days of the year. And, in recent years, the sale periods h",
+      "published": "2026-11-09T10:00:00-05:00"
     },
     {
       "sourceId": "verge",
-      "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
-      "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
-      "summary": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which fe",
-      "published": "2026-11-08T11:00:00-05:00"
+      "title": "Here are the price-matching policies for Best Buy, Walmart, and others",
+      "url": "https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft",
+      "summary": "Nothing is more frustrating than buying a new pair of headphones or an OLED TV, only to find out you could have gotten it cheaper somewhere else a few days or weeks later. That’s why, to keep customers happy and prevent ",
+      "published": "2026-11-09T10:00:00-05:00"
     },
     {
       "sourceId": "verge",
-      "title": "Chatbots might be coming to Apple’s HomeView",
-      "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
-      "summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under ",
-      "published": "2026-11-08T10:00:30-05:00"
+      "title": "Here’s when the Black Friday sales start at Walmart, Target, and other retailers",
+      "url": "https://www.theverge.com/21569881/black-friday-deals-start-time-hours-cyber-monday-stores",
+      "summary": "Black Friday officially kicks off on November 27th, but if you plan to make that the only day you buy gifts this holiday season, you’re missing out. Several prominent retailers, including Best Buy and Walmart, are prepar",
+      "published": "2026-11-09T10:00:00-05:00"
     },
     {
       "sourceId": "verge",
-      "title": "There’s no slowing down media’s pivot-to-video 2.0",
-      "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrives in our subscribers' i",
-      "published": "2026-11-08T08:00:00-05:00"
+      "title": "Here are the shipping and return policies for all the big-name retailers",
+      "url": "https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon",
+      "summary": "With the holidays quickly approaching, everyone will soon be on the hunt for gifts and the fastest way to get them. Thankfully, many retailers offer generous shipping policies, with some even providing free two-day shipp",
+      "published": "2026-11-09T10:00:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "We’re giving away a bag filled with almost $900 worth of tech for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1024433/black-friday-2026-giveaway-sweepstakes",
+      "summary": "As we inch toward the gift-giving season, which officially kicks off with Black Friday, we thought it’d be the perfect time for another giveaway. As with previous sweepstakes, we raided The Verge’s tech closet and stuffe",
+      "published": "2026-11-09T10:00:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "The Verge’s guide to Black Friday 2026",
+      "url": "https://www.theverge.com/gadgets/1027765/black-friday-cyber-monday-guide-2026",
+      "summary": "Whether you’re hoping to finally upgrade your TV or simply get a head start on your holiday shopping, Black Friday still offers one of the best opportunities to save on the gadgets we prize most at The Verge. From wirele",
+      "published": "2026-11-09T10:00:00-05:00"
     },
     {
       "sourceId": "artnews",
@@ -97,13 +139,6 @@
       "url": "https://www.artnews.com/art-news/reviews/grand-rapids-museum-of-art-hosts-surveys-of-prison-art-1234804902/",
       "summary": "From now through January 2027, the Grand Rapids Art Museum is host to three solo exhibitions of art by or about people once incarcerated within the United States.",
       "published": "2026-11-07T13:40:00+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
-      "url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
-      "summary": "With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I",
-      "published": "2026-11-07T12:00:00-05:00"
     },
     {
       "sourceId": "hyperallergic",
@@ -183,20 +218,6 @@
       "published": "2026-11-06T18:20:50+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "Rome’s Galleria Borghese’s $11.15 M. Extension Is Moving Forward Despite Pushback",
-      "url": "https://www.artnews.com/art-news/news/romes-galleria-borghese-opens-competition-extension-1234804922/",
-      "summary": "The competition for the extension is being organized by the Italian engineering firm Proger Spa, also a patron of the museum.",
-      "published": "2026-11-06T18:17:13+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Federal Judge Temporarily Blocks Construction of Trump’s Arch, Hours After it Gains Final Approval",
-      "url": "https://www.artnews.com/art-news/news/federal-judge-temporarily-blocks-construction-of-trumps-arch-hours-after-it-gains-final-approval-1234804912/",
-      "summary": "U.S. District Judge Tanya Chutkan issued a restraining order Friday morning halting construction of the 250-foot arch for 14 days, giving the court time to consider lawsuits challenging the project’s legality.",
-      "published": "2026-11-06T17:04:13+00:00"
-    },
-    {
       "sourceId": "hyperallergic",
       "title": "Jordan Poorman Cocker’s Vision of Global Indigeneity",
       "url": "https://hyperallergic.com/jordan-poorman-cockers-vision-of-global-indigeneity/",
@@ -216,13 +237,6 @@
       "url": "https://hyperallergic.com/intermedia-digital-arts-mfa-program-at-umbc-now-accepting-applications/",
       "summary": "Funding for tuition, healthcare, and stipends is available. Apply to the University of Maryland, Baltimore County program by Feb 1 to be considered for financial support.",
       "published": "2026-11-06T16:00:00+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Art Collector Barbara Jakobson’s Famous Upper East Side Townhouse On the Market for $9 Million",
-      "url": "https://www.artnews.com/art-news/news/barbara-jakobson-art-collector-upper-east-side-townhouse-market-9-million-1234804913/",
-      "summary": "Jakobson, a longtime MoMA trustee, appeared on ARTnews's Top 200 Collectors list three times in the '90s.",
-      "published": "2026-11-06T15:42:45+00:00"
     },
     {
       "sourceId": "nieman",
@@ -272,13 +286,6 @@
       "url": "https://www.niemanlab.org/2026/11/the-onions-new-plan-to-market-its-print-newspaper-sponsoring-a-bowl-game/",
       "summary": "College football already has an Orange Bowl, a Peach Bowl, and a Citrus Bowl, so on its face, there’s nothing outlandish about the concept of an Onion Bowl. But this matchup wouldn’t be titled to evoke some locale’s bump",
       "published": "2026-11-05T20:39:06+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "MFA Boston to Allow Visitors to Watch Live Conservation of Dutch Painting",
-      "url": "https://hyperallergic.com/mfa-boston-to-allow-visitors-to-watch-live-conservation-of-dutch-painting/",
-      "summary": "Nicolaes Eliasz Pickenoy’s 17th-century group portrait of an Amsterdam wine guild will be the star of a pop-up restoration studio that museumgoers can peer into.",
-      "published": "2026-11-05T20:19:00+00:00"
     },
     {
       "sourceId": "filmmaker",
@@ -412,13 +419,6 @@
       "url": "https://filmmakermagazine.com/134364-an-eerie-mundane-fidmarseille-2026/",
       "summary": "Every July, as tourists descend on the picturesque beaches and seaside towns of France’s Côte d’Azur, a different kind of gathering takes place in the cinemas of the Riviera’s westernmost city. Long heralded for champion",
       "published": "2026-10-21T15:06:02+00:00"
-    },
-    {
-      "sourceId": "filmmaker",
-      "title": "Mike Leigh’s Tender Loving Care Tests the Limits of Looking",
-      "url": "https://filmmakermagazine.com/134372-mike-leighs-tender-loving-care-tests-the-limits-of-looking/",
-      "summary": "After six decades of peering into the thatches of England’s working class, British filmmaker Mike Leigh has delivered what he maintains will be his last film. With Tender Loving Care (2026), Leigh, expert arranger of opt",
-      "published": "2026-10-14T15:04:03+00:00"
     }
   ]
 }
