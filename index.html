@@ -35,9 +35,26 @@
 @media(max-width:380px){.task-front{gap:12px}.task-detail{padding-left:37px}}
 @media(prefers-reduced-motion:reduce){.task-detail{animation:none}}
 
+
+/* Quiet, optional multi-line import: the standard list remains unchanged. */
+.import-trigger{display:flex;justify-content:center;margin-top:12px}
+.import-trigger button{border:0;background:transparent;color:#888;font-size:13px;padding:8px 18px;border-radius:8px}
+.import-trigger button:hover,.import-trigger button[aria-expanded="true"]{color:var(--accent)}
+.import-trigger button:focus-visible,.close-import:focus-visible,#bulkText:focus-visible,#confirmImport:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.import-panel{padding:17px 16px 15px;background:#f7f7f7;border-radius:14px;margin-top:18px}
+.import-panel[hidden]{display:none}
+.import-heading{display:flex;align-items:center;justify-content:space-between;font-weight:600;font-size:15px;margin-bottom:12px}
+.close-import{background:transparent;border:0;font-size:23px;color:#777;width:36px;height:32px;padding:0;line-height:1}
+#bulkText{display:block;width:100%;max-width:100%;min-width:0;min-height:150px;resize:vertical;font:inherit;font-size:16px;line-height:1.5;color:var(--ink);padding:12px 13px;border:1px solid #e6e6e6;border-radius:9px;background:#fff}
+#bulkText::placeholder{color:#aaa}
+.import-footer{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:12px}
+#importPreview{font-size:12px;color:#808080;line-height:1.4;flex:1}
+#confirmImport{border:0;border-radius:9px;background:var(--accent);color:white;padding:11px 15px;font-weight:600;font-size:14px;white-space:nowrap}
+#confirmImport:disabled{background:#dedede;color:#888;cursor:default}
+
 </style><link rel="manifest" href="manifest.webmanifest">
 </head>
-<body><main><header><h1>To Do</h1><div class="count" id="count"></div></header><section class="tasks" aria-label="Tasks" id="tasks"></section><form class="add" id="form"><input id="newTask" maxlength="280" placeholder="Add a task..." aria-label="New task" autocomplete="off"><button type="submit" aria-label="Add task">+</button></form><div class="hint" id="hint">Swipe a task left to complete it</div></main><div class="toast" id="toast" role="status"><span>Task completed</span><button type="button" id="undo">Undo</button></div>
+<body><main><header><h1>To Do</h1><div class="count" id="count"></div></header><section class="tasks" aria-label="Tasks" id="tasks"></section><section class="import-panel" id="importPanel" aria-labelledby="importTitle" hidden><div class="import-heading"><span id="importTitle">Import tasks</span><button type="button" id="cancelImport" class="close-import" aria-label="Close import">×</button></div><textarea id="bulkText" rows="6" placeholder="Paste tasks here.&#10;One task per line." aria-label="Paste tasks, one per line" spellcheck="false"></textarea><div class="import-footer"><span id="importPreview" role="status">One line = one task</span><button type="button" id="confirmImport" disabled>Add tasks</button></div></section><form class="add" id="form"<input id="newTask" maxlength="280" placeholder="Add a task..." aria-label="New task" autocomplete="off"><button type="submit" aria-label="Add task">+</button></form><div class="import-trigger"><button type="button" id="showImport" aria-expanded="false" aria-controls="importPanel">Import a list</button></div><div class="hint" id="hint">Swipe a task left to complete it</div></main><div class="toast" id="toast" role="status"><span>Task completed</span><button type="button" id="undo">Undo</button></div>
 <script>
 (()=>{
 'use strict';
@@ -203,9 +220,8 @@ function render(){
   hint.classList.toggle('show',tasks.length>0);
   for(const t of tasks)list.append(makeTask(t));
 }
-$('#form').addEventListener('submit',e=>{
-  e.preventDefault();let text=input.value.trim();if(!text)return;
-  let url='';
+function taskFromLine(raw){
+  let text=raw.trim(),url='';
   const match=text.match(/(?:https?:\/\/|www\.)[^\s<>"']+/i);
   if(match){
     const candidate=validUrl(match[0].replace(/[),.;!?]+$/g,''));
@@ -216,7 +232,61 @@ $('#form').addEventListener('submit',e=>{
       else text=new URL(url).hostname.replace(/^www\./,'');
     }
   }
-  tasks.push({id:id(),text,note:'',url});
+  return {id:id(),text,note:'',url};
+}
+const panel=$('#importPanel'),bulk=$('#bulkText'),trigger=$('#showImport'),preview=$('#importPreview'),confirm=$('#confirmImport');
+let originalDraft=null;
+function parseLines(raw){
+  return raw.split(/\r\n|\r|\n|\u2028|\u2029/).map(x=>x.trim()).filter(Boolean);
+}
+function updateImportPreview(){
+  const lines=parseLines(bulk.value);
+  const tooLong=lines.filter(x=>x.length>280).length;
+  const room=1000-tasks.length;
+  const canAdd=lines.length>0&&lines.length<=room&&tooLong===0;
+  confirm.disabled=!canAdd;
+  confirm.textContent=lines.length?'Add '+lines.length+' '+(lines.length===1?'task':'tasks'):'Add tasks';
+  if(tooLong)preview.textContent=tooLong+' '+(tooLong===1?'line is':'lines are')+' over 280 characters';
+  else if(lines.length>room)preview.textContent='Room for '+Math.max(0,room)+' more tasks';
+  else preview.textContent=lines.length+' '+(lines.length===1?'task':'tasks')+' ready · blank lines skipped';
+}
+function openImport(value,fromInput=false){
+  if(fromInput){originalDraft=input.value;input.value='';}
+  panel.hidden=false;trigger.setAttribute('aria-expanded','true');
+  if(typeof value==='string')bulk.value=value;
+  updateImportPreview();
+  bulk.focus();
+}
+function closeImport(restoreDraft=false){
+  panel.hidden=true;trigger.setAttribute('aria-expanded','false');
+  if(restoreDraft&&originalDraft!==null)input.value=originalDraft;
+  originalDraft=null;bulk.value='';updateImportPreview();
+}
+trigger.addEventListener('click',()=>{
+  if(panel.hidden)openImport();
+  else closeImport(true);
+});
+$('#cancelImport').addEventListener('click',()=>closeImport(true));
+bulk.addEventListener('input',updateImportPreview);
+confirm.addEventListener('click',()=>{
+  const lines=parseLines(bulk.value);
+  if(!lines.length||lines.length>1000-tasks.length||lines.some(x=>x.length>280))return;
+  tasks.push(...lines.map(taskFromLine));
+  save();render();closeImport(false);
+  input.focus();
+});
+input.addEventListener('paste',e=>{
+  const pasted=e.clipboardData?.getData('text/plain')||'';
+  if(!/[\r\n\u2028\u2029]/.test(pasted))return;
+  e.preventDefault();
+  const prefix=input.value.trim();
+  openImport((prefix?prefix+'\n':'')+pasted,true);
+});
+$('#form').addEventListener('submit',e=>{
+  e.preventDefault();
+  const text=input.value.trim();if(!text)return;
+  if(tasks.length>=1000){alert('This list supports up to 1,000 active tasks.');return}
+  tasks.push(taskFromLine(text));
   input.value='';save();render();input.focus();
 });
 $('#undo').addEventListener('click',()=>{
