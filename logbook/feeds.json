@@ -1,0 +1,31 @@
+{
+  "updatedAt": null,
+  "sources": [
+    {
+      "id": "hyperallergic",
+      "name": "Hyperallergic",
+      "site": "https://hyperallergic.com/"
+    },
+    {
+      "id": "filmmaker",
+      "name": "Filmmaker",
+      "site": "https://filmmakermagazine.com/"
+    },
+    {
+      "id": "nieman",
+      "name": "Nieman Lab",
+      "site": "https://www.niemanlab.org/"
+    },
+    {
+      "id": "artnews",
+      "name": "ARTnews",
+      "site": "https://www.artnews.com/"
+    },
+    {
+      "id": "verge",
+      "name": "The Verge",
+      "site": "https://www.theverge.com/"
+    }
+  ],
+  "items": []
+}

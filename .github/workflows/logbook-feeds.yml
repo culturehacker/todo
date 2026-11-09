@@ -1,0 +1,30 @@
+name: Refresh LOGBOOK reading feeds
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'logbook/scripts/refresh_feeds.py'
+      - '.github/workflows/logbook-feeds.yml'
+  workflow_dispatch:
+  schedule:
+    - cron: '19 */6 * * *'
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Collect public headlines
+        run: python logbook/scripts/refresh_feeds.py
+      - name: Commit updated headlines
+        run: |
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git config user.name 'github-actions[bot]'
+          git add logbook/feeds.json
+          git diff --cached --quiet && exit 0
+          git commit -m 'Refresh LOGBOOK reading headlines'
+          git push
