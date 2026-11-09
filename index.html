@@ -4,7 +4,7 @@
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="theme-color" content="#ffffff"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="default"><meta name="apple-mobile-web-app-title" content="To Do"><link rel="icon" type="image/png" sizes="48x48" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAAE5UlEQVR42u2YTYgcVRDH/1Xvdc/OzH7MfgTjeohBIZhDBNGbSERylkQ0AU8qmiBCIngxRpRE4kEhiEowOQiCIGqCCjmKUVSEoOAHKEHFQGJkNzs725OZzHT3q/LQs+Mm2/M9CxHyLssOzavf+7+qelVFIoLraTGus3UD6AbQoMt2/kRVVFUVUNV+bBAAImYi6nx+ah/2zjnnHBExMxGl0Sb2NLHb4kSNBcAYw8z9KKSqURSpqu95zAwiVSUQCGgK1URcoV2iR/KNNv8FVNU5F0WRtdYY06tCGoYhQJlMpt+LSjNGJCL1et1aa63twamjKBbRTCajw6NJRGJm3/ejMGrlKilAIhJFke/7GCbMf0zGGDYchmG3QHEcE5ExRtcoslU9z3OxSxUpHaiN0w2BBzDMCjjnOgMlsZAa4X1pAXFpN0+EFkB2NdCwChJVMDeOLIJrztjKEKduNAQaATPKi/jmlP5zDsyrtm0RwHYtvEQExmDhIo7u1/O/Y+YW2XeEp9dDdYVOlO4XvEY0pUs4ul/nzmNmFqU5lOaVCOhC+yEDqcAYBIs4+rzOncfYJBbncM822riZRNDF25oK1MKJkpBp4/EqYINKGe+8oBf+xFgBS5dw57366HPEXacR26JcSGNvHTJNmloVxw7Iud9ofBpLC7jjbjx2gI292nt6VWi1QMl2F8/h0+P683dghsqqDxhhHcdf0j9+ovEpBEXctgVPvExeBpp6gL6jLKGpBDj2ol78C56nO57G/Q+Ri5FcRFISicO7h/TXM5icQbmEDZvw1EEayUFcG9fR/ipGEKN6GaV5FNZBYpx4G0S6dQe5eNkY4b1X9cevGzTrN2D3K5Qfh3NoW41RP1FGDHFYN4v7HtTSPIiRHdWP39IvP1FjGwnw/df0zOeYnEElwMws9hym8Sm4uB0NDZKHiCCC7Xv4gYc1KIIN5cboozfx1WcwFh8c0W9PoTCNShnj09hzmKZuQvNC2ymvXVSMIhIEQT6f933/Kq9TqIINPnxDvziBiRm4CCDcuhlnf0BuFLUqsnl95nWe3diZhoiWlgJrTC6f6/fpIAAQh0f2kkJPn8TEFERw9nuM5FGvwR/B7sNd0TSZMODTQQQQxGHnXtq6XZcWwIz8OKIQTPrkQdqwqVuaViHW8+NKBAXEYec+VpXTJ+H5ZD08fohu39ITzSCNYhqTCnY9y9M3y5+/YOsO2nRXzzSqGFr5kYSrKrbtaty4uH60oW4UIurczq7oaxv7Uu9FgzZ63k5OTURMFEdxN7UjM5j7pInjOLWnTvnJWHulVruqUx7qIqIojJyT1OZ1NRD5vhfHrlqt0nKLPuwuCEFQ9jzTtULG5HLZhYViHMfEPMRmWlWJuFKp1Oq1XC6X+pilMRJlsyO+71+48HcURck5dLAF1WSmU6lUL80vjI6OWmtTgdIDKmnvi8VStVqdmpqcmBgfvJeN47hYXCyXLxcKE2NjPQIBEOfCKCqXK0EQAMhkfGvtilu/dkK1PAdS1WZp0fgjImEY1ut1Y0yhMJHLZq1nW03T2qUcEXHOhWF0pVar12pRFKsqLVtdjXWNtyVMAJjJWpvNZrPZEc/zjDFtWvUOOTDxABERUVVZHoslg7QWFc0KOFqhlTFMxO3neT0kZQw2SGuqNcTHldYmTd4YnP/vgf4FEmzHYH6ZpJUAAAAASUVORK5CYII="><link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png"><title>To Do</title>
 <style>
-:root{color-scheme:light;--ink:#151515;--muted:#888;--line:#e9e9e9;--accent:#7961ee;--bg:#fff}*{box-sizing:border-box}html,body{margin:0;min-height:100%;background:var(--bg);font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:var(--ink)}button,input{font:inherit}button{cursor:pointer}main{width:min(100%,480px);min-height:100dvh;margin:auto;display:flex;flex-direction:column;padding:clamp(42px,9vh,86px) 27px max(26px,env(safe-area-inset-bottom));}header{margin-bottom:24px}h1{font-weight:700;letter-spacing:-1.5px;font-size:39px;line-height:1.1;margin:0 0 6px}.count{color:#777;font-size:15px}.tasks{flex:1;min-height:170px}.task{position:relative;touch-action:pan-y;user-select:none}.task-swipe{position:relative;overflow:hidden}.task-back{position:absolute;inset:0;display:flex;align-items:center;justify-content:flex-end;padding-right:22px;background:var(--accent);color:#fff;font-weight:600;font-size:14px;gap:8px}.task-front{position:relative;background:#fff;display:flex;align-items:center;min-height:65px;gap:19px;will-change:transform;transition:transform .18s ease}.task-front:after{content:"";height:1px;background:var(--line);position:absolute;bottom:0;left:48px;right:0}.circle{width:26px;height:26px;border-radius:50%;border:1.7px solid #858585;background:#fff;flex:none;padding:0;display:grid;place-items:center}.circle:focus-visible,.delete:focus-visible,.add button:focus-visible,.add input:focus-visible{outline:2px solid var(--accent);outline-offset:3px}.task-label{font-size:17px;line-height:1.3;flex:1;overflow-wrap:anywhere}.task-label:focus-visible{outline:2px solid var(--accent)}.empty{font-size:16px;color:#a1a1a1;margin-top:18px}.add{display:flex;align-items:center;background:#f5f5f5;border-radius:13px;min-height:54px;margin-top:28px;padding:0 13px 0 18px;gap:8px}.add input{background:transparent;border:0;outline:none;min-width:0;flex:1;font-size:17px;color:#222}.add input::placeholder{color:#929292}.add button{background:none;border:0;color:var(--accent);font-size:31px;line-height:1;width:33px;height:38px;padding:0}.toast{position:fixed;bottom:calc(105px + env(safe-area-inset-bottom));left:50%;transform:translateX(-50%) translateY(12px);opacity:0;pointer-events:none;background:#242424;color:#fff;border-radius:12px;padding:12px 14px;display:flex;align-items:center;gap:22px;font-size:14px;transition:opacity .2s,transform .2s;white-space:nowrap;box-shadow:0 4px 22px #0002}.toast.show{opacity:1;transform:translateX(-50%);pointer-events:auto}.toast button{color:#c4b8ff;background:none;border:0;font-weight:650;padding:0}.hint{margin-top:13px;text-align:center;color:#b0b0b0;font-size:12px;opacity:0;transition:opacity .2s}.hint.show{opacity:1}@media (min-width:600px){body{background:#f8f8f8}main{background:#fff;box-shadow:0 0 32px #0000000a}}@media(prefers-reduced-motion:reduce){*,*:before,*:after{transition-duration:0s!important}}
+:root{color-scheme:light;--ink:#151515;--muted:#888;--line:#e9e9e9;--accent:#7961ee;--bg:#fff}*{box-sizing:border-box}html,body{margin:0;min-height:100%;background:var(--bg);font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:var(--ink)}button,input{font:inherit}button{cursor:pointer}main{width:min(100%,480px);min-height:100dvh;margin:auto;display:flex;flex-direction:column;padding:clamp(42px,9vh,86px) 27px max(26px,env(safe-area-inset-bottom));}header{margin-bottom:24px}h1{font-weight:700;letter-spacing:-1.5px;font-size:39px;line-height:1.1;margin:0 0 6px}.count{color:#777;font-size:15px}.tasks{flex:1;min-height:170px}.task{position:relative;touch-action:pan-y;user-select:none}.task-swipe{position:relative;overflow:hidden}.task-back{position:absolute;inset:0;display:flex;align-items:center;justify-content:flex-end;padding-right:22px;background:var(--accent);color:#fff;font-weight:600;font-size:14px;gap:8px}.task-front{position:relative;background:#fff;display:flex;align-items:center;min-height:65px;gap:19px;will-change:transform;transition:transform .18s ease}.task-front:after{content:"";height:1px;background:var(--line);position:absolute;bottom:0;left:48px;right:0}.circle{width:26px;height:26px;border-radius:50%;border:1.7px solid #858585;background:#fff;flex:none;padding:0;display:grid;place-items:center}.circle:focus-visible,.delete:focus-visible,.add button:focus-visible,.add input:focus-visible{outline:2px solid var(--accent);outline-offset:3px}.task-label{font-size:17px;line-height:1.3;flex:1;overflow-wrap:anywhere}.task-label:focus-visible{outline:2px solid var(--accent)}.task-label{cursor:text}.task-edit{flex:1;min-width:0;width:100%;font-size:17px;line-height:1.3;min-height:42px;border:0;border-bottom:2px solid var(--accent);border-radius:4px 4px 0 0;background:#faf9ff;color:var(--ink);padding:7px 6px;outline:none}.empty{font-size:16px;color:#a1a1a1;margin-top:18px}.add{display:flex;align-items:center;background:#f5f5f5;border-radius:13px;min-height:54px;margin-top:28px;padding:0 13px 0 18px;gap:8px}.add input{background:transparent;border:0;outline:none;min-width:0;flex:1;font-size:17px;color:#222}.add input::placeholder{color:#929292}.add button{background:none;border:0;color:var(--accent);font-size:31px;line-height:1;width:33px;height:38px;padding:0}.toast{position:fixed;bottom:calc(105px + env(safe-area-inset-bottom));left:50%;transform:translateX(-50%) translateY(12px);opacity:0;pointer-events:none;background:#242424;color:#fff;border-radius:12px;padding:12px 14px;display:flex;align-items:center;gap:22px;font-size:14px;transition:opacity .2s,transform .2s;white-space:nowrap;box-shadow:0 4px 22px #0002}.toast.show{opacity:1;transform:translateX(-50%);pointer-events:auto}.toast button{color:#c4b8ff;background:none;border:0;font-weight:650;padding:0}.hint{margin-top:13px;text-align:center;color:#b0b0b0;font-size:12px;opacity:0;transition:opacity .2s}.hint.show{opacity:1}@media (min-width:600px){body{background:#f8f8f8}main{background:#fff;box-shadow:0 0 32px #0000000a}}@media(prefers-reduced-motion:reduce){*,*:before,*:after{transition-duration:0s!important}}
 
 /* Task details: visible only when the user asks for them. */
 .task-front{gap:15px}
@@ -68,7 +68,7 @@
 .task-render-fallback{padding:18px 0 18px 48px;border-bottom:1px solid var(--line);color:var(--ink);font-size:17px}
 </style><link rel="manifest" href="manifest.webmanifest">
 </head>
-<body><main><header><h1>To Do</h1><div class="count" id="count"></div></header><section class="tasks" aria-label="Tasks" id="tasks"></section><section class="import-panel" id="importPanel" aria-labelledby="importTitle" hidden><div class="import-heading"><span id="importTitle">Import tasks</span><button type="button" id="cancelImport" class="close-import" aria-label="Close import">×</button></div><textarea id="bulkText" rows="6" placeholder="Paste tasks here.&#10;One task per line." aria-label="Paste tasks, one per line" spellcheck="false"></textarea><div class="import-footer"><span id="importPreview" role="status">One line = one task</span><button type="button" id="confirmImport" disabled>Add tasks</button></div></section><form class="add" id="form"<input id="newTask" maxlength="280" placeholder="Add a task..." aria-label="New task" autocomplete="off"><button type="submit" aria-label="Add task">+</button></form><div class="import-trigger"><button type="button" id="showImport" aria-expanded="false" aria-controls="importPanel">Import a list</button></div><div class="hint" id="hint">Swipe left to complete · Circle to pin · Drag dots to reorder</div></main><div class="toast" id="toast" role="status"><span>Task completed</span><button type="button" id="undo">Undo</button></div>
+<body><main><header><h1>To Do</h1><div class="count" id="count"></div></header><section class="tasks" aria-label="Tasks" id="tasks"></section><section class="import-panel" id="importPanel" aria-labelledby="importTitle" hidden><div class="import-heading"><span id="importTitle">Import tasks</span><button type="button" id="cancelImport" class="close-import" aria-label="Close import">×</button></div><textarea id="bulkText" rows="6" placeholder="Paste tasks here.&#10;One task per line." aria-label="Paste tasks, one per line" spellcheck="false"></textarea><div class="import-footer"><span id="importPreview" role="status">One line = one task</span><button type="button" id="confirmImport" disabled>Add tasks</button></div></section><form class="add" id="form"<input id="newTask" maxlength="280" placeholder="Add a task..." aria-label="New task" autocomplete="off"><button type="submit" aria-label="Add task">+</button></form><div class="import-trigger"><button type="button" id="showImport" aria-expanded="false" aria-controls="importPanel">Import a list</button></div><div class="hint" id="hint">Tap a task to edit · Swipe left to complete · Drag dots to reorder</div></main><div class="toast" id="toast" role="status"><span>Task completed</span><button type="button" id="undo">Undo</button></div>
 <script>
 (()=>{
 'use strict';
@@ -219,11 +219,45 @@ function makeTask(t){
     current?.querySelector('.circle')?.focus({preventScroll:true});
   });
   const label=document.createElement('span');label.className='task-label';label.textContent=t.text;
-  label.title='Double-click to edit';
-  label.addEventListener('dblclick',()=>{
-    const edit=prompt('Edit task',t.text);if(edit===null)return;
-    const value=edit.trim();if(!value)return;
-    t.text=value;save();render();
+  label.title='Tap to edit task';
+  label.setAttribute('role','button');
+  label.setAttribute('tabindex','0');
+  label.setAttribute('aria-label','Edit '+t.text);
+  let editing=false;
+  function editTaskName(){
+    if(editing||!row.isConnected)return;
+    editing=true;
+    const field=document.createElement('input');
+    field.type='text';field.className='task-edit';
+    field.value=t.text;field.maxLength=280;field.autocomplete='off';
+    field.setAttribute('aria-label','Edit task name');
+    field.setAttribute('enterkeyhint','done');
+    label.replaceWith(field);
+    const finish=(cancel=false)=>{
+      if(!editing)return;
+      editing=false;
+      const value=field.value.trim();
+      if(!cancel&&value&&value!==t.text){
+        t.text=value;save();
+        label.textContent=value;
+        label.setAttribute('aria-label','Edit '+value);
+        circle.setAttribute('aria-label',(t.pinned?'Unpin ':'Pin ')+value);
+        toggle.setAttribute('aria-label','Notes and links for '+value);
+        grip.setAttribute('aria-label','Reorder '+value+'; drag or use arrow keys');
+      }
+      field.replaceWith(label);
+    };
+    field.addEventListener('blur',()=>finish());
+    field.addEventListener('keydown',e=>{
+      if(e.key==='Enter'){e.preventDefault();finish();field.blur()}
+      else if(e.key==='Escape'){e.preventDefault();finish(true);field.blur()}
+    });
+    field.focus({preventScroll:true});
+    field.setSelectionRange(field.value.length,field.value.length);
+  }
+  label.addEventListener('click',()=>{if(!swipeMoved)editTaskName()});
+  label.addEventListener('keydown',e=>{
+    if(e.key==='Enter'||e.key===' '){e.preventDefault();editTaskName()}
   });
   const actions=document.createElement('div');actions.className='task-actions';
   const visit=makeLink('#','visit-link','↗');visit.setAttribute('aria-label','Open task link');
@@ -294,16 +328,17 @@ function makeTask(t){
     linkField.append(urlInput,linkPreview);
     detail.append(note,linkField,links);row.append(detail);
   }
-  let startX=0,startY=0,delta=0,active=false,locked=false;
+  let startX=0,startY=0,delta=0,active=false,locked=false,swipeMoved=false;
   front.addEventListener('pointerdown',e=>{
     if(e.target.closest('button,a,input,textarea'))return;
     if(e.pointerType==='mouse'&&e.button!==0)return;
-    startX=e.clientX;startY=e.clientY;active=true;locked=false;delta=0;
+    startX=e.clientX;startY=e.clientY;active=true;locked=false;delta=0;swipeMoved=false;
     front.style.transition='none';
   });
   front.addEventListener('pointermove',e=>{
     if(!active)return;
     const dx=e.clientX-startX,dy=e.clientY-startY;
+    if(Math.abs(dx)>8)swipeMoved=true;
     if(!locked&&Math.abs(dy)>Math.abs(dx)&&Math.abs(dy)>8){
       active=false;front.style.transition='';return;
     }
