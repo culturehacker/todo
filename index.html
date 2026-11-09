@@ -52,9 +52,22 @@
 #confirmImport{border:0;border-radius:9px;background:var(--accent);color:white;padding:11px 15px;font-weight:600;font-size:14px;white-space:nowrap}
 #confirmImport:disabled{background:#dedede;color:#888;cursor:default}
 
+
+/* Pin and reorder: one quiet interaction at each end of a task. */
+.task.pinned .circle{border-color:var(--accent)}
+.task.pinned .circle::after{content:"";display:block;width:10px;height:10px;background:var(--accent);border-radius:50%}
+.task.pinned .task-label{font-weight:550}
+.drag-handle{width:31px;height:44px;flex:none;display:grid;place-items:center;border:0;border-radius:8px;background:transparent;color:#b1b1b1;padding:0;touch-action:none;cursor:grab}
+.drag-handle:focus-visible{outline:2px solid var(--accent);outline-offset:1px;color:var(--accent)}
+.drag-handle:hover{color:#777}
+.task.dragging{position:relative;z-index:3;box-shadow:0 4px 18px #00000014;border-radius:9px}
+.task.dragging .task-front{background:#faf9ff}
+.task.dragging .drag-handle{cursor:grabbing;color:var(--accent)}
+@media(max-width:380px){.task-front{gap:10px}.task-actions{gap:0}.drag-handle{width:29px}}
+
 </style><link rel="manifest" href="manifest.webmanifest">
 </head>
-<body><main><header><h1>To Do</h1><div class="count" id="count"></div></header><section class="tasks" aria-label="Tasks" id="tasks"></section><section class="import-panel" id="importPanel" aria-labelledby="importTitle" hidden><div class="import-heading"><span id="importTitle">Import tasks</span><button type="button" id="cancelImport" class="close-import" aria-label="Close import">×</button></div><textarea id="bulkText" rows="6" placeholder="Paste tasks here.&#10;One task per line." aria-label="Paste tasks, one per line" spellcheck="false"></textarea><div class="import-footer"><span id="importPreview" role="status">One line = one task</span><button type="button" id="confirmImport" disabled>Add tasks</button></div></section><form class="add" id="form"<input id="newTask" maxlength="280" placeholder="Add a task..." aria-label="New task" autocomplete="off"><button type="submit" aria-label="Add task">+</button></form><div class="import-trigger"><button type="button" id="showImport" aria-expanded="false" aria-controls="importPanel">Import a list</button></div><div class="hint" id="hint">Swipe a task left to complete it</div></main><div class="toast" id="toast" role="status"><span>Task completed</span><button type="button" id="undo">Undo</button></div>
+<body><main><header><h1>To Do</h1><div class="count" id="count"></div></header><section class="tasks" aria-label="Tasks" id="tasks"></section><section class="import-panel" id="importPanel" aria-labelledby="importTitle" hidden><div class="import-heading"><span id="importTitle">Import tasks</span><button type="button" id="cancelImport" class="close-import" aria-label="Close import">×</button></div><textarea id="bulkText" rows="6" placeholder="Paste tasks here.&#10;One task per line." aria-label="Paste tasks, one per line" spellcheck="false"></textarea><div class="import-footer"><span id="importPreview" role="status">One line = one task</span><button type="button" id="confirmImport" disabled>Add tasks</button></div></section><form class="add" id="form"<input id="newTask" maxlength="280" placeholder="Add a task..." aria-label="New task" autocomplete="off"><button type="submit" aria-label="Add task">+</button></form><div class="import-trigger"><button type="button" id="showImport" aria-expanded="false" aria-controls="importPanel">Import a list</button></div><div class="hint" id="hint">Swipe left to complete · Circle to pin · Drag dots to reorder</div></main><div class="toast" id="toast" role="status"><span>Task completed</span><button type="button" id="undo">Undo</button></div>
 <script>
 (()=>{
 'use strict';
@@ -67,10 +80,11 @@ try{
   const data=JSON.parse(localStorage.getItem(KEY));
   if(Array.isArray(data)){
     tasks=data.filter(t=>t&&typeof t.text==='string'&&typeof t.id==='string')
-      .slice(0,1000).map(t=>({...t,note:typeof t.note==='string'?t.note:'',url:typeof t.url==='string'?t.url:''}));
+      .slice(0,1000).map(t=>({...t,note:typeof t.note==='string'?t.note:'',url:typeof t.url==='string'?t.url:'',pinned:t.pinned===true}));
   }
 }catch(e){}
 const id=()=>globalThis.crypto?.randomUUID?.()||Date.now()+'-'+Math.random();
+function sortPinned(){tasks.sort((a,b)=>Number(Boolean(b.pinned))-Number(Boolean(a.pinned)))}
 function save(){
   try{localStorage.setItem(KEY,JSON.stringify(tasks))}
   catch(e){alert('Storage is unavailable. Your changes may not persist in this browser.')}
@@ -102,15 +116,107 @@ function makeLink(url,cls,text){
   const a=document.createElement('a');a.className=cls;a.href=url;a.target='_blank';a.rel='noopener noreferrer';
   a.textContent=text;a.title=url;return a;
 }
+function focusHandle(taskId){
+  const row=[...list.children].find(el=>el.dataset.id===taskId);
+  row?.querySelector('.drag-handle')?.focus({preventScroll:true});
+}
+function moveTaskByKeyboard(taskId,step){
+  const task=tasks.find(t=>t.id===taskId);
+  if(!task)return;
+  const group=tasks.filter(t=>Boolean(t.pinned)===Boolean(task.pinned));
+  const pos=group.findIndex(t=>t.id===taskId);
+  const next=group[pos+step];
+  if(!next)return;
+  const a=tasks.indexOf(task),b=tasks.indexOf(next);
+  [tasks[a],tasks[b]]=[tasks[b],tasks[a]];
+  save();render();focusHandle(taskId);
+}
+function enableDrag(handle,row,task){
+  handle.addEventListener('keydown',e=>{
+    if(e.key==='ArrowUp'||e.key==='ArrowDown'){
+      e.preventDefault();
+      moveTaskByKeyboard(task.id,e.key==='ArrowUp'?-1:1);
+    }
+  });
+  handle.addEventListener('pointerdown',e=>{
+    if(e.pointerType==='mouse'&&e.button!==0)return;
+    e.preventDefault();
+    e.stopPropagation();
+    const pointerId=e.pointerId,startY=e.clientY;
+    let y=e.clientY,active=false,raf=0;
+    document.activeElement?.blur?.();
+    const insertAt=(clientY)=>{
+      const peers=[...list.children].filter(el=>
+        el.classList.contains('task')&&el!==row&&
+        el.classList.contains('pinned')===Boolean(task.pinned));
+      if(!peers.length)return;
+      const before=peers.find(el=>{
+        const bounds=el.getBoundingClientRect();
+        return clientY<bounds.top+bounds.height/2;
+      });
+      if(before)list.insertBefore(row,before);
+      else list.insertBefore(row,peers[peers.length-1].nextSibling);
+    };
+    const scrollLoop=()=>{
+      if(!active)return;
+      const margin=90;
+      if(y<margin)window.scrollBy(0,-Math.min(20,(margin-y)/4+3));
+      else if(y>window.innerHeight-margin)window.scrollBy(0,Math.min(20,(y-window.innerHeight+margin)/4+3));
+      insertAt(y);
+      raf=requestAnimationFrame(scrollLoop);
+    };
+    const move=event=>{
+      if(event.pointerId!==pointerId)return;
+      y=event.clientY;
+      if(!active&&Math.abs(y-startY)<6)return;
+      if(!active){
+        active=true;
+        row.classList.add('dragging');
+        raf=requestAnimationFrame(scrollLoop);
+      }
+      insertAt(y);
+    };
+    const cleanup=()=>{
+      window.removeEventListener('pointermove',move);
+      window.removeEventListener('pointerup',end);
+      window.removeEventListener('pointercancel',end);
+      cancelAnimationFrame(raf);
+      row.classList.remove('dragging');
+    };
+    const end=event=>{
+      if(event.pointerId!==pointerId)return;
+      cleanup();
+      if(!active)return;
+      const byId=new Map(tasks.map(t=>[t.id,t]));
+      const reordered=[...list.children].filter(el=>el.classList.contains('task'))
+        .map(el=>byId.get(el.dataset.id)).filter(Boolean);
+      if(reordered.length===tasks.length){
+        tasks=reordered;
+        save();render();
+      }
+    };
+    window.addEventListener('pointermove',move,{passive:false});
+    window.addEventListener('pointerup',end);
+    window.addEventListener('pointercancel',end);
+  });
+}
 function makeTask(t){
-  const row=document.createElement('div');row.className='task';
+  const row=document.createElement('div');row.className='task';row.dataset.id=t.id;
+  row.classList.toggle('pinned',Boolean(t.pinned));
   if(t.note.trim()||t.url.trim())row.classList.add('has-extra');
   const back=document.createElement('div');back.className='task-back';
   back.innerHTML='<span aria-hidden="true">✓</span><span>Complete</span>';
   const front=document.createElement('div');front.className='task-front';
   const circle=document.createElement('button');circle.type='button';circle.className='circle';
-  circle.setAttribute('aria-label','Complete '+t.text);
-  circle.addEventListener('click',()=>complete(t.id));
+  circle.setAttribute('aria-label',(t.pinned?'Unpin ':'Pin ')+t.text);
+  circle.setAttribute('aria-pressed',String(Boolean(t.pinned)));
+  circle.title=t.pinned?'Unpin task':'Pin task';
+  circle.addEventListener('click',()=>{
+    t.pinned=!Boolean(t.pinned);
+    sortPinned();save();render();
+    const current=[...list.children].find(el=>el.dataset.id===t.id);
+    current?.querySelector('.circle')?.focus({preventScroll:true});
+  });
   const label=document.createElement('span');label.className='task-label';label.textContent=t.text;
   label.title='Double-click to edit';
   label.addEventListener('dblclick',()=>{
@@ -142,7 +248,12 @@ function makeTask(t){
       if(note&&!t.note)note.focus();
     }
   });
-  actions.append(visit,toggle);front.append(circle,label,actions);const swipe=document.createElement('div');swipe.className='task-swipe';swipe.append(back,front);row.append(swipe);
+  const grip=document.createElement('button');grip.type='button';grip.className='drag-handle';
+  grip.title='Drag to reorder';
+  grip.setAttribute('aria-label','Reorder '+t.text+'; drag or use arrow keys');
+  grip.innerHTML='<svg width="15" height="19" viewBox="0 0 15 19" fill="currentColor" aria-hidden="true"><circle cx="5" cy="4" r="1.35"/><circle cx="10" cy="4" r="1.35"/><circle cx="5" cy="9.5" r="1.35"/><circle cx="10" cy="9.5" r="1.35"/><circle cx="5" cy="15" r="1.35"/><circle cx="10" cy="15" r="1.35"/></svg>';
+  enableDrag(grip,row,t);
+  actions.append(visit,toggle,grip);front.append(circle,label,actions);const swipe=document.createElement('div');swipe.className='task-swipe';swipe.append(back,front);row.append(swipe);
   if(isOpen){
     const detail=document.createElement('div');detail.className='task-detail';detail.id='detail-'+t.id;
     const note=document.createElement('textarea');note.className='detail-note';note.id='note-'+t.id;
@@ -232,7 +343,7 @@ function taskFromLine(raw){
       else text=new URL(url).hostname.replace(/^www\./,'');
     }
   }
-  return {id:id(),text,note:'',url};
+  return {id:id(),text,note:'',url,pinned:false};
 }
 const panel=$('#importPanel'),bulk=$('#bulkText'),trigger=$('#showImport'),preview=$('#importPreview'),confirm=$('#confirmImport');
 let originalDraft=null;
@@ -290,9 +401,9 @@ $('#form').addEventListener('submit',e=>{
   input.value='';save();render();input.focus();
 });
 $('#undo').addEventListener('click',()=>{
-  if(last){tasks.splice(Math.min(last.idx,tasks.length),0,last.task);last=null;save();render()}
+  if(last){tasks.splice(Math.min(last.idx,tasks.length),0,last.task);last=null;sortPinned();save();render()}
   hideToast();
 });
-render();
+sortPinned();render();
 })();
 </script></body></html>
