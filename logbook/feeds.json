@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T14:53:26.869123+00:00",
+  "updatedAt": "2026-11-10T23:22:49.855072+00:00",
   "sources": [
     {
       "id": "hyperallergic",
@@ -30,10 +30,171 @@
   "items": [
     {
       "sourceId": "artnews",
+      "title": "Museum Organizations Call Bipartisan Infrastruture Bill a ‘Sweeping Assault’ on Historic and Sacred Places",
+      "url": "https://www.artnews.com/art-news/news/bipartisan-bill-museums-sweeping-assault-historic-places-1234805501/",
+      "summary": "Organizations including the American Alliance of Museums oppose the bill, sponsored by a West Virginia Republican.",
+      "published": "2026-11-10T22:41:34+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Brokies, This Met Gala Is for You",
+      "url": "https://hyperallergic.com/brokies-this-met-gala-is-for-you/",
+      "summary": "T-shirts revolutionize the Costume Institute’s programming, the sociability of MoMA’s Brancusi exhibit, and the curators of the 2028 Whitney Biennial announced.",
+      "published": "2026-11-10T22:35:25+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Gochman Collection Builds a Home for Native Art in Westchester",
+      "url": "https://hyperallergic.com/gochman-collection-builds-a-home-for-native-art-in-westchester/",
+      "summary": "The private collection opened its Branchline location in Katonah as a way to bring Native art into public view, though questions linger about its engagement with the local Lenape community.",
+      "published": "2026-11-10T22:24:18+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Mamdani Begins Reconstruction of Historic Chinatown Building Decimated in 2020 Fire",
+      "url": "https://hyperallergic.com/mamdani-begins-reconstruction-of-historic-chinatown-building-decimated-in-2020-fire/",
+      "summary": "Some $184 million will go toward the revival of 70 Mulberry Street, which once housed community-based organizations.",
+      "published": "2026-11-10T22:17:58+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Mrs. Gallery Marks 10 Years of Getting Art Collectors to Queens",
+      "url": "https://hyperallergic.com/mrs-gallery-marks-10-years-of-getting-art-collectors-to-queens/",
+      "summary": "A decade since Sara Maria Salamone and Tyler Lafreniere found their storefront space on Craigslist, the gallery presents a rotating anniversary show that channels its evolving nature.",
+      "published": "2026-11-10T21:57:42+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Mexican Duo RojoNegro Installs Colossal Work on UC San Diego Campus",
+      "url": "https://hyperallergic.com/mexican-duo-rojonegro-installs-colossal-work-on-uc-san-diego-campus/",
+      "summary": "María Sosa and Noé Martínez, the Michoacán artists representing Mexico at the Venice Biennale, hand-painted 260 ceramic tiles for the installation.",
+      "published": "2026-11-10T21:46:17+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Man Who Discovered Renaissance Church Facade Hidden in His House to Receive €1 M. Reward",
+      "url": "https://www.artnews.com/art-news/news/renaissance-church-facade-spain-million-euro-reward-1234805455/",
+      "summary": "The monument itself remains in limbo.",
+      "published": "2026-11-10T21:28:16+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Oxford University Museum Returns 39 Sets of Ancestral Remains to Naga People of India",
+      "url": "https://www.artnews.com/art-news/news/pitt-rivers-museum-oxford-returns-naga-ancestral-remains-1234805458/",
+      "summary": "The remains, primarily human skulls, were taken during the British colonial rule of India and Burma (now Myanmar) and have been in the museum’s collection for more than a century.",
+      "published": "2026-11-10T20:52:31+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Trump Proclaims Gold-Studded Oval Office a National Monument",
+      "url": "https://hyperallergic.com/trump-proclaims-gold-studded-oval-office-a-national-monument/",
+      "summary": "\"It will not be allowed to be touched by anybody,” Trump said, which is flatly not true, as anyone can reverse the proclamation.",
+      "published": "2026-11-10T20:47:26+00:00"
+    },
+    {
+      "sourceId": "nieman",
+      "title": "Some local news outlets are losing physical newsrooms",
+      "url": "https://www.niemanlab.org/2026/11/some-local-news-outlets-are-losing-physical-newsrooms/",
+      "summary": "When the Covid-19 pandemic normalized remote work, a second trend caught on: shutting down physical newsrooms. A report from Northwestern University’s Local News Initiative, published Tuesday, looks at the cultural losse",
+      "published": "2026-11-10T20:47:26+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Susan Silton's Loud and Proud Whistle",
+      "url": "https://hyperallergic.com/susan-siltons-loud-and-proud-whistle/",
+      "summary": "A Los Angeles exhibition surveys the groundbreaking queer artist's multi-decade career, including her memorable work on the politics of vocal expression.",
+      "published": "2026-11-10T20:36:53+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Actor Says He Removed His Mother’s Art from Venice Biennale Installation as a Pro-Israel Protest",
+      "url": "https://www.artnews.com/art-news/news/art-removed-venice-biennale-denniston-hill-israel-1234805408/",
+      "summary": "Eric Rasmussen wrote that he did so in response to Denniston Hill having signed a letter against the Israeli Pavilion.",
+      "published": "2026-11-10T20:10:49+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "American Alliance of Museums Makes Case for Policy Proposals Following Democrats’ Landslide Election Win",
+      "url": "https://www.artnews.com/art-news/news/american-alliance-museums-democrats-congress-election-win-1234805415/",
+      "summary": "With Democrats having secured their biggest midterm election victory in decades, AAM has put out new policy proposals to bolster the museum sector.",
+      "published": "2026-11-10T18:17:17+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "The Secret Handshake’s Latest Statue Mocks President Trump for Toe-Related Deferment to Avoid Vietnam War Draft",
+      "url": "https://www.artnews.com/art-news/news/statue-trump-mocks-five-deferments-vietnam-war-1234805419/",
+      "summary": "The statue was accompanied by a mascot, a masked individual in a big-toe costume that had nine hairs and their name “TOEY” printed in block letters.",
+      "published": "2026-11-10T17:34:16+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+      "url": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
+      "summary": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you ca",
+      "published": "2026-11-10T17:00:00-05:00"
+    },
+    {
+      "sourceId": "nieman",
+      "title": "AI is becoming an information gateway. Audiences still don’t want it making their news.",
+      "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+      "summary": "In my Nieman Lab prediction this time last year, I wrote that “in 2026, the use of AI as an information gateway will only rise further.” As it turns out, I was right. In new research that I published with my colleagues R",
+      "published": "2026-11-10T16:47:51+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+      "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+      "summary": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native pri",
+      "published": "2026-11-10T16:40:31-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Sony cancels live-service shooter Fairgames",
+      "url": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
+      "summary": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some pla",
+      "published": "2026-11-10T16:06:12-05:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Call for Proposals: Roman Witt Residency at the University of Michigan",
+      "url": "https://hyperallergic.com/call-for-proposals-roman-witt-residency-at-the-university-of-michigan/",
+      "summary": "This residency at the U-M Stamps School, in partnership with the U-M Museum of Art (UMMA), offers artists a $20,000 honorarium, housing, studio space, and a culminating exhibition in UMMA’s prominent Stenn Gallery.",
+      "published": "2026-11-10T16:00:00+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Fall 2026 Art and Architecture Books from Yale University Press",
+      "url": "https://hyperallergic.com/fall-2026-art-and-architecture-books-from-yale-university-press/",
+      "summary": "The Bayeux tapestry, a new biography of Edward Hopper, The Met's exhibition catalogue on Krasner and Pollock, what architecture is, and more",
+      "published": "2026-11-10T15:35:00+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "How Miles Greenberg Got “WAR” Past the Censors",
+      "url": "https://hyperallergic.com/how-miles-greenberg-got-war-past-the-censors/",
+      "summary": "“There was not a single outlet, institution, or gallery that wanted to get behind this thing,” the artist told Hyperallergic about his new, six-hour performance piece.",
+      "published": "2026-11-10T15:30:00+00:00"
+    },
+    {
+      "sourceId": "artnews",
       "title": "Zohran Mamdani Visited MoMA’s West African Modern Architecture Survey and Loved It",
       "url": "https://www.artnews.com/art-news/news/zohran-mamdani-moma-west-african-architecture-kader-attia-1234805397/",
       "summary": "He specifically admired a monumental sculpture by Kader Attia.",
       "published": "2026-11-10T14:41:21+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "The PlayStation Plus PC app is shutting down next month",
+      "url": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
+      "summary": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but accor",
+      "published": "2026-11-10T14:40:52-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Starlink Mini 2 adds a swappable battery",
+      "url": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
+      "summary": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop. According to some users on X who share",
+      "published": "2026-11-10T14:19:12-05:00"
     },
     {
       "sourceId": "artnews",
@@ -43,11 +204,39 @@
       "published": "2026-11-10T14:05:10+00:00"
     },
     {
+      "sourceId": "verge",
+      "title": "The US is winning the AI race. Jensen Huang could have blown it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy wi",
+      "published": "2026-11-10T14:04:05-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Google’s Pixel Tag tracker is now available",
+      "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+      "summary": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google",
+      "published": "2026-11-10T14:00:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Google is making Pixel HiLight slightly more useful",
+      "url": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
+      "summary": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: As part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite ",
+      "published": "2026-11-10T14:00:00-05:00"
+    },
+    {
       "sourceId": "artnews",
       "title": "Julia Stoschek Collection to Celebrate 20 Years with ‘Selfish in Bed’ Exhibition and Düsseldorf Reopening",
       "url": "https://www.artnews.com/art-news/news/julia-stoschek-collection-selfish-in-bed-20th-anniversary-1234805311/",
       "summary": "“I am a very emotional collector,” Stoschek said. “An artwork has to get under my skin. I need images that stay with me.”",
       "published": "2026-11-10T14:00:00+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "One of our favorite multi-filament 3D printers is $100 off",
+      "url": "https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale",
+      "summary": "If you’re tired of filament jams and clogged nozzles, perhaps it’s time for a new 3D printer. Through December 1st, the Bambu Lab P2S Combo, currently one of the best models that’s easy to use, is discounted. It’s $649 a",
+      "published": "2026-11-10T13:42:03-05:00"
     },
     {
       "sourceId": "artnews",
@@ -57,6 +246,13 @@
       "published": "2026-11-10T13:30:00+00:00"
     },
     {
+      "sourceId": "verge",
+      "title": "ChatGPT is getting verified AI ‘Business Agents’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesse",
+      "published": "2026-11-10T13:00:00-05:00"
+    },
+    {
       "sourceId": "hyperallergic",
       "title": "Mona Chalabi on Money and Art",
       "url": "https://hyperallergic.com/mona-chalabi-on-money-and-art/",
@@ -64,116 +260,11 @@
       "published": "2026-11-10T11:00:00+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "The Most Expensive Artworks by Pablo Picasso Ever Sold at Auction",
-      "url": "https://www.artnews.com/list/art-news/artists/pablo-picasso-highest-auction-records-1234594915/",
-      "summary": "“He is in many ways the gold standard of the art market,” said mega dealer Larry Gagosian.",
-      "published": "2026-11-10T10:30:00+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Collectors Jill and Peter Kraus Want Artists to Look at Their Upstate New York Property and React to It",
-      "url": "https://www.artnews.com/art-news/news/collectors-jill-and-peter-kraus-open-house-tour-1234805031/",
-      "summary": "The Krauses have filled their expansive country property with nearly 20 site-specific commissions.",
-      "published": "2026-11-10T10:00:00+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles",
-      "url": "https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support",
-      "summary": "Rockstar Games is making Grand Theft Auto VI available on Xbox Cloud Gaming when it launches next week. While you'd normally assume that would mean Grand Theft Auto VI would be available to stream on PCs, the web, Xbox c",
-      "published": "2026-11-10T09:37:09-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Anthropic targets $1.4 trillion IPO",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
-      "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its va",
-      "published": "2026-11-10T09:06:54-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Aura’s next color E Ink photo frame is smaller, cheaper, sharper, and more colorful",
-      "url": "https://www.theverge.com/tech/1027926/aura-e-ink-digital-photo-frame-10-inch-price-availability",
-      "summary": "Aura just launched a smaller version of its color E Ink frame with a handful of improvements and a more affordable price. The new Aura Ink frame features a 10-inch E Ink panel that can display more colors at a higher pix",
-      "published": "2026-11-10T09:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Peak Design’s Roller Lite Carry-On is bigger on the inside — and cheaper, too",
-      "url": "https://www.theverge.com/tech/1030186/peak-design-roller-lite-carry-on-review",
-      "summary": "When we sampled Peak Design's Roller Pro last year, we loved almost everything about the camera gear powerhouse's first attempt at a proper suitcase. Everything, that is, except for the price. Back then, during its crowd",
-      "published": "2026-11-10T09:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Adobe is going all in on agentic AI",
-      "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-      "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced ",
-      "published": "2026-11-10T09:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
-      "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
-      "summary": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe's Max event today in",
-      "published": "2026-11-10T09:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Amazon turned its Alexa robot into a Ring security patrol bot",
-      "url": "https://www.theverge.com/tech/1030282/amazon-ring-robotics-rover-cam-4k-security-business",
-      "summary": "As part of a new brand called Ring Robotics - designed to take a more proactive approach to security instead of just monitoring - a new rolling mobile security camera was announced by Amazon, called the Ring Rover Cam. I",
-      "published": "2026-11-10T08:30:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Hands-on with Ring’s new AI drone camera for your home",
-      "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
-      "summary": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week.",
-      "published": "2026-11-10T08:30:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Seagate’s FireCuda Forge moves your data between a hard drive and SSD for better performance",
-      "url": "https://www.theverge.com/tech/1029665/seagate-firecuda-forge-hybrid-ssd-hard-drive-storage-alkemi-technology",
-      "summary": "Seagate announced a new external storage solution, called the FireCuda Forge, that combines the speed benefits of an SSD with the affordability of a higher-capacity hard drive. The Forge is the first drive that's powered",
-      "published": "2026-11-10T06:01:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Real Motors’ Project Ares is a cyberpunk fantasy made real",
-      "url": "https://www.theverge.com/transportation/1029837/real-motors-project-ares-electric-motorcycle-first-ride",
-      "summary": "Electrification has done wonderful things for motorcycle design. By getting rid of the engine and the fuel tank that supports it, designers have the freedom to do whatever they want, and the results have been occasionall",
-      "published": "2026-11-10T06:00:00-05:00"
-    },
-    {
       "sourceId": "hyperallergic",
       "title": "Mona Chalabi Paints a Picture of Class Inequality",
       "url": "https://hyperallergic.com/mona-chalabi-paints-a-picture-of-class-inequality/",
-      "summary": "“The crisis is the system that we’re in,” the Pulitzer Prize-winning data journalist and artist says in an interview with Hyperallegic about her first book, “Ten Lives.”",
+      "summary": "“The crisis is the system that we’re in,” the Pulitzer Prize-winning data journalist and artist says in an interview with Hyperallergic about her first book, “Ten Lives.”",
       "published": "2026-11-09T23:02:33+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Moab Petroglyphs Discovered Vandalized: ‘Irreplaceable Cultural Resources’",
-      "url": "https://www.artnews.com/art-news/news/moab-petroglyphs-vandalized-utah-1234805350/",
-      "summary": "Huge letters spelling out “Craig W” now cover a portion of petroglyph depicting animals.",
-      "published": "2026-11-09T21:50:31+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Getty Pitches In on First-Ever Conservation of an Earthquake-Damaged 17th-Century Church in the Andean Highlands of Peru",
-      "url": "https://www.artnews.com/art-news/news/getty-conservation-earthquake-damaged-church-peru-1234805336/",
-      "summary": "The Church of Rondocan has suffered earthquake damage, and its structure and art collections are at risk.",
-      "published": "2026-11-09T21:42:53+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Clouds Were Once Photography’s Greatest Challenge",
-      "url": "https://hyperallergic.com/clouds-were-once-photographys-greatest-challenge/",
-      "summary": "The Met Museum’s “Chasing Clouds” is a pleasing romp through the technical problem of capturing clouds at photography’s beginning.",
-      "published": "2026-11-09T21:18:52+00:00"
     },
     {
       "sourceId": "nieman",
@@ -183,48 +274,6 @@
       "published": "2026-11-09T21:17:33+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "LACMA’s Star-Studded Art+Film Gala Raises Nearly $7 M.",
-      "url": "https://www.artnews.com/list/art-news/news/lacma-2026-art-film-gala-slideshow-1234805207/",
-      "summary": "This year’s honorees were artist Vija Celmins and filmmaker Denis Villeneuve, while Rosé performed during the festivities.",
-      "published": "2026-11-09T20:39:35+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Scholar Dishes About Finding a Long-Lost Caravaggio Painting in Paris",
-      "url": "https://www.artnews.com/art-news/news/lost-caravaggio-painting-rediscovered-paris-terzaghi-1234805289/",
-      "summary": "Maria Cristina Terzaghi, a leading Caravaggio scholar, reportedly found the painting, missing for nearly two centuries, in the back room of a Paris gallery.",
-      "published": "2026-11-09T20:38:21+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Is Sexy Art Back, or Is It Just Me?",
-      "url": "https://hyperallergic.com/is-sexy-art-back-or-is-it-just-me/",
-      "summary": "From Willem de Kooning’s miserable nudes to Alexandra Barth’s hot and bothered architecture, sex is in the air in Chicago.",
-      "published": "2026-11-09T20:19:06+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "The Zen Mona Lisa",
-      "url": "https://hyperallergic.com/the-zen-mona-lisa/",
-      "summary": "A review of an ancient Chinese ink painting takes an art critic on a journey through his own past.",
-      "published": "2026-11-09T20:12:20+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Wexner Center for the Arts to Keep Name Despite Founder’s Epstein Ties",
-      "url": "https://hyperallergic.com/wexner-center-for-the-arts-to-keep-name-despite-founders-epstein-ties/",
-      "summary": "Hundreds had urged Ohio State University to remove Les Wexner's name from campus buildings over his connections to Jeffrey Epstein.",
-      "published": "2026-11-09T19:57:03+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Six Stolen Picassos Found Under Pile of Clothes in French Home",
-      "url": "https://hyperallergic.com/six-stolen-picassos-found-under-pile-of-clothes-in-french-home/",
-      "summary": "Seven suspects were arrested in connection with the theft of the prints from L’Amandier restaurant in the south of France.",
-      "published": "2026-11-09T19:31:25+00:00"
-    },
-    {
       "sourceId": "nieman",
       "title": "Student journalists are reporting more local news for real audiences. Their professors are exhausted.",
       "url": "https://www.niemanlab.org/2026/11/student-journalists-are-reporting-more-local-news-for-real-audiences-their-professors-are-exhausted/",
@@ -232,46 +281,11 @@
       "published": "2026-11-09T18:52:46+00:00"
     },
     {
-      "sourceId": "hyperallergic",
-      "title": "Only Known Manuscript of MLK's \"I Have a Dream\" Could Fetch $10M at Auction",
-      "url": "https://hyperallergic.com/only-known-manuscript-of-mlks-i-have-a-dream-could-fetch-10m-at-auction/",
-      "summary": "The public will be able to view the handwritten final draft of the iconic speech at Christie's New York before it goes under the hammer in January.",
-      "published": "2026-11-09T18:16:23+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Andy Warhol's Habibi Phase in Kuwait",
-      "url": "https://hyperallergic.com/andy-warhols-habibi-phase-in-kuwait/",
-      "summary": "Raed Yassin's exhibition “Warhol of Arabia” reimagines the pop artist's 1977 visit to the Gulf country and a bygone era in the Middle East.",
-      "published": "2026-11-09T16:32:43+00:00"
-    },
-    {
       "sourceId": "filmmaker",
       "title": "Albert Serra Dares to Look",
       "url": "https://filmmakermagazine.com/134766-albert-serra-dares-to-look/",
       "summary": "“I will not shoot a film about a concert. I don’t give a shit about a concert.” So was Sixteen Moments of My Life (2026), a film about a concert, introduced by its director, Albert Serra, ahead of its world premiere at L",
       "published": "2026-11-09T15:40:02+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "The People Against the Arch",
-      "url": "https://hyperallergic.com/the-people-against-the-arch/",
-      "summary": "Protesters in DC roast the Arc de Trump, plus the Whitney Museum announces the next curators of its blockbuster biennial.",
-      "published": "2026-11-09T11:00:00+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Please Don’t Sit on the Flowers",
-      "url": "https://hyperallergic.com/please-dont-sit-on-the-flowers/",
-      "summary": "Long-lost Georgia O’Keeffe landscape goes to auction, Brancusi gets lost at MoMA, interview with Doris Salcedo, and is showing at documenta worth it?",
-      "published": "2026-11-07T11:00:00+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "The Jewish Sisters in Renoir’s “Pink and Blue”",
-      "url": "https://hyperallergic.com/the-jewish-sisters-in-renoirs-pink-and-blue/",
-      "summary": "Author Catherine Ostler follows the lives of the two cherubic girls, whose rarefied lives in an elite, artistic French family would be toppled by the horrors of the Holocaust.",
-      "published": "2026-11-06T22:00:50+00:00"
     },
     {
       "sourceId": "nieman",
@@ -363,20 +377,6 @@
       "url": "https://filmmakermagazine.com/134683-fall-2026-festigraphix/",
       "summary": "The fall is a time of plentiful options at the cinema. Advocacy from trusted voices can help you get your bearings, but sometimes, it’s helpful to get a wider view of common themes and interests to crack the code of the ",
       "published": "2026-10-30T17:05:34+00:00"
-    },
-    {
-      "sourceId": "nieman",
-      "title": "The Nieman Lab News-About-News Quiz, October 30, 2026",
-      "url": "https://www.niemanlab.org/2026/10/the-nieman-lab-news-about-news-quiz-october-30-2026/",
-      "summary": "For decades now, news publishers have been yammering on about “gamifying” the news. But what about gamifying the news about the news? Welcome to the Nieman Lab News-About-News Quiz, a weekly incentive to keep up with the",
-      "published": "2026-10-30T13:00:16+00:00"
-    },
-    {
-      "sourceId": "nieman",
-      "title": "Press Forward gave $20 million to 205 local newsrooms over two years. Here’s how some of them spent it.",
-      "url": "https://www.niemanlab.org/2026/10/press-forward-gave-20-million-to-205-local-newsrooms-over-two-years-heres-how-some-of-them-spent-it/",
-      "summary": "Most local newsrooms in the U.S. have one thing in common: They need more money, and many dream of dollars they can use however they want. In 2024, Press Forward, the nonprofit trying to mobilize a philanthropic army for",
-      "published": "2026-10-29T20:52:01+00:00"
     },
     {
       "sourceId": "filmmaker",
