@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T16:19:33.461416+00:00",
+  "updatedAt": "2026-11-10T01:31:49.018369+00:00",
   "sources": [
     {
       "id": "hyperallergic",
@@ -29,11 +29,186 @@
   ],
   "items": [
     {
+      "sourceId": "hyperallergic",
+      "title": "Mona Chalabi Paints a Picture of Class Inequality",
+      "url": "https://hyperallergic.com/mona-chalabi-paints-a-picture-of-class-inequality/",
+      "summary": "“The crisis is the system that we’re in,” the Pulitzer Prize-winning data journalist and artist says in an interview with Hyperallegic about her first book, “Ten Lives.”",
+      "published": "2026-11-09T23:02:33+00:00"
+    },
+    {
       "sourceId": "artnews",
-      "title": "Using the Graphics of GTA, Sara Sadik Explores the Challenges France’s Muslim Youth Face",
-      "url": "https://www.artnews.com/art-news/artists/using-the-graphics-of-gta-sara-sadik-explores-the-challenges-frances-muslim-youth-face-1234805097/",
-      "summary": "Sadik’s video game-inspired films center the issues young, Muslim men and teenagers face in France, from employment to notions of masculinity.",
-      "published": "2026-11-09T16:09:51+00:00"
+      "title": "Moab Petroglyphs Discovered Vandalized: ‘Irreplaceable Cultural Resources’",
+      "url": "https://www.artnews.com/art-news/news/moab-petroglyphs-vandalized-utah-1234805350/",
+      "summary": "Huge letters spelling out “Craig W” now cover a portion of petroglyph depicting animals.",
+      "published": "2026-11-09T21:50:31+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Getty Pitches In on First-Ever Conservation of an Earthquake-Damaged 17th-Century Church in the Andean Highlands of Peru",
+      "url": "https://www.artnews.com/art-news/news/getty-conservation-earthquake-damaged-church-peru-1234805336/",
+      "summary": "The Church of Rondocan has suffered earthquake damage, and its structure and art collections are at risk.",
+      "published": "2026-11-09T21:42:53+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Clouds Were Once Photography’s Greatest Challenge",
+      "url": "https://hyperallergic.com/clouds-were-once-photographys-greatest-challenge/",
+      "summary": "The Met Museum’s “Chasing Clouds” is a pleasing romp through the technical problem of capturing clouds at photography’s beginning.",
+      "published": "2026-11-09T21:18:52+00:00"
+    },
+    {
+      "sourceId": "nieman",
+      "title": "“It’s either this or death”: Canada renews the Local Journalism Initiative and extends journalism tax credit",
+      "url": "https://www.niemanlab.org/2026/11/its-either-this-or-death-frankly-canada-renews-the-local-journalism-initiative-and-extends-journalism-tax-credit/",
+      "summary": "Canada’s proposed federal budget includes some good news for local journalism. The federal government is extending its journalism tax credit by $501 million, expanding eligibility to audio and audiovisual news organizati",
+      "published": "2026-11-09T21:17:33+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "LACMA’s Star-Studded Art+Film Gala Raises Nearly $7 M.",
+      "url": "https://www.artnews.com/list/art-news/news/lacma-2026-art-film-gala-slideshow-1234805207/",
+      "summary": "This year’s honorees were artist Vija Celmins and filmmaker Denis Villeneuve, while Rosé performed during the festivities.",
+      "published": "2026-11-09T20:39:35+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Scholar Dishes About Finding a Long-Lost Caravaggio Painting in Paris",
+      "url": "https://www.artnews.com/art-news/news/lost-caravaggio-painting-rediscovered-paris-terzaghi-1234805289/",
+      "summary": "Maria Cristina Terzaghi, a leading Caravaggio scholar, reportedly found the painting, missing for nearly two centuries, in the back room of a Paris gallery.",
+      "published": "2026-11-09T20:38:21+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Is Sexy Art Back, or Is It Just Me?",
+      "url": "https://hyperallergic.com/is-sexy-art-back-or-is-it-just-me/",
+      "summary": "From Willem de Kooning’s miserable nudes to Alexandra Barth’s hot and bothered architecture, sex is in the air in Chicago.",
+      "published": "2026-11-09T20:19:06+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "The Zen Mona Lisa",
+      "url": "https://hyperallergic.com/the-zen-mona-lisa/",
+      "summary": "A review of an ancient Chinese ink painting takes an art critic on a journey through his own past.",
+      "published": "2026-11-09T20:12:20+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Wexner Center for the Arts to Keep Name Despite Founder’s Epstein Ties",
+      "url": "https://hyperallergic.com/wexner-center-for-the-arts-to-keep-name-despite-founders-epstein-ties/",
+      "summary": "Hundreds had urged Ohio State University to remove Les Wexner's name from campus buildings over his connections to Jeffrey Epstein.",
+      "published": "2026-11-09T19:57:03+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Six Stolen Picassos Found Under Pile of Clothes in French Home",
+      "url": "https://hyperallergic.com/six-stolen-picassos-found-under-pile-of-clothes-in-french-home/",
+      "summary": "Seven suspects were arrested in connection with the theft of the prints from L’Amandier restaurant in the south of France.",
+      "published": "2026-11-09T19:31:25+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "New Archaeological Discoveries Made at Etruscan Necropolis in Italy",
+      "url": "https://www.artnews.com/art-news/news/archeological-discoveries-made-etruscan-necropolis-italy-1234805290/",
+      "summary": "Experts carrying out emergency conservation work found carved rock thrones, painted walls, and an almost intact jar featuring incised figures.",
+      "published": "2026-11-09T19:30:01+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, E",
+      "published": "2026-11-09T19:28:49-05:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Former Philadelphia Museum CFO Claims Severance Was Withheld as ‘Retaliation’",
+      "url": "https://www.artnews.com/art-news/news/philadelphia-museum-cfo-lawsuit-severance-1234805288/",
+      "summary": "In response, the museum claimed she wiped a cellphone containing records potentially relevant to Sasha Suda’s wrongful termination lawsuit.",
+      "published": "2026-11-09T19:28:12+00:00"
+    },
+    {
+      "sourceId": "nieman",
+      "title": "Student journalists are reporting more local news for real audiences. Their professors are exhausted.",
+      "url": "https://www.niemanlab.org/2026/11/student-journalists-are-reporting-more-local-news-for-real-audiences-their-professors-are-exhausted/",
+      "summary": "If there’s one big takeaway from the past two decades of local news struggle — the often perilous, occasionally brilliant transition from dominant newspapers to online media — perhaps it’s this: Passion alone isn’t enoug",
+      "published": "2026-11-09T18:52:46+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "What could China get from Jensen Huang?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. N",
+      "published": "2026-11-09T18:51:58-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Here’s what Trump said he knew about Jensen Huang",
+      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had ",
+      "published": "2026-11-09T18:47:46-05:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Only Known Manuscript of MLK's \"I Have a Dream\" Could Fetch $10M at Auction",
+      "url": "https://hyperallergic.com/only-known-manuscript-of-mlks-i-have-a-dream-could-fetch-10m-at-auction/",
+      "summary": "The public will be able to view the handwritten final draft of the iconic speech at Christie's New York before it goes under the hammer in January.",
+      "published": "2026-11-09T18:16:23+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since ",
+      "published": "2026-11-09T18:07:59-05:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Arpita Singh, Indian Painter Who Merged Fantasy and Gritty Realism, Dies at 89",
+      "url": "https://www.artnews.com/art-news/news/arpita-singh-painter-dead-1234805112/",
+      "summary": "An acclaimed 2025 survey in London made her an international star.",
+      "published": "2026-11-09T17:43:01+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "In Viral Stunt, Hundreds Try and Fail to Move Anish Kapoor’s ‘Bean’ Seven Inches to the Left, To Help the Man Supposedly Trapped Inside",
+      "url": "https://www.artnews.com/art-news/news/viral-stunt-anish-kapoor-move-bean-man-trapped-inside-1234805130/",
+      "summary": "According to the local alderman, there is not a man trapped inside.",
+      "published": "2026-11-09T17:36:48+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Rare Jan van Huysum Pendant Paintings Head to Christie’s for $10.7 M.",
+      "url": "https://www.artnews.com/art-news/news/jan-van-huysums-paintings-christies-sale-1234805129/",
+      "summary": "In June, Christie’s sold Jan van Huysum’s Peaches and grapes in a wicker basket for $8.65 million.",
+      "published": "2026-11-09T17:34:19+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "The World’s Best Biennial Is in St. Louis",
+      "url": "https://www.artnews.com/art-in-america/aia-reviews/counterpublic-st-louis-triennial-tony-cokes-ryan-trecartin-glenn-ligon-1234804769/",
+      "summary": "In St. Louis, new commissions blur the line between art and infrastructure.",
+      "published": "2026-11-09T17:02:49+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
+      "url": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
+      "summary": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI’s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manufacturer warranty for $",
+      "published": "2026-11-09T16:43:41-05:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Andy Warhol's Habibi Phase in Kuwait",
+      "url": "https://hyperallergic.com/andy-warhols-habibi-phase-in-kuwait/",
+      "summary": "Raed Yassin's exhibition “Warhol of Arabia” reimagines the pop artist's 1977 visit to the Gulf country and a bygone era in the Middle East.",
+      "published": "2026-11-09T16:32:43+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "The global pledge to use AI for climate good is a cruel joke",
+      "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
+      "summary": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love beer ",
+      "published": "2026-11-09T16:13:16-05:00"
     },
     {
       "sourceId": "filmmaker",
@@ -43,11 +218,32 @@
       "published": "2026-11-09T15:40:02+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "Chicago Crowds Try and Fail to Move Anish Kapoor’s Bean, Art Lawyer Michael Ward Stout Has Died, Louvre President Says Mona Lisa’s Move Will Be Sad, and More",
-      "url": "https://www.artnews.com/art-news/news/chicago-crowds-try-and-fail-to-move-anish-kapoors-bean-1234805106/",
-      "summary": "Here's what we're reading this morning.",
-      "published": "2026-11-09T14:20:00+00:00"
+      "sourceId": "verge",
+      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49",
+      "published": "2026-11-09T14:09:58-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, ",
+      "published": "2026-11-09T14:00:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "You can grab three months of Game Pass Ultimate for under $20 per month",
+      "url": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale",
+      "summary": "The price of Xbox Game Pass Ultimate has fluctuated between $20 and $30 per month over the last year, but you can get three months of the top plan for around $19 per month. At Newegg, using the coupon code BNWF2656 at ch",
+      "published": "2026-11-09T13:35:25-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+      "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+      "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it ha",
+      "published": "2026-11-09T13:07:23-05:00"
     },
     {
       "sourceId": "hyperallergic",
@@ -57,109 +253,11 @@
       "published": "2026-11-09T11:00:00+00:00"
     },
     {
-      "sourceId": "verge",
-      "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
-      "summary": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claim",
-      "published": "2026-11-09T10:50:38-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Disney and Adobe are building generative AI tools together",
-      "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
-      "summary": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, ",
-      "published": "2026-11-09T10:38:56-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Hold up — I had a great time talking to the RIAA guy",
-      "url": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
-      "summary": "Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA became everyone’s villain for suing kids",
-      "published": "2026-11-09T10:30:00-05:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "The 13 Best London Museums to Visit",
-      "url": "https://www.artnews.com/list/art-news/artists/best-london-museums-to-visit-1234804828/",
-      "summary": "London’s numerous museums, many of them free to enter, feature some of the best art, history, science, and cultural collections in the world",
-      "published": "2026-11-09T10:30:00+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Medium is launching a new note-taking app called TK",
-      "url": "https://www.theverge.com/tech/1029676/medium-tk-notes-app",
-      "summary": "For the first time ever, Medium is becoming more than just a blogging platform. The company is launching a new app, called TK, that combines note taking and journaling with something resembling a private social network. ",
-      "published": "2026-11-09T10:04:45-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "How to shop like a pro during Black Friday and Cyber Monday",
-      "url": "https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find",
-      "summary": "Despite Amazon and other retailers filling the summer and fall months with more sales than ever before, Black Friday and Cyber Monday remain the biggest shopping days of the year. And, in recent years, the sale periods h",
-      "published": "2026-11-09T10:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Here are the price-matching policies for Best Buy, Walmart, and others",
-      "url": "https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft",
-      "summary": "Nothing is more frustrating than buying a new pair of headphones or an OLED TV, only to find out you could have gotten it cheaper somewhere else a few days or weeks later. That’s why, to keep customers happy and prevent ",
-      "published": "2026-11-09T10:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Here’s when the Black Friday sales start at Walmart, Target, and other retailers",
-      "url": "https://www.theverge.com/21569881/black-friday-deals-start-time-hours-cyber-monday-stores",
-      "summary": "Black Friday officially kicks off on November 27th, but if you plan to make that the only day you buy gifts this holiday season, you’re missing out. Several prominent retailers, including Best Buy and Walmart, are prepar",
-      "published": "2026-11-09T10:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Here are the shipping and return policies for all the big-name retailers",
-      "url": "https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon",
-      "summary": "With the holidays quickly approaching, everyone will soon be on the hunt for gifts and the fastest way to get them. Thankfully, many retailers offer generous shipping policies, with some even providing free two-day shipp",
-      "published": "2026-11-09T10:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "We’re giving away a bag filled with almost $900 worth of tech for Black Friday",
-      "url": "https://www.theverge.com/gadgets/1024433/black-friday-2026-giveaway-sweepstakes",
-      "summary": "As we inch toward the gift-giving season, which officially kicks off with Black Friday, we thought it’d be the perfect time for another giveaway. As with previous sweepstakes, we raided The Verge’s tech closet and stuffe",
-      "published": "2026-11-09T10:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "The Verge’s guide to Black Friday 2026",
-      "url": "https://www.theverge.com/gadgets/1027765/black-friday-cyber-monday-guide-2026",
-      "summary": "Whether you’re hoping to finally upgrade your TV or simply get a head start on your holiday shopping, Black Friday still offers one of the best opportunities to save on the gadgets we prize most at The Verge. From wirele",
-      "published": "2026-11-09T10:00:00-05:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Death Row’s Last Meals Anchor a Museum-Wide Survey of Incarceration Art",
-      "url": "https://www.artnews.com/art-news/reviews/grand-rapids-museum-of-art-hosts-surveys-of-prison-art-1234804902/",
-      "summary": "From now through January 2027, the Grand Rapids Art Museum is host to three solo exhibitions of art by or about people once incarcerated within the United States.",
-      "published": "2026-11-07T13:40:00+00:00"
-    },
-    {
       "sourceId": "hyperallergic",
       "title": "Please Don’t Sit on the Flowers",
       "url": "https://hyperallergic.com/please-dont-sit-on-the-flowers/",
       "summary": "Long-lost Georgia O’Keeffe landscape goes to auction, Brancusi gets lost at MoMA, interview with Doris Salcedo, and is showing at documenta worth it?",
       "published": "2026-11-07T11:00:00+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "How Going Blind Made Doris Salcedo’s Art Bigger and Better",
-      "url": "https://www.artnews.com/art-news/artists/doris-salcedo-blind-white-cube-house-hair-1234804779/",
-      "summary": "The Colombian artist spent three years crafting a monumental structure out of human hair for her new show at White Cube in New York.",
-      "published": "2026-11-07T10:00:00+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "A New Hudson Valley Art Space Promises to Be As Accessible as It Is In Flux",
-      "url": "https://www.artnews.com/art-news/news/branchline-gochman-family-collection-opening-1234805014/",
-      "summary": "Branchline in Katonah, New York, opens November 6 with an exhibition 'Line Break' of Indigenous artists.",
-      "published": "2026-11-06T23:16:14+00:00"
     },
     {
       "sourceId": "hyperallergic",
@@ -176,81 +274,11 @@
       "published": "2026-11-06T21:32:13+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "President Trump Moves to Make Oval Office a Public Monument",
-      "url": "https://www.artnews.com/art-news/news/trump-proclamation-seeks-oval-office-national-monument-1234804961/",
-      "summary": "In his second term, Trump made it a priority to redecorate both the Oval Office and the Cabinet Room",
-      "published": "2026-11-06T20:57:36+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Meg Onli and Zack Winokur to Curate 2028 Whitney Biennial",
-      "url": "https://hyperallergic.com/meg-onli-and-zack-winokur-to-curate-2028-whitney-biennial/",
-      "summary": "Having co-curated the 2024 Biennial, Onli returns to the next edition with Winokur, who founded the American Modern Opera Company.",
-      "published": "2026-11-06T19:24:39+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Andy Warhol’s ‘Camouflage’ Portraits Inspired Piaget’s New Limited-Edition Watch",
-      "url": "https://www.artnews.com/art-news/news/andy-warhol-piaget-camouflage-watch-1234804925/",
-      "summary": "This is the second time the watchmaker has collaborated with the Warhol Foundation.",
-      "published": "2026-11-06T18:51:44+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "DC Protesters Slam Trump's Fascist Triumphal Arch",
-      "url": "https://hyperallergic.com/dc-protesters-slam-trumps-fascist-triumphal-arch/",
-      "summary": "A group of 50 used puppets and a fake arch to deliver the point that Americans are against the \"Arc de Trump.\"",
-      "published": "2026-11-06T18:45:25+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Miami Beach Dealer Faces Another Lawsuit from Artist Alleging Non-Payment",
-      "url": "https://www.artnews.com/art-news/news/gabriel-kilongo-lawsuit-yirui-jia-jupiter-gallery-1234804928/",
-      "summary": "It is the fourth lawsuit that Gabriel Kilongo has faced in the past two years.",
-      "published": "2026-11-06T18:33:37+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Carsten Höller’s Spiraling Silver Slides Appear in Mexico City as a Permanent Installation",
-      "url": "https://www.artnews.com/art-news/news/carsten-hollers-slides-appear-mexico-city-installation-1234804936/",
-      "summary": "The Mexico City Slides installation ranges from 12 to 38 metres in height and 31 to 90 metres in length",
-      "published": "2026-11-06T18:20:50+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Jordan Poorman Cocker’s Vision of Global Indigeneity",
-      "url": "https://hyperallergic.com/jordan-poorman-cockers-vision-of-global-indigeneity/",
-      "summary": "The curator, who just organized a major rehang of Indigenous art at Crystal Bridges, reflects on the ways institutions can create space for Native artists to flourish.",
-      "published": "2026-11-06T16:56:02+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "A View From the Easel: Natali Bravo-Barbee",
-      "url": "https://hyperallergic.com/a-view-from-the-easel-natali-bravo-barbee/",
-      "summary": "“As a mother, there are so many spaces in my life that are organized around other people’s needs. The studio is a space where I get to return to myself.”",
-      "published": "2026-11-06T16:14:35+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Intermedia + Digital Arts MFA Program at UMBC Now Accepting Applications",
-      "url": "https://hyperallergic.com/intermedia-digital-arts-mfa-program-at-umbc-now-accepting-applications/",
-      "summary": "Funding for tuition, healthcare, and stipends is available. Apply to the University of Maryland, Baltimore County program by Feb 1 to be considered for financial support.",
-      "published": "2026-11-06T16:00:00+00:00"
-    },
-    {
       "sourceId": "nieman",
       "title": "The Nieman Lab News-About-News Quiz, November 6, 2026",
       "url": "https://www.niemanlab.org/2026/11/the-nieman-lab-news-about-news-quiz-november-6-2026/",
       "summary": "What a week! Recap it with the second edition of the Nieman Lab News-About-News Quiz, your weekly incentive to keep up with the latest happenings in the world of digital journalism. All questions are based on the week’s ",
       "published": "2026-11-06T13:30:40+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Met Gala’s New Theme Is So Basic",
-      "url": "https://hyperallergic.com/met-galas-new-theme-is-so-basic/",
-      "summary": "Brancusi at MoMA, trouble at Pace, a rediscovered Georgia O'Keeffe painting, and The Met presents the biggest rescission indicator yet.",
-      "published": "2026-11-06T11:00:00+00:00"
     },
     {
       "sourceId": "nieman",
@@ -260,25 +288,11 @@
       "published": "2026-11-05T23:27:49+00:00"
     },
     {
-      "sourceId": "hyperallergic",
-      "title": "It’s Time to Talk About Classism in the Art World",
-      "url": "https://hyperallergic.com/its-time-to-talk-about-classism-in-the-art-world/",
-      "summary": "In his memoiristic new book, photographer Mark Alice Durant weaves his personal experiences into a larger rebuke of the economic inequality that governs the art world.",
-      "published": "2026-11-05T21:56:38+00:00"
-    },
-    {
       "sourceId": "nieman",
       "title": "With “Bimbo University,” Nikita Redkar leans into femininity to explain the news",
       "url": "https://www.niemanlab.org/2026/11/with-bimbo-university-nikita-redkar-leans-into-femininity-to-explain-the-news/",
       "summary": "For Nikita Redkar, a big part of filming a video is putting together an outfit. In a July video about youth-led protests in India, the 33-year-old is walking around New York City explaining how movements grow when people",
       "published": "2026-11-05T21:03:35+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Met Gala's New Theme Is the Biggest Recession Indicator Yet",
-      "url": "https://hyperallergic.com/met-galas-new-theme-is-the-biggest-recession-indicator-yet/",
-      "summary": "Brace yourself for A-listers strutting down the red carpet in everyday garb like jeans, T-shirts, and \"humble, even 'disposable' materials.\"",
-      "published": "2026-11-05T20:59:11+00:00"
     },
     {
       "sourceId": "nieman",
@@ -365,25 +379,11 @@
       "published": "2026-10-29T20:52:01+00:00"
     },
     {
-      "sourceId": "nieman",
-      "title": "Only 32% of Americans have high confidence that news orgs will report midterm election results accurately, survey finds",
-      "url": "https://www.niemanlab.org/2026/10/only-32-of-americans-have-high-confidence-that-news-orgs-will-report-midterm-election-results-accurately/",
-      "summary": "About six in 10 Americans said they have at least “some” confidence that news organizations will report the upcoming midterm election results accurately, according to a new national survey. But only 32% said they had “qu",
-      "published": "2026-10-29T18:35:18+00:00"
-    },
-    {
       "sourceId": "filmmaker",
       "title": "Diego Marcon’s Kids Are Not All Right",
       "url": "https://filmmakermagazine.com/134583-diego-marcons-kids-are-not-all-right/",
       "summary": "[Please note that the following article contains graphic imagery and description. —Eds.] Diego Marcon’s videos merge the misadventures of coming of age with the whimsical terror of Grimm’s Fairy Tales, telling tales of f",
       "published": "2026-10-29T15:12:33+00:00"
-    },
-    {
-      "sourceId": "nieman",
-      "title": "The New York Times is adding more AI features to its Cooking app, and users aren’t thrilled",
-      "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
-      "summary": "Sometimes, adding just one new ingredient to a stew can ruin the whole thing.[sidenote]Olives, yecch.[/sidenote] And that’s how at least some New York Times readers see its addition of AI features to its popular Cooking ",
-      "published": "2026-10-28T18:51:20+00:00"
     },
     {
       "sourceId": "filmmaker",
