@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T01:31:49.018369+00:00",
+  "updatedAt": "2026-11-10T14:53:26.869123+00:00",
   "sources": [
     {
       "id": "hyperallergic",
@@ -28,6 +28,125 @@
     }
   ],
   "items": [
+    {
+      "sourceId": "artnews",
+      "title": "Zohran Mamdani Visited MoMA’s West African Modern Architecture Survey and Loved It",
+      "url": "https://www.artnews.com/art-news/news/zohran-mamdani-moma-west-african-architecture-kader-attia-1234805397/",
+      "summary": "He specifically admired a monumental sculpture by Kader Attia.",
+      "published": "2026-11-10T14:41:21+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Only Known Handwritten Draft of Martin Luther King Jr.’s ‘I Have a Dream’ Speech Could Top $10 M. at Christie’s",
+      "url": "https://www.artnews.com/art-news/market/martin-luther-king-i-have-a-dream-draft-christies-auction-1234805390/",
+      "summary": "Christie's will offer the manuscript in a single-lot sale in January.",
+      "published": "2026-11-10T14:05:10+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Julia Stoschek Collection to Celebrate 20 Years with ‘Selfish in Bed’ Exhibition and Düsseldorf Reopening",
+      "url": "https://www.artnews.com/art-news/news/julia-stoschek-collection-selfish-in-bed-20th-anniversary-1234805311/",
+      "summary": "“I am a very emotional collector,” Stoschek said. “An artwork has to get under my skin. I need images that stay with me.”",
+      "published": "2026-11-10T14:00:00+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Contemporary Stained-Glass Windows Installed in Notre-Dame, Spanish Man Awarded $1.12 M. for Renaissance Door Discovery, and More: Morning Links for November 10, 2026",
+      "url": "https://www.artnews.com/art-news/news/contemporary-stained-glass-windows-installed-in-notre-dame-1234805395/",
+      "summary": "Here's what we're reading this morning.",
+      "published": "2026-11-10T13:30:00+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Mona Chalabi on Money and Art",
+      "url": "https://hyperallergic.com/mona-chalabi-on-money-and-art/",
+      "summary": "An interview with the Pulitzer Prize winner, Lori Waxman on bringing sexy back in Chicago, stolen Picasso prints found, and the problem with clouds.",
+      "published": "2026-11-10T11:00:00+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "The Most Expensive Artworks by Pablo Picasso Ever Sold at Auction",
+      "url": "https://www.artnews.com/list/art-news/artists/pablo-picasso-highest-auction-records-1234594915/",
+      "summary": "“He is in many ways the gold standard of the art market,” said mega dealer Larry Gagosian.",
+      "published": "2026-11-10T10:30:00+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Collectors Jill and Peter Kraus Want Artists to Look at Their Upstate New York Property and React to It",
+      "url": "https://www.artnews.com/art-news/news/collectors-jill-and-peter-kraus-open-house-tour-1234805031/",
+      "summary": "The Krauses have filled their expansive country property with nearly 20 site-specific commissions.",
+      "published": "2026-11-10T10:00:00+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles",
+      "url": "https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support",
+      "summary": "Rockstar Games is making Grand Theft Auto VI available on Xbox Cloud Gaming when it launches next week. While you'd normally assume that would mean Grand Theft Auto VI would be available to stream on PCs, the web, Xbox c",
+      "published": "2026-11-10T09:37:09-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Anthropic targets $1.4 trillion IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+      "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its va",
+      "published": "2026-11-10T09:06:54-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Aura’s next color E Ink photo frame is smaller, cheaper, sharper, and more colorful",
+      "url": "https://www.theverge.com/tech/1027926/aura-e-ink-digital-photo-frame-10-inch-price-availability",
+      "summary": "Aura just launched a smaller version of its color E Ink frame with a handful of improvements and a more affordable price. The new Aura Ink frame features a 10-inch E Ink panel that can display more colors at a higher pix",
+      "published": "2026-11-10T09:00:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Peak Design’s Roller Lite Carry-On is bigger on the inside — and cheaper, too",
+      "url": "https://www.theverge.com/tech/1030186/peak-design-roller-lite-carry-on-review",
+      "summary": "When we sampled Peak Design's Roller Pro last year, we loved almost everything about the camera gear powerhouse's first attempt at a proper suitcase. Everything, that is, except for the price. Back then, during its crowd",
+      "published": "2026-11-10T09:00:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Adobe is going all in on agentic AI",
+      "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+      "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced ",
+      "published": "2026-11-10T09:00:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+      "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
+      "summary": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe's Max event today in",
+      "published": "2026-11-10T09:00:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Amazon turned its Alexa robot into a Ring security patrol bot",
+      "url": "https://www.theverge.com/tech/1030282/amazon-ring-robotics-rover-cam-4k-security-business",
+      "summary": "As part of a new brand called Ring Robotics - designed to take a more proactive approach to security instead of just monitoring - a new rolling mobile security camera was announced by Amazon, called the Ring Rover Cam. I",
+      "published": "2026-11-10T08:30:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Hands-on with Ring’s new AI drone camera for your home",
+      "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+      "summary": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week.",
+      "published": "2026-11-10T08:30:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Seagate’s FireCuda Forge moves your data between a hard drive and SSD for better performance",
+      "url": "https://www.theverge.com/tech/1029665/seagate-firecuda-forge-hybrid-ssd-hard-drive-storage-alkemi-technology",
+      "summary": "Seagate announced a new external storage solution, called the FireCuda Forge, that combines the speed benefits of an SSD with the affordability of a higher-capacity hard drive. The Forge is the first drive that's powered",
+      "published": "2026-11-10T06:01:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Real Motors’ Project Ares is a cyberpunk fantasy made real",
+      "url": "https://www.theverge.com/transportation/1029837/real-motors-project-ares-electric-motorcycle-first-ride",
+      "summary": "Electrification has done wonderful things for motorcycle design. By getting rid of the engine and the fuel tank that supports it, designers have the freedom to do whatever they want, and the results have been occasionall",
+      "published": "2026-11-10T06:00:00-05:00"
+    },
     {
       "sourceId": "hyperallergic",
       "title": "Mona Chalabi Paints a Picture of Class Inequality",
@@ -106,46 +225,11 @@
       "published": "2026-11-09T19:31:25+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "New Archaeological Discoveries Made at Etruscan Necropolis in Italy",
-      "url": "https://www.artnews.com/art-news/news/archeological-discoveries-made-etruscan-necropolis-italy-1234805290/",
-      "summary": "Experts carrying out emergency conservation work found carved rock thrones, painted walls, and an almost intact jar featuring incised figures.",
-      "published": "2026-11-09T19:30:01+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, E",
-      "published": "2026-11-09T19:28:49-05:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Former Philadelphia Museum CFO Claims Severance Was Withheld as ‘Retaliation’",
-      "url": "https://www.artnews.com/art-news/news/philadelphia-museum-cfo-lawsuit-severance-1234805288/",
-      "summary": "In response, the museum claimed she wiped a cellphone containing records potentially relevant to Sasha Suda’s wrongful termination lawsuit.",
-      "published": "2026-11-09T19:28:12+00:00"
-    },
-    {
       "sourceId": "nieman",
       "title": "Student journalists are reporting more local news for real audiences. Their professors are exhausted.",
       "url": "https://www.niemanlab.org/2026/11/student-journalists-are-reporting-more-local-news-for-real-audiences-their-professors-are-exhausted/",
       "summary": "If there’s one big takeaway from the past two decades of local news struggle — the often perilous, occasionally brilliant transition from dominant newspapers to online media — perhaps it’s this: Passion alone isn’t enoug",
       "published": "2026-11-09T18:52:46+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "What could China get from Jensen Huang?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. N",
-      "published": "2026-11-09T18:51:58-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Here’s what Trump said he knew about Jensen Huang",
-      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
-      "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had ",
-      "published": "2026-11-09T18:47:46-05:00"
     },
     {
       "sourceId": "hyperallergic",
@@ -155,48 +239,6 @@
       "published": "2026-11-09T18:16:23+00:00"
     },
     {
-      "sourceId": "verge",
-      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since ",
-      "published": "2026-11-09T18:07:59-05:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Arpita Singh, Indian Painter Who Merged Fantasy and Gritty Realism, Dies at 89",
-      "url": "https://www.artnews.com/art-news/news/arpita-singh-painter-dead-1234805112/",
-      "summary": "An acclaimed 2025 survey in London made her an international star.",
-      "published": "2026-11-09T17:43:01+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "In Viral Stunt, Hundreds Try and Fail to Move Anish Kapoor’s ‘Bean’ Seven Inches to the Left, To Help the Man Supposedly Trapped Inside",
-      "url": "https://www.artnews.com/art-news/news/viral-stunt-anish-kapoor-move-bean-man-trapped-inside-1234805130/",
-      "summary": "According to the local alderman, there is not a man trapped inside.",
-      "published": "2026-11-09T17:36:48+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Rare Jan van Huysum Pendant Paintings Head to Christie’s for $10.7 M.",
-      "url": "https://www.artnews.com/art-news/news/jan-van-huysums-paintings-christies-sale-1234805129/",
-      "summary": "In June, Christie’s sold Jan van Huysum’s Peaches and grapes in a wicker basket for $8.65 million.",
-      "published": "2026-11-09T17:34:19+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "The World’s Best Biennial Is in St. Louis",
-      "url": "https://www.artnews.com/art-in-america/aia-reviews/counterpublic-st-louis-triennial-tony-cokes-ryan-trecartin-glenn-ligon-1234804769/",
-      "summary": "In St. Louis, new commissions blur the line between art and infrastructure.",
-      "published": "2026-11-09T17:02:49+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
-      "url": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
-      "summary": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI’s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manufacturer warranty for $",
-      "published": "2026-11-09T16:43:41-05:00"
-    },
-    {
       "sourceId": "hyperallergic",
       "title": "Andy Warhol's Habibi Phase in Kuwait",
       "url": "https://hyperallergic.com/andy-warhols-habibi-phase-in-kuwait/",
@@ -204,46 +246,11 @@
       "published": "2026-11-09T16:32:43+00:00"
     },
     {
-      "sourceId": "verge",
-      "title": "The global pledge to use AI for climate good is a cruel joke",
-      "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
-      "summary": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love beer ",
-      "published": "2026-11-09T16:13:16-05:00"
-    },
-    {
       "sourceId": "filmmaker",
       "title": "Albert Serra Dares to Look",
       "url": "https://filmmakermagazine.com/134766-albert-serra-dares-to-look/",
       "summary": "“I will not shoot a film about a concert. I don’t give a shit about a concert.” So was Sixteen Moments of My Life (2026), a film about a concert, introduced by its director, Albert Serra, ahead of its world premiere at L",
       "published": "2026-11-09T15:40:02+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-      "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49",
-      "published": "2026-11-09T14:09:58-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-      "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, ",
-      "published": "2026-11-09T14:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "You can grab three months of Game Pass Ultimate for under $20 per month",
-      "url": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale",
-      "summary": "The price of Xbox Game Pass Ultimate has fluctuated between $20 and $30 per month over the last year, but you can get three months of the top plan for around $19 per month. At Newegg, using the coupon code BNWF2656 at ch",
-      "published": "2026-11-09T13:35:25-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Instagram’s Effect Builder makes new filters from AI prompts",
-      "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-      "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it ha",
-      "published": "2026-11-09T13:07:23-05:00"
     },
     {
       "sourceId": "hyperallergic",
@@ -265,13 +272,6 @@
       "url": "https://hyperallergic.com/the-jewish-sisters-in-renoirs-pink-and-blue/",
       "summary": "Author Catherine Ostler follows the lives of the two cherubic girls, whose rarefied lives in an elite, artistic French family would be toppled by the horrors of the Holocaust.",
       "published": "2026-11-06T22:00:50+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Pablo Helguera to Helm the New School’s Vera List Center",
-      "url": "https://hyperallergic.com/pablo-helguera-to-helm-the-new-schools-vera-list-center/",
-      "summary": "Upon his appointment, the artist reflected on the urgency he feels to “make sense of rapidly unfolding events, question prevailing narratives, and imagine alternative futures.”",
-      "published": "2026-11-06T21:32:13+00:00"
     },
     {
       "sourceId": "nieman",
