@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T06:20:44.097108+00:00",
+  "updatedAt": "2026-11-11T19:35:58.321207+00:00",
   "sources": [
     {
       "id": "hyperallergic",
@@ -28,6 +28,195 @@
     }
   ],
   "items": [
+    {
+      "sourceId": "hyperallergic",
+      "title": "Betsy James Wyeth’s Placemaking Prowess",
+      "url": "https://hyperallergic.com/betsy-james-wyeths-placemaking-prowess/",
+      "summary": "A wide-ranging book and exhibition reveal the ways the multi-hyphenate’s architectural-environmental projects shaped her husband Andrew Wyeth’s celebrated painting career.",
+      "published": "2026-11-11T19:09:29+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Trisha Baga, Laylah Ali, and Kay WalkingStick Among Anonymous Was A Woman Awardees",
+      "url": "https://hyperallergic.com/trisha-baga-laylah-ali-and-kay-walkingstick-among-anonymous-was-a-woman-awardees/",
+      "summary": "Each of the 15 artists, all over 40, will receive an unrestricted $50,000 cash award.",
+      "published": "2026-11-11T18:32:30+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "The Elie Khouri Art Foundation Appoints Sumayya Vally of Counterspace as Architect to Design the Foundation",
+      "url": "https://www.artnews.com/art-news/news/elie-khouri-art-foundation-appoints-sumayya-vally-architect-1234805538/",
+      "summary": "The foundation will house Khouri’s art collection, featuring works by Julie Curtiss, Gunther Förg, Carol Bove, Dana Schutz, Kehinde Wiley, and more.",
+      "published": "2026-11-11T17:24:12+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Balenciaga Collaborates with Damien Hirst on ‘Damienciaga’ Collection",
+      "url": "https://www.artnews.com/art-news/news/balenciaga-collaborates-damien-hirst-damienciaga-collection-1234805544/",
+      "summary": "The collaboration is to kick off Balenciaga’s 25th anniversary of its Le City handbag.",
+      "published": "2026-11-11T17:20:12+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Ted Turner’s Western Art Collection to Sell at Christie’s for $20 M.",
+      "url": "https://www.artnews.com/art-news/market/ted-turner-western-art-collection-christies-sale-1234805555/",
+      "summary": "Works by Albert Bierstadt and Thomas Moran will headline the sale in January.",
+      "published": "2026-11-11T17:15:27+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Anne Anlin Cheng and Patty Chang on Beauty and Violence",
+      "url": "https://hyperallergic.com/anne-anlin-cheng-and-patty-chang-on-beauty-and-violence/",
+      "summary": "The scholar and artist discuss the afterlives of anti-Asian violence, the tender possibilities of rupture, the beauty of squids, and more.",
+      "published": "2026-11-11T16:30:00+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Art Basel Paris to Give Galleries a 20% Discount After Early Closure",
+      "url": "https://hyperallergic.com/art-basel-paris-to-give-galleries-a-20-discount-after-early-closure/",
+      "summary": "The announcement comes two weeks after an industry group penned a letter demanding compensation and accusing event organizers of “disrespect, even contempt.\"",
+      "published": "2026-11-11T16:20:00+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Art Week NYC Kicks off at Metropolitan Museum of Art with New York Pols and Art Leaders",
+      "url": "https://www.artnews.com/art-news/news/art-week-nyc-kicks-off-metropolitan-museum-art-1234805478/",
+      "summary": "New York politicians touted their generous investments in the arts.",
+      "published": "2026-11-11T15:38:54+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "New Richard Avedon Documentary Shows That Fashion Isn’t All Style—It’s Substance, Too",
+      "url": "https://www.artnews.com/art-news/reviews/avedon-netflix-review-ron-howard-fashion-style-substance-1234805443/",
+      "summary": "The documentary echoes the glitz and extravagance of fashion publishing’s bygone era of hefty budgets and creative freedom.",
+      "published": "2026-11-11T15:28:51+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Art Problems: Should I Get an MFA?",
+      "url": "https://hyperallergic.com/art-problems-should-i-get-an-mfa/",
+      "summary": "Paddy Johnson breaks down the factors to consider when applying for your master’s, from loans and salaries to professional development.",
+      "published": "2026-11-11T15:25:00+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "“Free Lyric” Tells the Story of a Young Black Female Rapper Cancelled for Her “Provocative” Lyrics",
+      "url": "https://hyperallergic.com/free-lyric-tells-the-story-of-a-young-black-female-rapper-cancelled-for-her-provocative-lyrics/",
+      "summary": "Watch the new documentary by BAFTA award-winning filmmaker Cherish ‘Chez’ Oteka on Field of Vision.",
+      "published": "2026-11-11T15:15:00+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Contemporary Beadworker Ken Williams Jr Awarded Rakow Commission by Corning Museum of Glass",
+      "url": "https://hyperallergic.com/contemporary-beadworker-ken-williams-jr-awarded-rakow-commission-by-corning-museum-of-glass/",
+      "summary": "Marking the prize’s 40th year, \"I Am the Hungry Cat\" is the first Rakow Commission awarded for beadwork.",
+      "published": "2026-11-11T15:15:00+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Art Basel Offers 20 Percent Reduction on Exhibitor Booth Fees Due to Early Closure of Paris Fair, Tracey Emin’s New Arts and Community Space in Margate Greenlit, and More: Morning ",
+      "url": "https://www.artnews.com/art-news/news/art-basel-paris-offers-20-percent-reduction-fees-1234805542/",
+      "summary": "Here's what we're reading this morning.",
+      "published": "2026-11-11T14:45:00+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Art Basel to Reduce Galleries’ Invoices by 20 Percent Due to Early Closure of Paris Fair",
+      "url": "https://www.artnews.com/art-news/market/art-basel-to-grant-20-discount-to-exhibitors-in-october-paris-edition-which-closed-early-1234805454/",
+      "summary": "“We felt that a 20 percent reduction was a fair and reasonable place to land,” Art Basel CEO Noah Horowitz told ARTnews.",
+      "published": "2026-11-11T14:05:00+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
+      "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
+      "summary": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU ",
+      "published": "2026-11-11T13:13:52-05:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Anonymous Was A Woman 2026 Recipients Include Kay WalkingStick, Trisha Baga, and Beatriz Cortez",
+      "url": "https://www.artnews.com/art-news/news/anonymous-was-a-woman-2026-award-recipients-1234805492/",
+      "summary": "The 15 winners will each receive $50,000.",
+      "published": "2026-11-11T13:00:00+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
+      "url": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
+      "summary": "Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, \"Scion by Toyota\" is being positioned as an experimental mobility incubator - and its first vehicle ",
+      "published": "2026-11-11T12:09:58-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+      "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with wor",
+      "published": "2026-11-11T11:00:00-05:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "A New Home for Native Art in New York",
+      "url": "https://hyperallergic.com/a-new-home-for-native-art-in-new-york/",
+      "summary": "Inside the Gochman Family Collection’s Katonah space, artist Miles Greenberg takes us behind the scenes of his latest performance, and celebrating 10 years of Mrs. gallery.",
+      "published": "2026-11-11T11:00:00+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "The best early Black Friday deals you can already shop",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "summary": "The countdown to Black Friday is on, and the first discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite ",
+      "published": "2026-11-11T10:53:55-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Sharge’s eye-catching MacBook charger is over 25 percent off",
+      "url": "https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale",
+      "summary": "Looking for a MacBook and device charger that’s as stylish as it is capable? Both Amazon and Sharge are selling the Pixel 140W GaN charger for $69.88 and $69.90, respectively, a $24 discount on its usual price. If you’re",
+      "published": "2026-11-11T10:30:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Ocarina of Time is even better if you use a smartphone app",
+      "url": "https://www.theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula",
+      "summary": "I never liked hunting for Golden Skulltulas in The Legend of Zelda: Ocarina of Time. The game has 100 of them tucked all over Hyrule, and even over my many hours with the N64 classic growing up, I can't remember ever act",
+      "published": "2026-11-11T10:00:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold imp",
+      "published": "2026-11-11T10:00:00-05:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "RM’s SFMOMA Show Changed My Mind About Celebrity Curators",
+      "url": "https://www.artnews.com/art-news/reviews/rm-sfmoma-review-1234805463/",
+      "summary": "When fame becomes the main draw, what happens to the art?",
+      "published": "2026-11-11T10:00:00+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price",
+      "url": "https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on",
+      "summary": "It's tempting to seek out the do-everything wireless gaming headset with noise cancellation, phenomenal sound quality, multiplatform connectivity, swappable batteries - you name it. But if you just want the basics done w",
+      "published": "2026-11-11T09:00:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+      "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+      "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform image",
+      "published": "2026-11-11T09:00:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Streaming is still trying to be TikTok",
+      "url": "https://www.theverge.com/streaming/1030864/streaming-skydance-paramount-disney-hulu-earnings-tiktok-short-form-video",
+      "summary": "At Skydance's first employee town hall after it acquired Warner Bros. Discovery in October, CEO David Ellison told staff that the company behind Paramount Plus and HBO Max was competing for people's attention with some o",
+      "published": "2026-11-11T08:30:00-05:00"
+    },
     {
       "sourceId": "artnews",
       "title": "Museum Organizations Call Bipartisan Infrastruture Bill a ‘Sweeping Assault’ on Historic and Sacred Places",
@@ -64,34 +253,6 @@
       "published": "2026-11-10T21:57:42+00:00"
     },
     {
-      "sourceId": "hyperallergic",
-      "title": "Mexican Duo RojoNegro Installs Colossal Work on UC San Diego Campus",
-      "url": "https://hyperallergic.com/mexican-duo-rojonegro-installs-colossal-work-on-uc-san-diego-campus/",
-      "summary": "María Sosa and Noé Martínez, the Michoacán artists representing Mexico at the Venice Biennale, hand-painted 260 ceramic tiles for the installation.",
-      "published": "2026-11-10T21:46:17+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Man Who Discovered Renaissance Church Facade Hidden in His House to Receive €1 M. Reward",
-      "url": "https://www.artnews.com/art-news/news/renaissance-church-facade-spain-million-euro-reward-1234805455/",
-      "summary": "The monument itself remains in limbo.",
-      "published": "2026-11-10T21:28:16+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Oxford University Museum Returns 39 Sets of Ancestral Remains to Naga People of India",
-      "url": "https://www.artnews.com/art-news/news/pitt-rivers-museum-oxford-returns-naga-ancestral-remains-1234805458/",
-      "summary": "The remains, primarily human skulls, were taken during the British colonial rule of India and Burma (now Myanmar) and have been in the museum’s collection for more than a century.",
-      "published": "2026-11-10T20:52:31+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Trump Proclaims Gold-Studded Oval Office a National Monument",
-      "url": "https://hyperallergic.com/trump-proclaims-gold-studded-oval-office-a-national-monument/",
-      "summary": "\"It will not be allowed to be touched by anybody,” Trump said, which is flatly not true, as anyone can reverse the proclamation.",
-      "published": "2026-11-10T20:47:26+00:00"
-    },
-    {
       "sourceId": "nieman",
       "title": "Some local news outlets are losing physical newsrooms",
       "url": "https://www.niemanlab.org/2026/11/some-local-news-outlets-are-losing-physical-newsrooms/",
@@ -99,172 +260,11 @@
       "published": "2026-11-10T20:47:26+00:00"
     },
     {
-      "sourceId": "hyperallergic",
-      "title": "Susan Silton's Loud and Proud Whistle",
-      "url": "https://hyperallergic.com/susan-siltons-loud-and-proud-whistle/",
-      "summary": "A Los Angeles exhibition surveys the groundbreaking queer artist's multi-decade career, including her memorable work on the politics of vocal expression.",
-      "published": "2026-11-10T20:36:53+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Actor Says He Removed His Mother’s Art from Venice Biennale Installation as a Pro-Israel Protest",
-      "url": "https://www.artnews.com/art-news/news/art-removed-venice-biennale-denniston-hill-israel-1234805408/",
-      "summary": "Eric Rasmussen wrote that he did so in response to Denniston Hill having signed a letter against the Israeli Pavilion.",
-      "published": "2026-11-10T20:10:49+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
-      "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
-      "summary": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced ",
-      "published": "2026-11-10T19:34:24-05:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "American Alliance of Museums Makes Case for Policy Proposals Following Democrats’ Landslide Election Win",
-      "url": "https://www.artnews.com/art-news/news/american-alliance-museums-democrats-congress-election-win-1234805415/",
-      "summary": "With Democrats having secured their biggest midterm election victory in decades, AAM has put out new policy proposals to bolster the museum sector.",
-      "published": "2026-11-10T18:17:17+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "The Secret Handshake’s Latest Statue Mocks President Trump for Toe-Related Deferment to Avoid Vietnam War Draft",
-      "url": "https://www.artnews.com/art-news/news/statue-trump-mocks-five-deferments-vietnam-war-1234805419/",
-      "summary": "The statue was accompanied by a mascot, a masked individual in a big-toe costume that had nine hairs and their name “TOEY” printed in block letters.",
-      "published": "2026-11-10T17:34:16+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
-      "url": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
-      "summary": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you ca",
-      "published": "2026-11-10T17:00:00-05:00"
-    },
-    {
       "sourceId": "nieman",
       "title": "AI is becoming an information gateway. Audiences still don’t want it making their news.",
       "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
       "summary": "In my Nieman Lab prediction this time last year, I wrote that “in 2026, the use of AI as an information gateway will only rise further.” As it turns out, I was right. In new research that I published with my colleagues R",
       "published": "2026-11-10T16:47:51+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
-      "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
-      "summary": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native pri",
-      "published": "2026-11-10T16:40:31-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Sony cancels live-service shooter Fairgames",
-      "url": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
-      "summary": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some pla",
-      "published": "2026-11-10T16:06:12-05:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Call for Proposals: Roman Witt Residency at the University of Michigan",
-      "url": "https://hyperallergic.com/call-for-proposals-roman-witt-residency-at-the-university-of-michigan/",
-      "summary": "This residency at the U-M Stamps School, in partnership with the U-M Museum of Art (UMMA), offers artists a $20,000 honorarium, housing, studio space, and a culminating exhibition in UMMA’s prominent Stenn Gallery.",
-      "published": "2026-11-10T16:00:00+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Fall 2026 Art and Architecture Books from Yale University Press",
-      "url": "https://hyperallergic.com/fall-2026-art-and-architecture-books-from-yale-university-press/",
-      "summary": "The Bayeux tapestry, a new biography of Edward Hopper, The Met's exhibition catalogue on Krasner and Pollock, what architecture is, and more",
-      "published": "2026-11-10T15:35:00+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "How Miles Greenberg Got “WAR” Past the Censors",
-      "url": "https://hyperallergic.com/how-miles-greenberg-got-war-past-the-censors/",
-      "summary": "“There was not a single outlet, institution, or gallery that wanted to get behind this thing,” the artist told Hyperallergic about his new, six-hour performance piece.",
-      "published": "2026-11-10T15:30:00+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Zohran Mamdani Visited MoMA’s West African Modern Architecture Survey and Loved It",
-      "url": "https://www.artnews.com/art-news/news/zohran-mamdani-moma-west-african-architecture-kader-attia-1234805397/",
-      "summary": "He specifically admired a monumental sculpture by Kader Attia.",
-      "published": "2026-11-10T14:41:21+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "The PlayStation Plus PC app is shutting down next month",
-      "url": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
-      "summary": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but accor",
-      "published": "2026-11-10T14:40:52-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Starlink Mini 2 adds a swappable battery",
-      "url": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
-      "summary": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop. According to some users on X who share",
-      "published": "2026-11-10T14:19:12-05:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Only Known Handwritten Draft of Martin Luther King Jr.’s ‘I Have a Dream’ Speech Could Top $10 M. at Christie’s",
-      "url": "https://www.artnews.com/art-news/market/martin-luther-king-i-have-a-dream-draft-christies-auction-1234805390/",
-      "summary": "Christie's will offer the manuscript in a single-lot sale in January.",
-      "published": "2026-11-10T14:05:10+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "The US is winning the AI race. Jensen Huang could have blown it",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-      "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy wi",
-      "published": "2026-11-10T14:04:05-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Google’s Pixel Tag tracker is now available",
-      "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
-      "summary": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google",
-      "published": "2026-11-10T14:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Google is making Pixel HiLight slightly more useful",
-      "url": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
-      "summary": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: As part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite ",
-      "published": "2026-11-10T14:00:00-05:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Julia Stoschek Collection to Celebrate 20 Years with ‘Selfish in Bed’ Exhibition and Düsseldorf Reopening",
-      "url": "https://www.artnews.com/art-news/news/julia-stoschek-collection-selfish-in-bed-20th-anniversary-1234805311/",
-      "summary": "“I am a very emotional collector,” Stoschek said. “An artwork has to get under my skin. I need images that stay with me.”",
-      "published": "2026-11-10T14:00:00+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "One of our favorite multi-filament 3D printers is $100 off",
-      "url": "https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale",
-      "summary": "If you’re tired of filament jams and clogged nozzles, perhaps it’s time for a new 3D printer. Through December 1st, the Bambu Lab P2S Combo, currently one of the best models that’s easy to use, is discounted. It’s $649 a",
-      "published": "2026-11-10T13:42:03-05:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Contemporary Stained-Glass Windows Installed in Notre-Dame, Spanish Man Awarded $1.12 M. for Renaissance Door Discovery, and More: Morning Links for November 10, 2026",
-      "url": "https://www.artnews.com/art-news/news/contemporary-stained-glass-windows-installed-in-notre-dame-1234805395/",
-      "summary": "Here's what we're reading this morning.",
-      "published": "2026-11-10T13:30:00+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Mona Chalabi on Money and Art",
-      "url": "https://hyperallergic.com/mona-chalabi-on-money-and-art/",
-      "summary": "An interview with the Pulitzer Prize winner, Lori Waxman on bringing sexy back in Chicago, stolen Picasso prints found, and the problem with clouds.",
-      "published": "2026-11-10T11:00:00+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Mona Chalabi Paints a Picture of Class Inequality",
-      "url": "https://hyperallergic.com/mona-chalabi-paints-a-picture-of-class-inequality/",
-      "summary": "“The crisis is the system that we’re in,” the Pulitzer Prize-winning data journalist and artist says in an interview with Hyperallergic about her first book, “Ten Lives.”",
-      "published": "2026-11-09T23:02:33+00:00"
     },
     {
       "sourceId": "nieman",
