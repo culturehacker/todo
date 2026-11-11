@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T23:22:49.855072+00:00",
+  "updatedAt": "2026-11-11T06:20:44.097108+00:00",
   "sources": [
     {
       "id": "hyperallergic",
@@ -111,6 +111,13 @@
       "url": "https://www.artnews.com/art-news/news/art-removed-venice-biennale-denniston-hill-israel-1234805408/",
       "summary": "Eric Rasmussen wrote that he did so in response to Denniston Hill having signed a letter against the Israeli Pavilion.",
       "published": "2026-11-10T20:10:49+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+      "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+      "summary": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced ",
+      "published": "2026-11-10T19:34:24-05:00"
     },
     {
       "sourceId": "artnews",
@@ -244,13 +251,6 @@
       "url": "https://www.artnews.com/art-news/news/contemporary-stained-glass-windows-installed-in-notre-dame-1234805395/",
       "summary": "Here's what we're reading this morning.",
       "published": "2026-11-10T13:30:00+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "ChatGPT is getting verified AI ‘Business Agents’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-      "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesse",
-      "published": "2026-11-10T13:00:00-05:00"
     },
     {
       "sourceId": "hyperallergic",
