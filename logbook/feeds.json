@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T19:35:58.321207+00:00",
+  "updatedAt": "2026-11-12T07:10:30.031208+00:00",
   "sources": [
     {
       "id": "hyperallergic",
@@ -29,6 +29,76 @@
   ],
   "items": [
     {
+      "sourceId": "artnews",
+      "title": "With Protests Quieting Down But Not Forgotten, Dealers Return to the Grand Palais for Paris Photo",
+      "url": "https://www.artnews.com/art-news/market/paris-photo-2026-report-photography-bicentennial-1234805587/",
+      "summary": "If faced with a similar scenario to the protests that forced Art Basel Paris to close early last month, \"our decision would be made based on protecting everyone’s safety. That’s the priority,” said Paris Photo director F",
+      "published": "2026-11-11T23:24:08+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Nvidia CEO Jensen Huang’s Situation-Chip is Meme Gold",
+      "url": "https://hyperallergic.com/nvidia-ceo-jensen-huangs-situation-chip-is-meme-gold/",
+      "summary": "The internet is having a field day after the tech mogul confessed to having an affair with a suspected Chinese intelligence spy.",
+      "published": "2026-11-11T22:26:45+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "After a Historic Electoral Rout, Trump Again Asks the Supreme Court to Greenlight His Ballroom",
+      "url": "https://www.artnews.com/art-news/news/historic-electoral-rout-trump-supreme-court-ballroom-1234805627/",
+      "summary": "The president has suffered “an onslaught” of assassination attempts (three), so the ballroom is a national security necessity, argues the Solicitor General.",
+      "published": "2026-11-11T22:01:54+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Art Bros About to Get More Insufferable as Artnet Partners With Kalshi",
+      "url": "https://hyperallergic.com/art-bros-about-to-get-more-insufferable-as-artnet-partners-with-kalshi/",
+      "summary": "Under new private equity ownership, Artnet will “curate” art-market wagers for the controversial prediction platform. What could go right?",
+      "published": "2026-11-11T21:59:14+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Piecing Together Romare Bearden’s Life",
+      "url": "https://hyperallergic.com/piecing-together-romare-beardens-life/",
+      "summary": "The best part of the new documentary about the famed artist is watching people interact with his work.",
+      "published": "2026-11-11T21:43:41+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Hauser & Wirth Now Represents rafa esparza, Maker of Adobe Sculptures and Paintings That Center Community",
+      "url": "https://www.artnews.com/art-news/market/hauser-and-wirth-rafa-esparza-artist-representation-1234805615/",
+      "summary": "He is one of the few Latinx artists to be represented by a mega-gallery.",
+      "published": "2026-11-11T21:19:43+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Franklin Sirmans Elected Warhol Foundation Board Chair, CARA Fellowships Go to Ming Smith and Pepón Osorio, and More: Industry Moves for November 11, 2026",
+      "url": "https://www.artnews.com/art-news/market/industry-moves-november-11-2026-franklin-sirmans-warhol-1234805612/",
+      "summary": "Plus, Studio Museum in Harlem Hires Ade Omotosho as associate curator.",
+      "published": "2026-11-11T21:15:00+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Liverpool Biennial Announces Artist List and ‘Age of Magical Thinking’ Theme",
+      "url": "https://www.artnews.com/art-news/news/liverpool-biennial-artist-list-theme-1234805590/",
+      "summary": "The exhibition is scheduled to run June 5 through September 19 at sites across the English city.",
+      "published": "2026-11-11T20:34:28+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Kennedy Family Joins Litigation Opposing Trump’s Triumphal Arch",
+      "url": "https://www.artnews.com/art-news/news/kennedy-family-joins-litigation-against-trump-triumphal-arch-1234805580/",
+      "summary": "The Kennedys argue that the arch would cast a shadow over the graves of their relatives buried at Arlington National Cemetery.",
+      "published": "2026-11-11T20:32:00+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "German Art Historian Reattributes Renoir Print Previously Believed to Be a Fake",
+      "url": "https://www.artnews.com/art-news/news/renoir-print-reattributed-authentic-1234805572/",
+      "summary": "Henry Keazor said the print, previously believed to be a pencil drawing, has an authentic signature by the artist's hand in chalk.",
+      "published": "2026-11-11T20:26:48+00:00"
+    },
+    {
       "sourceId": "hyperallergic",
       "title": "Betsy James Wyeth’s Placemaking Prowess",
       "url": "https://hyperallergic.com/betsy-james-wyeths-placemaking-prowess/",
@@ -41,6 +111,13 @@
       "url": "https://hyperallergic.com/trisha-baga-laylah-ali-and-kay-walkingstick-among-anonymous-was-a-woman-awardees/",
       "summary": "Each of the 15 artists, all over 40, will receive an unrestricted $50,000 cash award.",
       "published": "2026-11-11T18:32:30+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a",
+      "published": "2026-11-11T17:44:36-05:00"
     },
     {
       "sourceId": "artnews",
@@ -64,6 +141,20 @@
       "published": "2026-11-11T17:15:27+00:00"
     },
     {
+      "sourceId": "verge",
+      "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
+      "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
+      "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into your sm",
+      "published": "2026-11-11T17:00:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "United won’t let your AI agent book your flight",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wa",
+      "published": "2026-11-11T16:54:21-05:00"
+    },
+    {
       "sourceId": "hyperallergic",
       "title": "Anne Anlin Cheng and Patty Chang on Beauty and Violence",
       "url": "https://hyperallergic.com/anne-anlin-cheng-and-patty-chang-on-beauty-and-violence/",
@@ -76,20 +167,6 @@
       "url": "https://hyperallergic.com/art-basel-paris-to-give-galleries-a-20-discount-after-early-closure/",
       "summary": "The announcement comes two weeks after an industry group penned a letter demanding compensation and accusing event organizers of “disrespect, even contempt.\"",
       "published": "2026-11-11T16:20:00+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Art Week NYC Kicks off at Metropolitan Museum of Art with New York Pols and Art Leaders",
-      "url": "https://www.artnews.com/art-news/news/art-week-nyc-kicks-off-metropolitan-museum-art-1234805478/",
-      "summary": "New York politicians touted their generous investments in the arts.",
-      "published": "2026-11-11T15:38:54+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "New Richard Avedon Documentary Shows That Fashion Isn’t All Style—It’s Substance, Too",
-      "url": "https://www.artnews.com/art-news/reviews/avedon-netflix-review-ron-howard-fashion-style-substance-1234805443/",
-      "summary": "The documentary echoes the glitz and extravagance of fashion publishing’s bygone era of hefty budgets and creative freedom.",
-      "published": "2026-11-11T15:28:51+00:00"
     },
     {
       "sourceId": "hyperallergic",
@@ -113,32 +190,11 @@
       "published": "2026-11-11T15:15:00+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "Art Basel Offers 20 Percent Reduction on Exhibitor Booth Fees Due to Early Closure of Paris Fair, Tracey Emin’s New Arts and Community Space in Margate Greenlit, and More: Morning ",
-      "url": "https://www.artnews.com/art-news/news/art-basel-paris-offers-20-percent-reduction-fees-1234805542/",
-      "summary": "Here's what we're reading this morning.",
-      "published": "2026-11-11T14:45:00+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Art Basel to Reduce Galleries’ Invoices by 20 Percent Due to Early Closure of Paris Fair",
-      "url": "https://www.artnews.com/art-news/market/art-basel-to-grant-20-discount-to-exhibitors-in-october-paris-edition-which-closed-early-1234805454/",
-      "summary": "“We felt that a 20 percent reduction was a fair and reasonable place to land,” Art Basel CEO Noah Horowitz told ARTnews.",
-      "published": "2026-11-11T14:05:00+00:00"
-    },
-    {
       "sourceId": "verge",
       "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
       "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
       "summary": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU ",
       "published": "2026-11-11T13:13:52-05:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Anonymous Was A Woman 2026 Recipients Include Kay WalkingStick, Trisha Baga, and Beatriz Cortez",
-      "url": "https://www.artnews.com/art-news/news/anonymous-was-a-woman-2026-award-recipients-1234805492/",
-      "summary": "The 15 winners will each receive $50,000.",
-      "published": "2026-11-11T13:00:00+00:00"
     },
     {
       "sourceId": "verge",
@@ -190,67 +246,11 @@
       "published": "2026-11-11T10:00:00-05:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "RM’s SFMOMA Show Changed My Mind About Celebrity Curators",
-      "url": "https://www.artnews.com/art-news/reviews/rm-sfmoma-review-1234805463/",
-      "summary": "When fame becomes the main draw, what happens to the art?",
-      "published": "2026-11-11T10:00:00+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price",
-      "url": "https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on",
-      "summary": "It's tempting to seek out the do-everything wireless gaming headset with noise cancellation, phenomenal sound quality, multiplatform connectivity, swappable batteries - you name it. But if you just want the basics done w",
-      "published": "2026-11-11T09:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
-      "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
-      "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform image",
-      "published": "2026-11-11T09:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Streaming is still trying to be TikTok",
-      "url": "https://www.theverge.com/streaming/1030864/streaming-skydance-paramount-disney-hulu-earnings-tiktok-short-form-video",
-      "summary": "At Skydance's first employee town hall after it acquired Warner Bros. Discovery in October, CEO David Ellison told staff that the company behind Paramount Plus and HBO Max was competing for people's attention with some o",
-      "published": "2026-11-11T08:30:00-05:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Museum Organizations Call Bipartisan Infrastruture Bill a ‘Sweeping Assault’ on Historic and Sacred Places",
-      "url": "https://www.artnews.com/art-news/news/bipartisan-bill-museums-sweeping-assault-historic-places-1234805501/",
-      "summary": "Organizations including the American Alliance of Museums oppose the bill, sponsored by a West Virginia Republican.",
-      "published": "2026-11-10T22:41:34+00:00"
-    },
-    {
       "sourceId": "hyperallergic",
       "title": "Brokies, This Met Gala Is for You",
       "url": "https://hyperallergic.com/brokies-this-met-gala-is-for-you/",
       "summary": "T-shirts revolutionize the Costume Institute’s programming, the sociability of MoMA’s Brancusi exhibit, and the curators of the 2028 Whitney Biennial announced.",
       "published": "2026-11-10T22:35:25+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Gochman Collection Builds a Home for Native Art in Westchester",
-      "url": "https://hyperallergic.com/gochman-collection-builds-a-home-for-native-art-in-westchester/",
-      "summary": "The private collection opened its Branchline location in Katonah as a way to bring Native art into public view, though questions linger about its engagement with the local Lenape community.",
-      "published": "2026-11-10T22:24:18+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Mamdani Begins Reconstruction of Historic Chinatown Building Decimated in 2020 Fire",
-      "url": "https://hyperallergic.com/mamdani-begins-reconstruction-of-historic-chinatown-building-decimated-in-2020-fire/",
-      "summary": "Some $184 million will go toward the revival of 70 Mulberry Street, which once housed community-based organizations.",
-      "published": "2026-11-10T22:17:58+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Mrs. Gallery Marks 10 Years of Getting Art Collectors to Queens",
-      "url": "https://hyperallergic.com/mrs-gallery-marks-10-years-of-getting-art-collectors-to-queens/",
-      "summary": "A decade since Sara Maria Salamone and Tyler Lafreniere found their storefront space on Craigslist, the gallery presents a rotating anniversary show that channels its evolving nature.",
-      "published": "2026-11-10T21:57:42+00:00"
     },
     {
       "sourceId": "nieman",
