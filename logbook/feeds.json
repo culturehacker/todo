@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T19:54:38.947595+00:00",
+  "updatedAt": "2026-11-13T06:45:34.274631+00:00",
   "sources": [
     {
       "id": "hyperallergic",
@@ -29,11 +29,88 @@
   ],
   "items": [
     {
+      "sourceId": "hyperallergic",
+      "title": "Protesters Urge Steven Spielberg to Boycott MoMA Over Leon Black’s Epstein Ties",
+      "url": "https://hyperallergic.com/protesters-urge-steven-spielberg-to-boycott-moma-over-leon-blacks-epstein-ties/",
+      "summary": "Activists rallied at the museum ahead of a benefit for the Debra and Leon Black Family Film Center, decrying the board member’s Epstein connections and his pro-Israel support.",
+      "published": "2026-11-13T00:01:38+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Artnet’s Kalshi Partnership Faces Swift Backlash Online, But Advisers Are More Mixed",
+      "url": "https://www.artnews.com/art-news/market/artnet-kalshi-partnership-backlash-art-world-1234805778/",
+      "summary": "The art market has a new way to speculate on auction results. Advisors see opportunities, risks, and plenty of reasons for skepticism.",
+      "published": "2026-11-12T23:36:56+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Print Center and Women’s Studio Workshop Name New Leaders",
+      "url": "https://hyperallergic.com/print-center-and-womens-studio-workshop-name-new-leaders/",
+      "summary": "Plus, SITE Santa Fe artists announced, awards for Lorna Simpson and Wolfgang Tillmans, and Penske Media partners with Amazon … because of course.",
+      "published": "2026-11-12T22:46:17+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "How to Free the Art World From Its Neoliberal Capture",
+      "url": "https://hyperallergic.com/how-to-free-the-art-world-from-its-neoliberal-capture/",
+      "summary": "In “The Battleground of Art,” curator and activist Marco Baravalle dissects the art establishment's co-optation of radical politics and uplifts the stories of collectives that resist it.",
+      "published": "2026-11-12T22:02:09+00:00"
+    },
+    {
+      "sourceId": "nieman",
+      "title": "Indonesia’s new copyright bill would force Google and Meta to pay to aggregate news",
+      "url": "https://www.niemanlab.org/2026/11/indonesias-new-copyright-bill-would-force-google-and-meta-to-pay-to-aggregate-news/",
+      "summary": "On Wednesday, Meta, TikTok, and Google testified in the Indonesian parliament in opposition to a new copyright bill. The proposed law would require digital platforms to pay news publishers in Indonesia for aggregating an",
+      "published": "2026-11-12T21:52:25+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "MoMA Shells Out $200,000 for Inaugural Ambasz Prize for ‘Nature-Reconciled’ Architecture, Half of Which Will Go To Plant Trees",
+      "url": "https://www.artnews.com/art-news/news/moma-inaugural-ambasz-prize-nature-architecture-plant-trees-1234805788/",
+      "summary": "MoMA is announcing that it will give an annual grant totaling $200,000 in recognition of a single project by architects whose work is, as the award name has it, “nature-reconciled.”",
+      "published": "2026-11-12T21:41:42+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "After the Midterms, the Real Work for Arts and Culture Begins",
+      "url": "https://hyperallergic.com/after-the-midterms-the-real-work-for-arts-and-culture-begins/",
+      "summary": "Democratic leaders need to understand that cultural funding cannot stop at large museums and institutions; it must reach the people whose labor makes it possible.",
+      "published": "2026-11-12T21:05:18+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Lorna Simpson Wins $105,000 Wolfgang Hahn Prize",
+      "url": "https://www.artnews.com/art-news/news/lorna-simpson-2027-wolfgang-hahn-prize-1234805680/",
+      "summary": "The award supports the acquisition of work by Cologne's Museum Ludwig.",
+      "published": "2026-11-12T20:54:31+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Human Rights Orgs Denounce Egypt's Arrest of Mada Masr Editor Lina Attalah",
+      "url": "https://hyperallergic.com/human-rights-orgs-denounce-egypts-arrest-of-mada-masr-editor-lina-attalah/",
+      "summary": "Attalah was accused of publishing false news and operating without a license amid Egyptian authorities’ extensive crackdown on independent press.",
+      "published": "2026-11-12T20:46:03+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Monumental Equestrian Statue of Roman Emperor Once Stood in Second Century Scotland",
+      "url": "https://www.artnews.com/art-news/news/bronze-leg-part-monumental-statue-of-roman-emperor-scotland-1234805764/",
+      "summary": "Archaeologists now think that the statue depicted the Roman Emperor Antonius Pius, who led Rome’s second major military campaign into Scotland",
+      "published": "2026-11-12T20:27:55+00:00"
+    },
+    {
       "sourceId": "artnews",
       "title": "Vienna Actionism Museum to Cease Exhibition Program Following Controversial Otto Muehl Show",
       "url": "https://www.artnews.com/art-news/news/vienna-actionism-museum-ceases-exhibition-program-1234805741/",
       "summary": "Museum shareholders said in a statement that the “justified moral condemnation” of Muehl now overshadows his artistic legacy.",
       "published": "2026-11-12T19:49:05+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Donald Trump really wants Tim Cook to run Nvidia",
+      "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+      "summary": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump i",
+      "published": "2026-11-12T19:46:07-05:00"
     },
     {
       "sourceId": "artnews",
@@ -50,6 +127,34 @@
       "published": "2026-11-12T19:38:10+00:00"
     },
     {
+      "sourceId": "verge",
+      "title": "Xbox announces Wolfenstein 3",
+      "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
+      "summary": "It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially announced today, just da",
+      "published": "2026-11-12T19:11:44-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
+      "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
+      "summary": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story",
+      "published": "2026-11-12T18:43:22-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Humble Bundle redesign removes two-factor verification from settings",
+      "url": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
+      "summary": "The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku. PC Ga",
+      "published": "2026-11-12T18:30:52-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Microsoft Outlook is still down",
+      "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+      "summary": "Since just before 1PM ET on Thursday, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft quickly acknowledged the issue from its Microsoft 3",
+      "published": "2026-11-12T18:24:13-05:00"
+    },
+    {
       "sourceId": "artnews",
       "title": "Christie’s Posts Highest Watch Total Ever and Sells Bulgari Pink Diamond for $14 M.",
       "url": "https://www.artnews.com/art-news/market/christies-posts-highest-watch-total-ever-bulgari-pink-1234805692/",
@@ -62,6 +167,13 @@
       "url": "https://www.niemanlab.org/2026/11/with-event-costs-up-and-funding-down-journalism-organizations-cancel-conferences-and-cut-staff/",
       "summary": "When the pandemic forced conferences to go virtual, the question was whether people would come back in person post-Covid. For a while, they did. For a couple years after the pandemic, people were excited to be in person ",
       "published": "2026-11-12T18:09:18+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
+      "url": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
+      "summary": "Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move the Xb",
+      "published": "2026-11-12T18:00:00-05:00"
     },
     {
       "sourceId": "artnews",
@@ -78,32 +190,11 @@
       "published": "2026-11-12T17:54:48+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "Soldier Designs Limited-Edition Hublot Timepieces in Latest Artist Collaboration",
-      "url": "https://www.artnews.com/art-news/news/soldier-collaboration-hublot-50-limited-edition-timepieces-1234805694/",
-      "summary": "Soldier, a London-based visual artist and skater, has created 50 timepieces for Hublot in black ceramic and black-plated titanium.",
-      "published": "2026-11-12T17:48:02+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "As Art Week NYC Kicks Off, Galleries Have Millions of Dollars of Art to Sell—And No Shortage of Naras",
-      "url": "https://www.artnews.com/art-news/market/new-york-art-week-2026-gallery-shows-prices-1234805711/",
-      "summary": "With millions of dollars in art on offer at galleries across New York, collectors have plenty of choices ahead of the November auctions. But increasingly, they're willing to wait.",
-      "published": "2026-11-12T17:39:40+00:00"
-    },
-    {
       "sourceId": "hyperallergic",
       "title": "$160,000 Hans Arp Sculpture Stolen From Art Cologne",
       "url": "https://hyperallergic.com/160-000-hans-arp-sculpture-stolen-from-art-cologne/",
       "summary": "“S’élevant (Rising)” (1962) was snatched from Gallery Ludorff's booth on November 8.",
       "published": "2026-11-12T17:38:52+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Frida Kahlo’s Image Has Become a Global Brand. A Viral AI-Generated Ad Makes Things Worse.",
-      "url": "https://www.artnews.com/art-news/news/frida-kahlo-ai-les-enerves-viral-ad-1234805677/",
-      "summary": "Kahlo, who was disabled in a traumatic trolley crash, is generated here driving a bus. \"Nothing is going to hit her this time,” states the ad.",
-      "published": "2026-11-12T17:29:23+00:00"
     },
     {
       "sourceId": "nieman",
@@ -113,6 +204,20 @@
       "published": "2026-11-12T17:00:42+00:00"
     },
     {
+      "sourceId": "verge",
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break do",
+      "published": "2026-11-12T16:55:32-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation",
+      "url": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
+      "summary": "Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding Huang has unfolded q",
+      "published": "2026-11-12T16:45:00-05:00"
+    },
+    {
       "sourceId": "hyperallergic",
       "title": "Hiroshi Sato’s Art Against Enshittification",
       "url": "https://hyperallergic.com/hiroshi-satos-art-against-enshittification/",
@@ -120,18 +225,25 @@
       "published": "2026-11-12T16:30:00+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "Theft at Art Cologne, Five Suspects to Stand Trial for Looted Gold Bars From an 18th-Century Shipwreck, and More: Morning Links for November 12, 2026",
-      "url": "https://www.artnews.com/art-news/news/jean-arp-bronze-sculpture-stolen-art-cologne-booth-1234805658/",
-      "summary": "Here's what we're reading this morning.",
-      "published": "2026-11-12T16:29:32+00:00"
+      "sourceId": "verge",
+      "title": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
+      "url": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
+      "summary": "The previous-generation Oura Ring 4 is on sale for as low as $249 at Amazon, Best Buy, and Target, $100 off the retail price, and the first big discount on the device since July. The price varies a bit by size and color,",
+      "published": "2026-11-12T16:28:53-05:00"
     },
     {
       "sourceId": "hyperallergic",
-      "title": "Celebrate Indigenous Cinema and Storytelling with Free Short Films",
+      "title": "Celebrate Indigenous Cinema and Storytelling with Free Films",
       "url": "https://hyperallergic.com/celebrate-indigenous-cinema-and-storytelling-with-free-short-films/",
       "summary": "Available for only two weeks, this curated selection of 14 Indigenous films features stories of resilience, inspiration, and hope.",
       "published": "2026-11-12T16:24:45+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Here are the 25 original Xbox games you can now play on PC",
+      "url": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility",
+      "summary": "For the 25th anniversary of Xbox, Microsoft is beginning to make good on its paid \"next-gen game preservation\" promise. Starting today, you can play 25 different original Xbox games on your Windows PC, as long as you hav",
+      "published": "2026-11-12T16:00:00-05:00"
     },
     {
       "sourceId": "hyperallergic",
@@ -139,76 +251,6 @@
       "url": "https://hyperallergic.com/rembrandts-night-watch-is-alive/",
       "summary": "The Dutch masterpiece is teeming with microbes, and scientists hope this invisible life will be a key to unlocking some of the painting’s mysteries.",
       "published": "2026-11-12T15:30:00+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "No, AI agents did not discover a previously unknown Maya site",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-      "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered an",
-      "published": "2026-11-12T14:42:40-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Microsoft Outlook is down",
-      "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
-      "summary": "Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status accoun",
-      "published": "2026-11-12T14:07:21-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Oh, Palantir is ‘progressive’ now, is it?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
-      "summary": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fa",
-      "published": "2026-11-12T13:06:54-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "The Jensen Huang scandal is hardly over",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
-      "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succes",
-      "published": "2026-11-12T12:44:33-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug",
-      "url": "https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash",
-      "summary": "The Cybertruck is heading to that shiny cyber-dumpster in the sky, leaving the folks who built online identities around Elon Musk's polarizing pickup feeling bereft. Usually, Musk's fanbase treads lightly around their id",
-      "published": "2026-11-12T12:00:17-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "25 years later, Xbox is trying to reinvent itself again",
-      "url": "https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad",
-      "summary": "Microsoft has spent the past 25 years trying to shake up the game console market. The original Xbox, which launched on November 15th in 2001, took on an industry dominated by Sony and Nintendo. Twenty-five years later, X",
-      "published": "2026-11-12T12:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "AI chatbots are recommending fake retail websites, study finds",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-      "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusive",
-      "published": "2026-11-12T12:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "More game developers are starting to use generative AI",
-      "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-      "summary": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it ",
-      "published": "2026-11-12T12:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Google Wallet can finally unlock doors with digital home keys",
-      "url": "https://www.theverge.com/tech/1032084/google-wallet-digital-home-key-smart-lock-rollout",
-      "summary": "Google has added digital home key support to Google Wallet, allowing Android users to open smart locks by tapping their phone against them or simply approaching. The feature is currently available in public preview for t",
-      "published": "2026-11-12T11:56:33-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Jensen Huang is out. What did China want from him?",
-      "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
-      "summary": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just resigned from his posit",
-      "published": "2026-11-12T11:30:00-05:00"
     },
     {
       "sourceId": "hyperallergic",
@@ -230,41 +272,6 @@
       "url": "https://hyperallergic.com/art-bros-about-to-get-more-insufferable-as-artnet-partners-with-kalshi/",
       "summary": "Under new private equity ownership, Artnet will “curate” art-market wagers for the controversial prediction platform. What could go right?",
       "published": "2026-11-11T21:59:14+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Piecing Together Romare Bearden’s Life",
-      "url": "https://hyperallergic.com/piecing-together-romare-beardens-life/",
-      "summary": "The best part of the new documentary about the famed artist is watching people interact with his work.",
-      "published": "2026-11-11T21:43:41+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Betsy James Wyeth’s Placemaking Prowess",
-      "url": "https://hyperallergic.com/betsy-james-wyeths-placemaking-prowess/",
-      "summary": "A wide-ranging book and exhibition reveal the ways the multi-hyphenate’s architectural-environmental projects shaped her husband Andrew Wyeth’s celebrated painting career.",
-      "published": "2026-11-11T19:09:29+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Trisha Baga, Laylah Ali, and Kay WalkingStick Among Anonymous Was A Woman Awardees",
-      "url": "https://hyperallergic.com/trisha-baga-laylah-ali-and-kay-walkingstick-among-anonymous-was-a-woman-awardees/",
-      "summary": "Each of the 15 artists, all over 40, will receive an unrestricted $50,000 cash award.",
-      "published": "2026-11-11T18:32:30+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Anne Anlin Cheng and Patty Chang on Beauty and Violence",
-      "url": "https://hyperallergic.com/anne-anlin-cheng-and-patty-chang-on-beauty-and-violence/",
-      "summary": "The scholar and artist discuss the afterlives of anti-Asian violence, the tender possibilities of rupture, the beauty of squids, and more.",
-      "published": "2026-11-11T16:30:00+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Art Basel Paris to Give Galleries a 20% Discount After Early Closure",
-      "url": "https://hyperallergic.com/art-basel-paris-to-give-galleries-a-20-discount-after-early-closure/",
-      "summary": "The announcement comes two weeks after an industry group penned a letter demanding compensation and accusing event organizers of “disrespect, even contempt.\"",
-      "published": "2026-11-11T16:20:00+00:00"
     },
     {
       "sourceId": "filmmaker",
@@ -363,13 +370,6 @@
       "url": "https://filmmakermagazine.com/134720-julia-loktev-captures-history-as-it-happens/",
       "summary": "Julia Loktev had just arrived in Moscow to follow a few journalists targeted by Putin’s regime when Russia began its full-scale invasion of Ukraine. That was February 2022, and the electrifying documentary that emerged f",
       "published": "2026-11-04T17:52:39+00:00"
-    },
-    {
-      "sourceId": "nieman",
-      "title": "The New York Times stays on track to reach 15 million subscribers by the end of 2027",
-      "url": "https://www.niemanlab.org/2026/11/the-new-york-times-stays-on-track-to-reach-15-million-subscribers-by-the-end-of-2027/",
-      "summary": "The New York Times added 420,000 new digital subscribers in the third quarter of 2026, keeping it on track to achieve its goal of hitting 15 million subscriptions by the end of 2027. The Times now has 13.76 million total",
-      "published": "2026-11-04T14:30:47+00:00"
     },
     {
       "sourceId": "filmmaker",
