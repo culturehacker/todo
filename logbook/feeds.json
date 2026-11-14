@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T18:01:46.948421+00:00",
+  "updatedAt": "2026-11-14T22:24:19.212860+00:00",
   "sources": [
     {
       "id": "hyperallergic",
@@ -28,6 +28,20 @@
     }
   ],
   "items": [
+    {
+      "sourceId": "verge",
+      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+      "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its ",
+      "published": "2026-11-14T16:44:44-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+      "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+      "summary": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix ",
+      "published": "2026-11-14T14:47:40-05:00"
+    },
     {
       "sourceId": "verge",
       "title": "Work to replace old copper wire led to the FAA’s ground stop",
@@ -183,13 +197,6 @@
       "published": "2026-11-13T19:52:56+00:00"
     },
     {
-      "sourceId": "verge",
-      "title": "Amazon has a plan to index the world’s online shopping data",
-      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, cal",
-      "published": "2026-11-13T18:49:11-05:00"
-    },
-    {
       "sourceId": "hyperallergic",
       "title": "Seven Museums to Host Solo Exhibitions Celebrating Wolf Kahn’s Centennial",
       "url": "https://hyperallergic.com/seven-museums-to-host-solo-exhibitions-celebrating-wolf-kahns-centennial/",
@@ -230,13 +237,6 @@
       "url": "https://hyperallergic.com/a-view-from-the-easel-leslie-lewis-sigler/",
       "summary": "“The light and studio interior are literally reflected in my work.”",
       "published": "2026-11-13T15:52:35+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US ",
-      "published": "2026-11-13T15:45:10-05:00"
     },
     {
       "sourceId": "nieman",
