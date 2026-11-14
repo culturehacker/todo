@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T19:42:26.404170+00:00",
+  "updatedAt": "2026-11-14T06:23:20.680604+00:00",
   "sources": [
     {
       "id": "hyperallergic",
@@ -28,6 +28,111 @@
     }
   ],
   "items": [
+    {
+      "sourceId": "artnews",
+      "title": "Whitney Museum Is Selling a de Kooning Painting Just Three Years After Receiving It",
+      "url": "https://www.artnews.com/art-news/market/whitney-museum-de-kooning-yellow-river-christies-auction-1234805966/",
+      "summary": "The painting was once owned by the museum's former president, David Solinger.",
+      "published": "2026-11-13T22:36:56+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Former Philadelphia Museum of Art Executive Charged $30K to Company Cards",
+      "url": "https://www.artnews.com/art-news/news/former-philadelphia-museum-executive-credit-card-charges-1234805960/",
+      "summary": "Latasha Harling, the museum’s former chief people and diversity officer, pleaded guilty to receiving stolen property, averting a trial that had been scheduled for Friday.",
+      "published": "2026-11-13T22:35:38+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Europol Warns of More Aggressive Museum Heists as Thieves Change Tactics and Targets",
+      "url": "https://www.artnews.com/art-news/news/europol-warns-of-more-aggressive-museum-heists-thieves-change-tactics-targets-1234805942/",
+      "summary": "Museum thefts have become more brazen, rather than stealthy, and are often executed by low-level criminals chosen on an “ad-hoc” basis.",
+      "published": "2026-11-13T22:06:57+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Sotheby’s Hedreen Auction Proceeds Will Repay Loan, Not Fund University Museum: Report",
+      "url": "https://www.artnews.com/art-news/news/sothebys-hedreen-auction-proceeds-will-repay-loan-not-fund-university-museum-report-1234805958/",
+      "summary": "The works are reportedly being sold to pay off a debt secured against the collection — a debt Hedreen says stands between him and fulfilling his pledge to Seattle University.",
+      "published": "2026-11-13T21:36:03+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "At NYC’s ADAA Art Fair, Unlimited Shrimp and $2K Diebenkorns",
+      "url": "https://hyperallergic.com/at-nycs-adaa-art-fair-unlimited-shrimp-and-2k-diebenkorns/",
+      "summary": "The Art Dealers Association of America’s chummy five-day show returns to the Upper East Side after quietly canceling last fall’s edition.",
+      "published": "2026-11-13T21:20:39+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "45% of US Independent Arts Publications Face Existential Crisis, Report Finds",
+      "url": "https://hyperallergic.com/45-of-us-independent-arts-publications-face-existential-crisis-report-finds/",
+      "summary": "In addition to declining funding, the survey identified a disturbing correlation between censorship concerns and financial precarity.",
+      "published": "2026-11-13T21:17:16+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Manhattan Landlord Sues Kehinde Wiley, Claiming He Owes $36,000 in Unpaid Rent",
+      "url": "https://www.artnews.com/art-news/news/kehinde-wiley-landlord-lawsuit-unpaid-rent-1234805862/",
+      "summary": "The suit was filed the same day his new show in New York opened.",
+      "published": "2026-11-13T20:53:34+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than four hours after the s",
+      "published": "2026-11-13T20:53:04-05:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "The Secret Life of Hockney's Beverly Hills Housewife",
+      "url": "https://hyperallergic.com/the-secret-life-of-hockneys-beverly-hills-housewife/",
+      "summary": "Taking David Hockney’s painting of arts patron Betty Freeman as his subject, James Cahill tells the engrossing story of two friends who shaped the cultural landscape of 1960s Los Angeles.",
+      "published": "2026-11-13T20:51:24+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Tribal Groups Urge Congress to Halt Bill That Threatens Sacred Sites",
+      "url": "https://hyperallergic.com/tribal-groups-urge-congress-to-halt-bill-that-threatens-sacred-sites/",
+      "summary": "The Bipartisan American Affordability and Jobs Act would speed up permitting for major projects and could impact Indigenous sovereignty over culturally significant land.",
+      "published": "2026-11-13T20:44:36+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Long-Lost Charles Le Brun Painting Returns to the New Palace in Potsdam",
+      "url": "https://www.artnews.com/art-news/news/lost-charles-le-brun-painting-returned-new-palace-potsdam-1234805935/",
+      "summary": "The 17th-century work, a depiction of a sleeping Christ Child with the Holy Family, went missing in 1945",
+      "published": "2026-11-13T20:39:24+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "The Alchemical Possibilities of an Artist-Poet Collaboration",
+      "url": "https://hyperallergic.com/the-alchemical-possibilities-of-an-artist-poet-collaboration/",
+      "summary": "Four decades later, El Museo del Barrio restages Papo Colo's text-and-image show \"Octopus and Others.\"",
+      "published": "2026-11-13T20:33:54+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "The ADAA Fair Is Back, and Sometimes Smaller Really Is Better",
+      "url": "https://www.artnews.com/art-news/market/adaa-fair-2026-best-booths-sales-new-york-1234805934/",
+      "summary": "After a controversial yearlong hiatus, the ADAA Fair returned to the Park Avenue Armory with a smaller footprint, strong early sales, and a welcome emphasis on actually looking at art.",
+      "published": "2026-11-13T20:27:18+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Botanical Artists Show Us What We Stand to Lose",
+      "url": "https://hyperallergic.com/botanical-artists-show-us-what-we-stand-to-lose/",
+      "summary": "Works at the American Society of Botanical Artists' annual exhibition radiate with majesty, and the intricate sumptuousness is agonizing.",
+      "published": "2026-11-13T19:52:56+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, cal",
+      "published": "2026-11-13T18:49:11-05:00"
+    },
     {
       "sourceId": "hyperallergic",
       "title": "Seven Museums to Host Solo Exhibitions Celebrating Wolf Kahn’s Centennial",
@@ -71,11 +176,18 @@
       "published": "2026-11-13T15:52:35+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "Matthew Barney Nearly Directed a 29-Hour Opera Cycle But Declined: ‘I Don’t Think I Can Quit My Job for Two Years’",
-      "url": "https://www.artnews.com/art-news/news/matthew-barney-licht-opera-cycle-1234805838/",
-      "summary": "He signaled a shift away from the monumental projects for which he is best known.",
-      "published": "2026-11-13T15:35:14+00:00"
+      "sourceId": "verge",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US ",
+      "published": "2026-11-13T15:45:10-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
+      "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
+      "summary": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for ju",
+      "published": "2026-11-13T15:30:00-05:00"
     },
     {
       "sourceId": "verge",
@@ -90,13 +202,6 @@
       "url": "https://www.niemanlab.org/2026/11/the-nieman-lab-news-about-news-quiz-november-13-2026/",
       "summary": "It’s been another busy week. Recap it with the second edition of the Nieman Lab News-About-News Quiz, your weekly incentive to keep up with the latest happenings in the world of digital journalism. All questions are base",
       "published": "2026-11-13T14:00:33+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Microsoft Outage Disrupts Global Operations and Art World Too, Undercover Investigation Busts Fake UK Artist Visas, and More: Morning Links for November 13, 2026",
-      "url": "https://www.artnews.com/art-news/news/microsoft-outage-disrupts-global-operations-art-world-too-1234805835/",
-      "summary": "Here's what we're reading this morning.",
-      "published": "2026-11-13T14:00:00+00:00"
     },
     {
       "sourceId": "verge",
@@ -134,46 +239,11 @@
       "published": "2026-11-13T11:17:11-05:00"
     },
     {
-      "sourceId": "verge",
-      "title": "The Verge’s 2026 gift guide for dads",
-      "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
-      "summary": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find somethi",
-      "published": "2026-11-13T11:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "My favorite recipe app just got a big upgrade — and a subscription fee",
-      "url": "https://www.theverge.com/tech/1032141/paprika-4-recipe-grocery-pantry-app-update-subscription-hands-on",
-      "summary": "Nearly 10 years after the launch of Paprika 3, the recipe-managing, pantry-organizing, grocery list-making app has gotten a big upgrade that adds more functionality to nearly every corner of the experience. I tested Papr",
-      "published": "2026-11-13T11:00:00-05:00"
-    },
-    {
       "sourceId": "hyperallergic",
       "title": "A Toolkit for a Liberated Art World",
       "url": "https://hyperallergic.com/a-toolkit-for-a-liberated-art-world/",
       "summary": "Amin Husain and Nitasha Dhillon on Marco Baravalle’s new book, plus Jasmine Wahi on the continued fight for arts and culture after the midterm elections.",
       "published": "2026-11-13T11:00:00+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "The best early Black Friday deals you can already shop",
-      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-      "summary": "The countdown to Black Friday is on, and the discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. ",
-      "published": "2026-11-13T10:49:27-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Apple announces release dates for the first Apple Home Collection smart devices",
-      "url": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing",
-      "summary": "The first few smart home devices and accessories that Apple co-developed with LG Electronics and Schneider Electric for its new Apple Home Collection are now available for preorder through the company's online store, wit",
-      "published": "2026-11-13T10:22:14-05:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "How Does an Artist Know When She’s Done? A Major Marisa Merz Retrospective Turns the Question on Its Head",
-      "url": "https://www.artnews.com/art-in-america/aia-reviews/marisa-merz-arte-povera-turin-retrospective-1234805723/",
-      "summary": "Three venues in Turin honor Arte Povera’s only woman.",
-      "published": "2026-11-13T10:00:00+00:00"
     },
     {
       "sourceId": "hyperallergic",
@@ -183,25 +253,11 @@
       "published": "2026-11-13T00:01:38+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "Artnet’s Kalshi Partnership Faces Swift Backlash Online, But Advisers Are More Mixed",
-      "url": "https://www.artnews.com/art-news/market/artnet-kalshi-partnership-backlash-art-world-1234805778/",
-      "summary": "The art market has a new way to speculate on auction results. Advisors see opportunities, risks, and plenty of reasons for skepticism.",
-      "published": "2026-11-12T23:36:56+00:00"
-    },
-    {
       "sourceId": "hyperallergic",
       "title": "Print Center and Women’s Studio Workshop Name New Leaders",
       "url": "https://hyperallergic.com/print-center-and-womens-studio-workshop-name-new-leaders/",
       "summary": "Plus, SITE Santa Fe artists announced, awards for Lorna Simpson and Wolfgang Tillmans, and Penske Media partners with Amazon … because of course.",
       "published": "2026-11-12T22:46:17+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "The Art World's Neoliberal Capture",
-      "url": "https://hyperallergic.com/how-to-free-the-art-world-from-its-neoliberal-capture/",
-      "summary": "In “The Battleground of Art,” curator and activist Marco Baravalle dissects the art establishment's co-optation of radical politics and uplifts the stories of collectives that resist it.",
-      "published": "2026-11-12T22:02:09+00:00"
     },
     {
       "sourceId": "nieman",
@@ -211,41 +267,6 @@
       "published": "2026-11-12T21:52:25+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "MoMA Shells Out $200,000 for Inaugural Ambasz Prize for ‘Nature-Reconciled’ Architecture, Half of Which Will Go To Plant Trees",
-      "url": "https://www.artnews.com/art-news/news/moma-inaugural-ambasz-prize-nature-architecture-plant-trees-1234805788/",
-      "summary": "MoMA is announcing that it will give an annual grant totaling $200,000 in recognition of a single project by architects whose work is, as the award name has it, “nature-reconciled.”",
-      "published": "2026-11-12T21:41:42+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "After the Midterms, the Real Work for Arts and Culture Begins",
-      "url": "https://hyperallergic.com/after-the-midterms-the-real-work-for-arts-and-culture-begins/",
-      "summary": "Democratic leaders need to understand that cultural funding cannot stop at large museums and institutions; it must reach the people whose labor makes it possible.",
-      "published": "2026-11-12T21:05:18+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Lorna Simpson Wins $105,000 Wolfgang Hahn Prize",
-      "url": "https://www.artnews.com/art-news/news/lorna-simpson-2027-wolfgang-hahn-prize-1234805680/",
-      "summary": "The award supports the acquisition of work by Cologne's Museum Ludwig.",
-      "published": "2026-11-12T20:54:31+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Human Rights Orgs Denounce Egypt's Arrest of Mada Masr Editor Lina Attalah",
-      "url": "https://hyperallergic.com/human-rights-orgs-denounce-egypts-arrest-of-mada-masr-editor-lina-attalah/",
-      "summary": "Attalah was accused of publishing false news and operating without a license amid Egyptian authorities’ extensive crackdown on independent press.",
-      "published": "2026-11-12T20:46:03+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Monumental Equestrian Statue of Roman Emperor Once Stood in Second Century Scotland",
-      "url": "https://www.artnews.com/art-news/news/bronze-leg-part-monumental-statue-of-roman-emperor-scotland-1234805764/",
-      "summary": "Archaeologists now think that the statue depicted the Roman Emperor Antonius Pius, who led Rome’s second major military campaign into Scotland",
-      "published": "2026-11-12T20:27:55+00:00"
-    },
-    {
       "sourceId": "nieman",
       "title": "With event costs up and funding down, journalism organizations cancel conferences and cut staff",
       "url": "https://www.niemanlab.org/2026/11/with-event-costs-up-and-funding-down-journalism-organizations-cancel-conferences-and-cut-staff/",
@@ -253,32 +274,11 @@
       "published": "2026-11-12T18:09:18+00:00"
     },
     {
-      "sourceId": "hyperallergic",
-      "title": "$160,000 Hans Arp Sculpture Stolen From Art Cologne",
-      "url": "https://hyperallergic.com/160-000-hans-arp-sculpture-stolen-from-art-cologne/",
-      "summary": "“S’élevant (Rising)” (1962) was snatched from Gallery Ludorff's booth on November 8.",
-      "published": "2026-11-12T17:38:52+00:00"
-    },
-    {
       "sourceId": "nieman",
       "title": "“A government that ‘gets it’”: Canada recommits to federal funding for news",
       "url": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/",
       "summary": "A Canadian program to place local reporters in underserved communities has lived from renewal to renewal. Publishers who relied on the Local Journalism Initiative couldn’t be sure whether the money would be there again. ",
       "published": "2026-11-12T17:00:42+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Hiroshi Sato’s Art Against Enshittification",
-      "url": "https://hyperallergic.com/hiroshi-satos-art-against-enshittification/",
-      "summary": "“Insincere ironic detachment is abundant,” the Bay Area artist told Hyperallergic. “What is niche now are sincere depictions of the present.”",
-      "published": "2026-11-12T16:30:00+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Celebrate Indigenous Cinema and Storytelling with Free Films",
-      "url": "https://hyperallergic.com/celebrate-indigenous-cinema-and-storytelling-with-free-short-films/",
-      "summary": "Available for only two weeks, this curated selection of 14 Indigenous films features stories of resilience, inspiration, and hope.",
-      "published": "2026-11-12T16:24:45+00:00"
     },
     {
       "sourceId": "filmmaker",
