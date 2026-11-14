@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T06:23:20.680604+00:00",
+  "updatedAt": "2026-11-14T18:01:46.948421+00:00",
   "sources": [
     {
       "id": "hyperallergic",
@@ -28,6 +28,62 @@
     }
   ],
   "items": [
+    {
+      "sourceId": "verge",
+      "title": "Work to replace old copper wire led to the FAA’s ground stop",
+      "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
+      "summary": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a \"remote FAA fa",
+      "published": "2026-11-14T12:44:28-05:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Special Edition: Jesus",
+      "url": "https://hyperallergic.com/11-14-26-weekly-newsletter-2/",
+      "summary": "Mona Chalabi, Anne Anlin Cheng and Patty Chang, Miles Greenberg, Betsy James Wyeth, and the hottest memes about the Nvidia honeypot.",
+      "published": "2026-11-14T11:00:00+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Here are our favorite deals from REI’s giant Holiday Sale",
+      "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
+      "summary": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black Friday deals we’ve come ",
+      "published": "2026-11-14T10:00:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known fi",
+      "published": "2026-11-14T10:00:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+      "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+      "summary": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater will \"",
+      "published": "2026-11-14T09:18:36-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
+      "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
+      "summary": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at least one full-size ga",
+      "published": "2026-11-14T09:00:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "A gadget to make your dumb house smarter",
+      "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for taking time away from Zelda to be here, and also you can read all the old e",
+      "published": "2026-11-14T08:00:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers a",
+      "published": "2026-11-14T07:00:00-05:00"
+    },
     {
       "sourceId": "artnews",
       "title": "Whitney Museum Is Selling a de Kooning Painting Just Three Years After Receiving It",
@@ -183,60 +239,11 @@
       "published": "2026-11-13T15:45:10-05:00"
     },
     {
-      "sourceId": "verge",
-      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
-      "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
-      "summary": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for ju",
-      "published": "2026-11-13T15:30:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
-      "url": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
-      "summary": "The long-awaited launch of GTA VI is around the corner, happening next Friday, November 19th. While discounts on the game itself will be rare for some time, there’s a clever workaround to save you a few bucks on your dig",
-      "published": "2026-11-13T14:14:38-05:00"
-    },
-    {
       "sourceId": "nieman",
       "title": "The Nieman Lab News-About-News Quiz, November 13, 2026",
       "url": "https://www.niemanlab.org/2026/11/the-nieman-lab-news-about-news-quiz-november-13-2026/",
       "summary": "It’s been another busy week. Recap it with the second edition of the Nieman Lab News-About-News Quiz, your weekly incentive to keep up with the latest happenings in the world of digital journalism. All questions are base",
       "published": "2026-11-13T14:00:33+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
-      "url": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
-      "summary": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE instead looks more like ",
-      "published": "2026-11-13T13:10:41-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Jensen Huang was reckless with the environment, too",
-      "url": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
-      "summary": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-inten",
-      "published": "2026-11-13T12:44:22-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
-      "url": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
-      "summary": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the company wa",
-      "published": "2026-11-13T12:12:56-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "The new Apple TV has a YouTube problem",
-      "url": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
-      "summary": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only showing a black screen with a QR code and",
-      "published": "2026-11-13T11:55:57-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Microsoft’s massive Outlook outage might be over",
-      "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
-      "summary": "Service is recovering for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state on Friday morning, some ",
-      "published": "2026-11-13T11:17:11-05:00"
     },
     {
       "sourceId": "hyperallergic",
@@ -251,13 +258,6 @@
       "url": "https://hyperallergic.com/protesters-urge-steven-spielberg-to-boycott-moma-over-leon-blacks-epstein-ties/",
       "summary": "Activists rallied at the museum ahead of a benefit for the Debra and Leon Black Family Film Center, decrying the board member’s Epstein connections and his pro-Israel support.",
       "published": "2026-11-13T00:01:38+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Print Center and Women’s Studio Workshop Name New Leaders",
-      "url": "https://hyperallergic.com/print-center-and-womens-studio-workshop-name-new-leaders/",
-      "summary": "Plus, SITE Santa Fe artists announced, awards for Lorna Simpson and Wolfgang Tillmans, and Penske Media partners with Amazon … because of course.",
-      "published": "2026-11-12T22:46:17+00:00"
     },
     {
       "sourceId": "nieman",
