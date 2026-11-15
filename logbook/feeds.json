@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T22:24:19.212860+00:00",
+  "updatedAt": "2026-11-15T06:32:10.650990+00:00",
   "sources": [
     {
       "id": "hyperallergic",
@@ -28,6 +28,55 @@
     }
   ],
   "items": [
+    {
+      "sourceId": "artnews",
+      "title": "ARTnews Awards 2026 Emerging Artist of the Year: Coco Klockner",
+      "url": "https://www.artnews.com/art-news/artists/coco-klockner-artnews-awards-2026-emerging-artist-1234805787/",
+      "summary": "For “In Practice: Coco Klockner” at SculptureCenter, New York.",
+      "published": "2026-11-14T22:50:00+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "ARTnews Awards 2026 Historical Artist of the Year: Theresa Hak Kyung Cha",
+      "url": "https://www.artnews.com/art-news/artists/theresa-hak-kyung-cha-artnews-awards-2026-historical-artist-1234805840/",
+      "summary": "For “Theresa Hak Kyung Cha: Multiple Offerings” at the Berkeley Art Museum and Pacific Film Archive.",
+      "published": "2026-11-14T22:50:00+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "ARTnews Awards 2026 Lifetime Achievement: Maren Hassinger",
+      "url": "https://www.artnews.com/art-news/artists/maren-hassinger-artnews-awards-2026-lifetime-achievement-1234805782/",
+      "summary": "For “Maren Hassinger: Living Moving Growing” at the Berkeley Art Museum and Pacific Film Archive.",
+      "published": "2026-11-14T22:50:00+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "ARTnews Awards 2026 Best Gallery Group Show: “Horror”",
+      "url": "https://www.artnews.com/art-news/artists/horror-artnews-awards-2026-best-gallery-group-show-1234805784/",
+      "summary": "For an exhibition at Sprüth Magers in Los Angeles curated by Jill Mulleady.",
+      "published": "2026-11-14T22:50:00+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "ARTnews Awards 2026 Best Thematic Museum Exhibition: “MONUMENTS”",
+      "url": "https://www.artnews.com/art-news/artists/monuments-artnews-awards-2026-best-thematic-museum-show-1234805839/",
+      "summary": "For an exhibition at The Geffen Contemporary at MOCA and The Brick, Los Angeles.",
+      "published": "2026-11-14T22:50:00+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "ARTnews Awards 2026 Established Artist of the Year: Vaginal Davis",
+      "url": "https://www.artnews.com/art-news/artists/vaginal-davis-artnews-awards-2026-established-artist-1234805842/",
+      "summary": "For “Vaginal Davis: Magnificent Product” at MoMA PS1, New York.",
+      "published": "2026-11-14T22:50:00+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "ARTnews Awards 2026: About the Jury",
+      "url": "https://www.artnews.com/art-news/news/artnews-awards-2026-jury-1234805841/",
+      "summary": "The jury for the third annual ARTnews Awards includes Giampaolo Bianconi, Jordan Carter, Lauren Cornell, Miranda Lash, and Diana Nawi.",
+      "published": "2026-11-14T22:49:00+00:00"
+    },
     {
       "sourceId": "verge",
       "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
@@ -120,13 +169,6 @@
       "published": "2026-11-13T22:06:57+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "Sotheby’s Hedreen Auction Proceeds Will Repay Loan, Not Fund University Museum: Report",
-      "url": "https://www.artnews.com/art-news/news/sothebys-hedreen-auction-proceeds-will-repay-loan-not-fund-university-museum-report-1234805958/",
-      "summary": "The works are reportedly being sold to pay off a debt secured against the collection — a debt Hedreen says stands between him and fulfilling his pledge to Seattle University.",
-      "published": "2026-11-13T21:36:03+00:00"
-    },
-    {
       "sourceId": "hyperallergic",
       "title": "At NYC’s ADAA Art Fair, Unlimited Shrimp and $2K Diebenkorns",
       "url": "https://hyperallergic.com/at-nycs-adaa-art-fair-unlimited-shrimp-and-2k-diebenkorns/",
@@ -139,13 +181,6 @@
       "url": "https://hyperallergic.com/45-of-us-independent-arts-publications-face-existential-crisis-report-finds/",
       "summary": "In addition to declining funding, the survey identified a disturbing correlation between censorship concerns and financial precarity.",
       "published": "2026-11-13T21:17:16+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Manhattan Landlord Sues Kehinde Wiley, Claiming He Owes $36,000 in Unpaid Rent",
-      "url": "https://www.artnews.com/art-news/news/kehinde-wiley-landlord-lawsuit-unpaid-rent-1234805862/",
-      "summary": "The suit was filed the same day his new show in New York opened.",
-      "published": "2026-11-13T20:53:34+00:00"
     },
     {
       "sourceId": "verge",
@@ -169,25 +204,11 @@
       "published": "2026-11-13T20:44:36+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "Long-Lost Charles Le Brun Painting Returns to the New Palace in Potsdam",
-      "url": "https://www.artnews.com/art-news/news/lost-charles-le-brun-painting-returned-new-palace-potsdam-1234805935/",
-      "summary": "The 17th-century work, a depiction of a sleeping Christ Child with the Holy Family, went missing in 1945",
-      "published": "2026-11-13T20:39:24+00:00"
-    },
-    {
       "sourceId": "hyperallergic",
       "title": "The Alchemical Possibilities of an Artist-Poet Collaboration",
       "url": "https://hyperallergic.com/the-alchemical-possibilities-of-an-artist-poet-collaboration/",
       "summary": "Four decades later, El Museo del Barrio restages Papo Colo's text-and-image show \"Octopus and Others.\"",
       "published": "2026-11-13T20:33:54+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "The ADAA Fair Is Back, and Sometimes Smaller Really Is Better",
-      "url": "https://www.artnews.com/art-news/market/adaa-fair-2026-best-booths-sales-new-york-1234805934/",
-      "summary": "After a controversial yearlong hiatus, the ADAA Fair returned to the Park Avenue Armory with a smaller footprint, strong early sales, and a welcome emphasis on actually looking at art.",
-      "published": "2026-11-13T20:27:18+00:00"
     },
     {
       "sourceId": "hyperallergic",
@@ -202,27 +223,6 @@
       "url": "https://hyperallergic.com/seven-museums-to-host-solo-exhibitions-celebrating-wolf-kahns-centennial/",
       "summary": "Museums in Germany, New York, and Vermont are among those to honor the late abstract landscape painter next year.",
       "published": "2026-11-13T18:45:44+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Lightsaber Brandished by Darth Vader Auctioned for $4.9 M., Breaking Record for Star Wars Sales",
-      "url": "https://www.artnews.com/art-news/news/star-wars-lightsaber-sale-heritage-auctions-1234805883/",
-      "summary": "It's the one from the famous \"I am your father\" scene.",
-      "published": "2026-11-13T18:34:54+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Fake UK Artist Visas Are Being Offered for $132,000, New Investigation Finds",
-      "url": "https://www.artnews.com/art-news/news/fake-uk-artist-visas-are-being-offered-for-132000-1234805870/",
-      "summary": "The government’s Global Talent program was launched in 2020 and was designed to attract creative workers, including scientists and artists.",
-      "published": "2026-11-13T18:29:28+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Rhizome Announces Partnership With Electronic Arts Intermix Following Vimeo Censorship Concerns",
-      "url": "https://www.artnews.com/art-news/news/rhizome-electronic-arts-intermix-partnership-vimeo-censorship-1234805760/",
-      "summary": "Vimeo shut down EAI's account in May, flagging two videos by the queer filmmaker Barbara Hammer.",
-      "published": "2026-11-13T17:56:43+00:00"
     },
     {
       "sourceId": "hyperallergic",
