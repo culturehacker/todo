@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T06:29:31.267058+00:00",
+  "updatedAt": "2026-11-16T22:02:15.064158+00:00",
   "sources": [
     {
       "id": "hyperallergic",
@@ -30,129 +30,241 @@
   "items": [
     {
       "sourceId": "artnews",
-      "title": "Sotheby’s $180 M. Van Gogh Sale Faces Eleventh-Hour Nazi-Era Restitution Claim",
-      "url": "https://www.artnews.com/art-news/news/sothebys-van-gogh-180-million-restitution-claim-1936-sale-1234806093/",
-      "summary": "A claim from the heirs of its former Jewish owner has complicated one of the biggest auctions of the year.",
-      "published": "2026-11-16T01:40:28+00:00"
+      "title": "Sotheby’s Hospices de Beaune Charity Wine Sale Nets $15.8 M. in France, with One Barrel Selling for Record $1.1 M.",
+      "url": "https://www.artnews.com/art-news/market/sothebys-hospices-de-beaune-charity-wine-sale-results-1234806240/",
+      "summary": "The annual Hospices de Beaune charity wine auction in Burgundy, France, organized by Sotheby’s, generated €14.4 million ($15.8 million) on Sunday.",
+      "published": "2026-11-16T21:36:35+00:00"
     },
     {
-      "sourceId": "verge",
-      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI U",
-      "published": "2026-11-15T20:26:56-05:00"
+      "sourceId": "hyperallergic",
+      "title": "Talking Art and Data With Mona Chalabi",
+      "url": "https://hyperallergic.com/talking-art-and-data-with-mona-chalabi/",
+      "summary": "The award-winning journalist and artist talks about her first book. Plus, Carolina A. Miranda on two new Guadalupe Rosales tomes out this fall.",
+      "published": "2026-11-16T21:18:55+00:00"
     },
     {
-      "sourceId": "verge",
-      "title": "Listen to this: Armand Hammer’s Snakes & Ladders",
-      "url": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
-      "summary": "I open with this caveat: I haven't had a ton of time to digest the surprise Armand Hammer record that dropped this week. Billy Woods and Elucid rarely miss, though, and my initial reaction is that Snakes & Ladders ranks ",
-      "published": "2026-11-15T16:49:22-05:00"
+      "sourceId": "hyperallergic",
+      "title": "What Mary Lovelace O'Neal Left Behind",
+      "url": "https://hyperallergic.com/what-mary-lovelace-oneal-left-behind/",
+      "summary": "\"Requiem\" is a fitting self-elegy for the painter, precisely because nothing about it feels mournful.",
+      "published": "2026-11-16T21:11:07+00:00"
     },
     {
-      "sourceId": "verge",
-      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
-      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
-      "summary": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has",
-      "published": "2026-11-15T16:05:02-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since",
-      "published": "2026-11-15T15:43:49-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced supp",
-      "published": "2026-11-15T14:15:43-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
-      "url": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale",
-      "summary": "Amazon’s early Black Friday promos are already underway, and we’ll be highlighting some of our favorites over the next few days on our Shopping page. Among them is the Fanttik S1 Pro Cordless Electric Screwdriver, which ",
-      "published": "2026-11-15T12:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Apple’s first smart glasses are coming together",
-      "url": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
-      "summary": "Apple's smart glasses are among the worst-kept secrets in the tech world. Bloomberg's Mark Gurman says the company's first model, which will lack augmented reality features, will be announced at June's WWDC next year. Th",
-      "published": "2026-11-15T11:59:16-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Rachelle Hampton won’t admit how long she spent charting the use of ‘murmur’ in Twilight",
-      "url": "https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview",
-      "summary": "Rachelle Hampton is a writer and co-owner at Defector Media, and the host of Normal Gossip, a podcast of anonymous listener-submitted stories about everyday drama. Whether that's lies about luxury wool in a literal knitt",
-      "published": "2026-11-15T11:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
-      "url": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale",
-      "summary": "LG’s B6E was already one of the most affordable OLED TVs you could buy, but it’s an even better deal now that it’s included as part of Best Buy’s latest doorbuster event. Now through the end of today, November 15th, the ",
-      "published": "2026-11-15T09:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "The Sony Aibo was a robot revolution dressed like a dog",
-      "url": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
-      "summary": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our coworkers; others wou",
-      "published": "2026-11-15T08:57:30-05:00"
+      "sourceId": "hyperallergic",
+      "title": "Latinx Artists Are the New Visionaries",
+      "url": "https://hyperallergic.com/latinx-artists-are-the-new-visionaries/",
+      "summary": "Without guarantees of commercial or institutional rewards, their work stems from a shared conviction: We have rich cultures to offer, and we will tell our stories by any means necessary.",
+      "published": "2026-11-16T20:59:20+00:00"
     },
     {
       "sourceId": "artnews",
-      "title": "ARTnews Awards 2026 Emerging Artist of the Year: Coco Klockner",
-      "url": "https://www.artnews.com/art-news/artists/coco-klockner-artnews-awards-2026-emerging-artist-1234805787/",
-      "summary": "For “In Practice: Coco Klockner” at SculptureCenter, New York.",
-      "published": "2026-11-14T22:50:00+00:00"
+      "title": "Arta Moves Beyond Shipping Art, to Helping Collectors Pay for It",
+      "url": "https://www.artnews.com/art-news/news/arta-pay-art-collector-financing-launch-1234806229/",
+      "summary": "The art logistics company is expanding into financing, allowing collectors to pay for purchases over ten months while galleries and auction houses receive payment in full.",
+      "published": "2026-11-16T20:58:29+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "What Does Frida Kahlo Mean Today?",
+      "url": "https://hyperallergic.com/what-does-frida-kahlo-mean-today/",
+      "summary": "A new documentary poses this question across socio-cultural contexts, steering clear of whitewashing the artist’s personal history.",
+      "published": "2026-11-16T20:43:21+00:00"
     },
     {
       "sourceId": "artnews",
-      "title": "ARTnews Awards 2026 Historical Artist of the Year: Theresa Hak Kyung Cha",
-      "url": "https://www.artnews.com/art-news/artists/theresa-hak-kyung-cha-artnews-awards-2026-historical-artist-1234805840/",
-      "summary": "For “Theresa Hak Kyung Cha: Multiple Offerings” at the Berkeley Art Museum and Pacific Film Archive.",
-      "published": "2026-11-14T22:50:00+00:00"
+      "title": "Video Artist Pipilotti Rist Wins MIT’s $100,000 Arts Award",
+      "url": "https://www.artnews.com/art-news/news/pipilotti-rist-wins-mit-arts-award-1234806214/",
+      "summary": "She will soon stage an installation at the Guggenheim Abu Dhabi.",
+      "published": "2026-11-16T20:37:01+00:00"
     },
     {
       "sourceId": "artnews",
-      "title": "ARTnews Awards 2026 Lifetime Achievement: Maren Hassinger",
-      "url": "https://www.artnews.com/art-news/artists/maren-hassinger-artnews-awards-2026-lifetime-achievement-1234805782/",
-      "summary": "For “Maren Hassinger: Living Moving Growing” at the Berkeley Art Museum and Pacific Film Archive.",
-      "published": "2026-11-14T22:50:00+00:00"
+      "title": "TEFAF Maastricht Names 277 Exhibitors for 2027 Fair",
+      "url": "https://www.artnews.com/art-news/news/tefaf-maastricht-2027-exhibitor-list-1234806213/",
+      "summary": "The fair opens for previews on March 11, 2027, and features 22 first-time exhibitors.",
+      "published": "2026-11-16T20:23:05+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Martin Puryear’s Liberatory Violence",
+      "url": "https://hyperallergic.com/martin-puryears-liberatory-violence/",
+      "summary": "A concern with liberation and revolution runs throughout his exhibition at the High Museum.",
+      "published": "2026-11-16T20:16:32+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Restitution Claim on $180M Van Gogh Shakes Up Sotheby's Marquee Week",
+      "url": "https://hyperallergic.com/restitution-claim-on-180m-van-gogh-shakes-up-sothebys-marquee-week/",
+      "summary": "Heirs of the Jewish publisher Samuel Fischer, who once owned the painting, are requesting it be withdrawn from auction.",
+      "published": "2026-11-16T20:07:12+00:00"
+    },
+    {
+      "sourceId": "nieman",
+      "title": "NPR makes fixing its app a key priority in its new strategic plan",
+      "url": "https://www.niemanlab.org/2026/11/npr-makes-fixing-its-app-a-key-priority-in-its-new-strategic-plan/",
+      "summary": "Over the next two years, NPR will address a longstanding listener plea: improving its app. During a November 12 board of directors meeting, NPR CEO Katherine Maher said the organization will rebuild its digital offerings",
+      "published": "2026-11-16T20:01:56+00:00"
     },
     {
       "sourceId": "artnews",
-      "title": "ARTnews Awards 2026 Best Gallery Group Show: “Horror”",
-      "url": "https://www.artnews.com/art-news/artists/horror-artnews-awards-2026-best-gallery-group-show-1234805784/",
-      "summary": "For an exhibition at Sprüth Magers in Los Angeles curated by Jill Mulleady.",
-      "published": "2026-11-14T22:50:00+00:00"
+      "title": "Vienna Museum’s Mummified Remains Reveal Cats Lived and Died Brutally in Ancient Egypt",
+      "url": "https://www.artnews.com/art-news/news/mummified-cat-remains-vienna-1234806201/",
+      "summary": "Research into 131 skulls from a funerary site in Middle Egypt revealed \"disturbing\" news.",
+      "published": "2026-11-16T20:00:24+00:00"
     },
     {
       "sourceId": "artnews",
-      "title": "ARTnews Awards 2026 Best Thematic Museum Exhibition: “MONUMENTS”",
-      "url": "https://www.artnews.com/art-news/artists/monuments-artnews-awards-2026-best-thematic-museum-show-1234805839/",
-      "summary": "For an exhibition at The Geffen Contemporary at MOCA and The Brick, Los Angeles.",
-      "published": "2026-11-14T22:50:00+00:00"
+      "title": "Volcanoes! Floods! The Apocalypse! All Appear in a Rare $1.3 M. German Manuscript Coming to Christie’s",
+      "url": "https://www.artnews.com/art-news/market/volcanoes-floods-apocalypse-german-manuscript-christies-1234806173/",
+      "summary": "The Augsburg Book of Miracles comes from the holdings of Mickey Cartin, a onetime ARTnews Top 200 collector.",
+      "published": "2026-11-16T18:38:23+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "“Mighty Miniatures” Features Over 300 Tiny Artworks From Indigenous Communities Across the Western Hemisphere",
+      "url": "https://hyperallergic.com/mighty-miniatures-features-over-300-tiny-artworks-from-indigenous-communities-across-the-western-hemisphere/",
+      "summary": "Opening November 21 at the National Museum of the American Indian in New York, this exhibition includes masterpieces created over a span of nearly two centuries.",
+      "published": "2026-11-16T18:30:00+00:00"
     },
     {
       "sourceId": "artnews",
-      "title": "ARTnews Awards 2026 Established Artist of the Year: Vaginal Davis",
-      "url": "https://www.artnews.com/art-news/artists/vaginal-davis-artnews-awards-2026-established-artist-1234805842/",
-      "summary": "For “Vaginal Davis: Magnificent Product” at MoMA PS1, New York.",
-      "published": "2026-11-14T22:50:00+00:00"
+      "title": "British Museums Are Experiencing a ‘Bayeux Bounce’ in Attendance, Thanks to Replicas of the Tapestry",
+      "url": "https://www.artnews.com/art-news/news/british-museums-experiencing-bayeux-bounce-attendance-1234806172/",
+      "summary": "Reading Museum and the Great North Museum: Hancock have seen a rise in visitorship.",
+      "published": "2026-11-16T18:27:13+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Tate Turns Julio Le Parc Into Instagram Art",
+      "url": "https://hyperallergic.com/tate-turns-julio-le-parc-into-instagram-art/",
+      "summary": "The show elides the artist’s political motivations, instead cheerfully encouraging visitors to “let these mesmerizing works engage your senses.”",
+      "published": "2026-11-16T18:02:14+00:00"
     },
     {
       "sourceId": "artnews",
-      "title": "ARTnews Awards 2026: About the Jury",
-      "url": "https://www.artnews.com/art-news/news/artnews-awards-2026-jury-1234805841/",
-      "summary": "The jury for the third annual ARTnews Awards includes Giampaolo Bianconi, Jordan Carter, Lauren Cornell, Miranda Lash, and Diana Nawi.",
-      "published": "2026-11-14T22:49:00+00:00"
+      "title": "After Exile, Luis Manuel Otero Alcántara’s Prison Drawings Arrive in New York",
+      "url": "https://www.artnews.com/art-news/artists/luis-manuel-otero-alcantara-prison-drawings-new-york-1234806094/",
+      "summary": "While incarcerated in Cuba for five years, the artist undertook an \"involuntary artistic gesture.\"",
+      "published": "2026-11-16T17:59:29+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Curator Christiane Paul Helped Write the History of Net Art. She’s Doing It Again with a New Survey at the Whitney.",
+      "url": "https://www.artnews.com/art-news/news/christiane-paul-artport-whitney-museum-exhibition-1234806131/",
+      "summary": "With over 100 works from between the 1990s and the present, the show fills an entire floor.",
+      "published": "2026-11-16T17:34:52+00:00"
+    },
+    {
+      "sourceId": "nieman",
+      "title": "Traffic is declining for local newspapers. Here are some things that helped small publishers make gains.",
+      "url": "https://www.niemanlab.org/2026/11/traffic-is-declining-for-local-newspapers-here-are-some-things-that-helped-small-publishers-make-gains/",
+      "summary": "We’ve now been publishing roundups of local newspaper traffic for a full year, so we can compare this year’s traffic to last year’s. Almost across the board, local newspapers are seeing traffic decline as Google referral",
+      "published": "2026-11-16T16:49:01+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
+      "url": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
+      "summary": "Before Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bones to become more attractive, there was an older generation of creators building massive followings ",
+      "published": "2026-11-16T16:41:57-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating con",
+      "published": "2026-11-16T15:46:01-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+      "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own c",
+      "published": "2026-11-16T15:41:28-05:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Draconian Trump Executive Order Could Strip Art Orgs of Nonprofit Status",
+      "url": "https://hyperallergic.com/draconian-trump-executive-order-could-strip-art-orgs-of-nonprofit-status/",
+      "summary": "The order under consideration would strip all nonprofit organizations with alleged “terrorist ties” of their tax-exempt status.",
+      "published": "2026-11-16T15:36:18+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Some of our favorite PlayStation games are steeply discounted for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1034339/sony-black-friday-game-sale-2026-deals",
+      "summary": "Black Friday is approaching, and some companies are already rolling out the discounts ahead of the big day. If you’re hunting for PlayStation 5 accessories, we’ve already rounded up some of our favorite controllers and h",
+      "published": "2026-11-16T15:36:14-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+      "url": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+      "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call la",
+      "published": "2026-11-16T15:29:37-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "US data centers now burn more electricity than a midsized country",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+      "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively tha",
+      "published": "2026-11-16T15:27:58-05:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Advance Your Creative Practice With a Graduate Degree From the University of Louisville",
+      "url": "https://hyperallergic.com/advance-your-creative-practice-with-a-graduate-degree-from-the-university-of-louisville/",
+      "summary": "All MFA and MA students receive generous scholarships, with additional support for research, creative projects, and travel.",
+      "published": "2026-11-16T15:16:00+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
+      "summary": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new a",
+      "published": "2026-11-16T14:50:47-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Mercedes-Benz takes on Tesla FSD with new point-to-point city driving assist",
+      "url": "https://www.theverge.com/transportation/1034321/mercedes-benz-mb-drive-assist-pro-hands-free-highway-assist-2027",
+      "summary": "Mercedes-Benz is tossing its hat into the partial autonomy ring with the launch of two new features next year: hands-free highway driving and a point-to-point city navigation system. The new features will put the German ",
+      "published": "2026-11-16T14:49:12-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+      "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+      "summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors.",
+      "published": "2026-11-16T14:24:40-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+      "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+      "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a",
+      "published": "2026-11-16T14:23:45-05:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Sotheby’s $180 M. Van Gogh Sale Faces Nazi-Era Restitution Claim, What Happened to Lucas Museum’s Educational Programming? and More: Morning Links for November 16, 2026",
+      "url": "https://www.artnews.com/art-news/news/what-happened-to-lucas-museums-educational-programming-1234806126/",
+      "summary": "Here's what we're reading this morning.",
+      "published": "2026-11-16T14:15:00+00:00"
+    },
+    {
+      "sourceId": "filmmaker",
+      "title": "History’s Nightmares",
+      "url": "https://filmmakermagazine.com/134798-historys-nightmares/",
+      "summary": "The image, at first, seems clear enough: a rocky surface viewed in monochrome through the extreme close-up of a macro lens, its worn textures providing an impressively wide range of grays. The composition centers an arra",
+      "published": "2026-11-16T14:00:11+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Hockney and His Beverly Hills Patron",
+      "url": "https://hyperallergic.com/hockney-and-his-beverly-hills-patron/",
+      "summary": "A review of James Cahill’s book on the painter and the patron in “Beverly Hills Housewife,” the state of arts journalism, and why Tribal Nations are opposing a Congressional bill.",
+      "published": "2026-11-16T11:00:00+00:00"
     },
     {
       "sourceId": "hyperallergic",
@@ -162,102 +274,11 @@
       "published": "2026-11-14T11:00:00+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "Whitney Museum Is Selling a de Kooning Painting Just Three Years After Receiving It",
-      "url": "https://www.artnews.com/art-news/market/whitney-museum-de-kooning-yellow-river-christies-auction-1234805966/",
-      "summary": "The painting was once owned by the museum's former president, David Solinger.",
-      "published": "2026-11-13T22:36:56+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Former Philadelphia Museum of Art Executive Charged $30K to Company Cards",
-      "url": "https://www.artnews.com/art-news/news/former-philadelphia-museum-executive-credit-card-charges-1234805960/",
-      "summary": "Latasha Harling, the museum’s former chief people and diversity officer, pleaded guilty to receiving stolen property, averting a trial that had been scheduled for Friday.",
-      "published": "2026-11-13T22:35:38+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "At NYC’s ADAA Art Fair, Unlimited Shrimp and $2K Diebenkorns",
-      "url": "https://hyperallergic.com/at-nycs-adaa-art-fair-unlimited-shrimp-and-2k-diebenkorns/",
-      "summary": "The Art Dealers Association of America’s chummy five-day show returns to the Upper East Side after quietly canceling last fall’s edition.",
-      "published": "2026-11-13T21:20:39+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "45% of US Independent Arts Publications Face Existential Crisis, Report Finds",
-      "url": "https://hyperallergic.com/45-of-us-independent-arts-publications-face-existential-crisis-report-finds/",
-      "summary": "In addition to declining funding, the survey identified a disturbing correlation between censorship concerns and financial precarity.",
-      "published": "2026-11-13T21:17:16+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "The Secret Life of Hockney's Beverly Hills Housewife",
-      "url": "https://hyperallergic.com/the-secret-life-of-hockneys-beverly-hills-housewife/",
-      "summary": "Taking David Hockney’s painting of arts patron Betty Freeman as his subject, James Cahill tells the engrossing story of two friends who shaped the cultural landscape of 1960s Los Angeles.",
-      "published": "2026-11-13T20:51:24+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Tribal Groups Urge Congress to Halt Bill That Threatens Sacred Sites",
-      "url": "https://hyperallergic.com/tribal-groups-urge-congress-to-halt-bill-that-threatens-sacred-sites/",
-      "summary": "The Bipartisan American Affordability and Jobs Act would speed up permitting for major projects and could impact Indigenous sovereignty over culturally significant land.",
-      "published": "2026-11-13T20:44:36+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "The Alchemical Possibilities of an Artist-Poet Collaboration",
-      "url": "https://hyperallergic.com/the-alchemical-possibilities-of-an-artist-poet-collaboration/",
-      "summary": "Four decades later, El Museo del Barrio restages Papo Colo's text-and-image show \"Octopus and Others.\"",
-      "published": "2026-11-13T20:33:54+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Botanical Artists Show Us What We Stand to Lose",
-      "url": "https://hyperallergic.com/botanical-artists-show-us-what-we-stand-to-lose/",
-      "summary": "Works at the American Society of Botanical Artists' annual exhibition radiate with majesty, and the intricate sumptuousness is agonizing.",
-      "published": "2026-11-13T19:52:56+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Seven Museums to Host Solo Exhibitions Celebrating Wolf Kahn’s Centennial",
-      "url": "https://hyperallergic.com/seven-museums-to-host-solo-exhibitions-celebrating-wolf-kahns-centennial/",
-      "summary": "Museums in Germany, New York, and Vermont are among those to honor the late abstract landscape painter next year.",
-      "published": "2026-11-13T18:45:44+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Craft in America Concludes its Handwork Series with NORTH and SOUTH",
-      "url": "https://hyperallergic.com/craft-in-america-concludes-its-handwork-series-with-north-and-south/",
-      "summary": "Stream the PBS documentary series, which explores the impact of regional handmade craft in the north and south of the country.",
-      "published": "2026-11-13T16:00:00+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "A View From the Easel: Leslie Lewis Sigler",
-      "url": "https://hyperallergic.com/a-view-from-the-easel-leslie-lewis-sigler/",
-      "summary": "“The light and studio interior are literally reflected in my work.”",
-      "published": "2026-11-13T15:52:35+00:00"
-    },
-    {
       "sourceId": "nieman",
       "title": "The Nieman Lab News-About-News Quiz, November 13, 2026",
       "url": "https://www.niemanlab.org/2026/11/the-nieman-lab-news-about-news-quiz-november-13-2026/",
       "summary": "It’s been another busy week. Recap it with the second edition of the Nieman Lab News-About-News Quiz, your weekly incentive to keep up with the latest happenings in the world of digital journalism. All questions are base",
       "published": "2026-11-13T14:00:33+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "A Toolkit for a Liberated Art World",
-      "url": "https://hyperallergic.com/a-toolkit-for-a-liberated-art-world/",
-      "summary": "Amin Husain and Nitasha Dhillon on Marco Baravalle’s new book, plus Jasmine Wahi on the continued fight for arts and culture after the midterm elections.",
-      "published": "2026-11-13T11:00:00+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Protesters Urge Steven Spielberg to Boycott MoMA Over Leon Black’s Epstein Ties",
-      "url": "https://hyperallergic.com/protesters-urge-steven-spielberg-to-boycott-moma-over-leon-blacks-epstein-ties/",
-      "summary": "Activists rallied at the museum ahead of a benefit for the Debra and Leon Black Family Film Center, decrying the board member’s Epstein connections and his pro-Israel support.",
-      "published": "2026-11-13T00:01:38+00:00"
     },
     {
       "sourceId": "nieman",
@@ -344,20 +365,6 @@
       "published": "2026-11-05T23:27:49+00:00"
     },
     {
-      "sourceId": "nieman",
-      "title": "With “Bimbo University,” Nikita Redkar leans into femininity to explain the news",
-      "url": "https://www.niemanlab.org/2026/11/with-bimbo-university-nikita-redkar-leans-into-femininity-to-explain-the-news/",
-      "summary": "For Nikita Redkar, a big part of filming a video is putting together an outfit. In a July video about youth-led protests in India, the 33-year-old is walking around New York City explaining how movements grow when people",
-      "published": "2026-11-05T21:03:35+00:00"
-    },
-    {
-      "sourceId": "nieman",
-      "title": "The Onion’s new plan to market its print newspaper: sponsoring a bowl game",
-      "url": "https://www.niemanlab.org/2026/11/the-onions-new-plan-to-market-its-print-newspaper-sponsoring-a-bowl-game/",
-      "summary": "College football already has an Orange Bowl, a Peach Bowl, and a Citrus Bowl, so on its face, there’s nothing outlandish about the concept of an Onion Bowl. But this matchup wouldn’t be titled to evoke some locale’s bump",
-      "published": "2026-11-05T20:39:06+00:00"
-    },
-    {
       "sourceId": "filmmaker",
       "title": "Designing Godzilla with Takashi Yamazaki",
       "url": "https://filmmakermagazine.com/134728-designing-godzilla-takashi-yamazaki/",
@@ -412,13 +419,6 @@
       "url": "https://filmmakermagazine.com/134509-so-film-is-dying-so-what/",
       "summary": "Two weeks after returning to London from Helsinki, I keep thinking about something that appeared onscreen in Nour Ouayda’s The Secret Garden (2023): a clod of dirt and grass. Where another pedestrian in Beirut would have",
       "published": "2026-10-27T15:11:05+00:00"
-    },
-    {
-      "sourceId": "filmmaker",
-      "title": "On Gods’ Time in Johann Lurf’s Forever…Forever",
-      "url": "https://filmmakermagazine.com/134352-on-gods-time-johann-lurf-forever-forever/",
-      "summary": "What if the earth spun at a rate of 24 times per second? This was the question that incited Johann Lurf to undertake Forever…Forever (2026), which recently played Toronto and New York, and last night opened the Viennale.",
-      "published": "2026-10-23T15:09:22+00:00"
     }
   ]
 }
