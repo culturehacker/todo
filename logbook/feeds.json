@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T18:51:22.826076+00:00",
+  "updatedAt": "2026-11-16T06:29:31.267058+00:00",
   "sources": [
     {
       "id": "hyperallergic",
@@ -28,6 +28,48 @@
     }
   ],
   "items": [
+    {
+      "sourceId": "artnews",
+      "title": "Sotheby’s $180 M. Van Gogh Sale Faces Eleventh-Hour Nazi-Era Restitution Claim",
+      "url": "https://www.artnews.com/art-news/news/sothebys-van-gogh-180-million-restitution-claim-1936-sale-1234806093/",
+      "summary": "A claim from the heirs of its former Jewish owner has complicated one of the biggest auctions of the year.",
+      "published": "2026-11-16T01:40:28+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI U",
+      "published": "2026-11-15T20:26:56-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Listen to this: Armand Hammer’s Snakes & Ladders",
+      "url": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
+      "summary": "I open with this caveat: I haven't had a ton of time to digest the surprise Armand Hammer record that dropped this week. Billy Woods and Elucid rarely miss, though, and my initial reaction is that Snakes & Ladders ranks ",
+      "published": "2026-11-15T16:49:22-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+      "summary": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has",
+      "published": "2026-11-15T16:05:02-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since",
+      "published": "2026-11-15T15:43:49-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced supp",
+      "published": "2026-11-15T14:15:43-05:00"
+    },
     {
       "sourceId": "verge",
       "title": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
@@ -62,13 +104,6 @@
       "url": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
       "summary": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our coworkers; others wou",
       "published": "2026-11-15T08:57:30-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "An overview of Jensen Huang’s messy days",
-      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepba",
-      "published": "2026-11-15T08:00:00-05:00"
     },
     {
       "sourceId": "artnews",
@@ -120,39 +155,11 @@
       "published": "2026-11-14T22:49:00+00:00"
     },
     {
-      "sourceId": "verge",
-      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
-      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
-      "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its ",
-      "published": "2026-11-14T16:44:44-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
-      "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
-      "summary": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix ",
-      "published": "2026-11-14T14:47:40-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Work to replace old copper wire led to the FAA’s ground stop",
-      "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
-      "summary": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a \"remote FAA fa",
-      "published": "2026-11-14T12:44:28-05:00"
-    },
-    {
       "sourceId": "hyperallergic",
       "title": "Special Edition: Jesus",
       "url": "https://hyperallergic.com/11-14-26-weekly-newsletter-2/",
       "summary": "Mona Chalabi, Anne Anlin Cheng and Patty Chang, Miles Greenberg, Betsy James Wyeth, and the hottest memes about the Nvidia honeypot.",
       "published": "2026-11-14T11:00:00+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Here are our favorite deals from REI’s giant Holiday Sale",
-      "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
-      "summary": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black Friday deals we’ve come ",
-      "published": "2026-11-14T10:00:00-05:00"
     },
     {
       "sourceId": "artnews",
@@ -167,13 +174,6 @@
       "url": "https://www.artnews.com/art-news/news/former-philadelphia-museum-executive-credit-card-charges-1234805960/",
       "summary": "Latasha Harling, the museum’s former chief people and diversity officer, pleaded guilty to receiving stolen property, averting a trial that had been scheduled for Friday.",
       "published": "2026-11-13T22:35:38+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Europol Warns of More Aggressive Museum Heists as Thieves Change Tactics and Targets",
-      "url": "https://www.artnews.com/art-news/news/europol-warns-of-more-aggressive-museum-heists-thieves-change-tactics-targets-1234805942/",
-      "summary": "Museum thefts have become more brazen, rather than stealthy, and are often executed by low-level criminals chosen on an “ad-hoc” basis.",
-      "published": "2026-11-13T22:06:57+00:00"
     },
     {
       "sourceId": "hyperallergic",
