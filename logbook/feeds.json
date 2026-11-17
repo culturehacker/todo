@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T07:54:57.721896+00:00",
+  "updatedAt": "2026-11-17T20:55:21.983475+00:00",
   "sources": [
     {
       "id": "hyperallergic",
@@ -29,25 +29,207 @@
   ],
   "items": [
     {
+      "sourceId": "hyperallergic",
+      "title": "Meet Natalie White, Photography’s Giant Polaroid Whisperer",
+      "url": "https://hyperallergic.com/meet-natalie-white-photographys-giant-polaroid-whisperer/",
+      "summary": "The artist is among the few shooting on the company’s 20x24, creating otherworldly double-exposure self-portraits with a rapidly dwindling stock of nearly 20-year-old film.",
+      "published": "2026-11-17T20:46:59+00:00"
+    },
+    {
+      "sourceId": "nieman",
+      "title": "“A healthy degree of vitality”: Medill takes a look at the Twin Cities’ local news ecosystem",
+      "url": "https://www.niemanlab.org/2026/11/a-healthy-degree-of-vitality-medill-takes-a-look-at-the-twin-cities-local-news-ecosystem/",
+      "summary": "This year’s State of Local News Report from Medill was grim. But in the Twin Cities, Neal St. Anthony writes, a rich local news ecosystem offers a more hopeful picture. The metro area of more than 3 million people is hom",
+      "published": "2026-11-17T20:31:17+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "MFA, MA, and PhD Programs to Apply for by Early 2027",
+      "url": "https://hyperallergic.com/mfa-ma-and-phd-programs-to-apply-for-by-early-2027/",
+      "summary": "A list of arts-related graduate programs to explore and apply to before deadlines close.",
+      "published": "2026-11-17T19:29:45+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "The Met and the Shanghai Museum Sign Collaborative Agreement",
+      "url": "https://hyperallergic.com/the-met-and-the-shanghai-museum-sign-collaborative-agreement/",
+      "summary": "The collaboration comes just weeks after MoMA, Paris’s Centre Pompidou, and Hong Kong’s M+ Museum embarked on a similar alliance.",
+      "published": "2026-11-17T19:27:56+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Beer With a Painter: Ouattara Watts",
+      "url": "https://hyperallergic.com/beer-with-a-painter-ouattara-watts/",
+      "summary": "The Ivorian-born painter works only at night, when the veil with the spiritual realm is thinnest and the outside voices of the physical world are quietest.",
+      "published": "2026-11-17T19:21:51+00:00"
+    },
+    {
       "sourceId": "artnews",
-      "title": "At Sotheby’s $378.7 M. Doubleheader, Buyers Take Risks Again, Even as Bidding",
+      "title": "Cologne Auction House Moves Forward with Sale of Gothic Paintings as Jewish Dealer’s Heirs Claim They Were ‘Stolen’",
+      "url": "https://www.artnews.com/art-news/news/german-jewish-dealer-lempertz-restitution-johann-koerbecke-1234806324/",
+      "summary": "Both works were restituted in 2025 to the heirs of a half-Jewish German woman.",
+      "published": "2026-11-17T18:47:42+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Celebrating the Inaugural Art Week NYC, Organized by ARTnews, Art in America, and Artforum",
+      "url": "https://www.artnews.com/art-news/news/celebrating-inaugural-art-week-nyc-2026-1234806358/",
+      "summary": "ARTnews's programming featured In-depth conversations with art world thought leaders on topics ranging from collecting to criticism to crossovers between art and fashion and art and sports.",
+      "published": "2026-11-17T17:53:33+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "ARTnews Celebrates the Inaugural Art Week NYC, November 11-14, 2026",
+      "url": "https://www.artnews.com/gallery/art-news/photos/artnews-celebrates-the-inaugural-art-week-nyc-november-11-14-1234806388/",
+      "summary": "",
+      "published": "2026-11-17T17:34:49+00:00"
+    },
+    {
+      "sourceId": "nieman",
+      "title": "Seals, construction, and midterms drive traffic gains at Massachusetts nonprofit news outlets",
+      "url": "https://www.niemanlab.org/2026/11/seals-construction-and-midterms-drive-traffic-gains-at-massachusetts-nonprofit-news-outlets/",
+      "summary": "Is something in the water in Nieman Lab’s home state? In our latest quarterly ranking of nonprofit news outlets, eight Massachusetts nonprofit news outlets enjoyed significant jumps in traffic. Massachusetts is the state",
+      "published": "2026-11-17T17:08:22+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "New Museum Inks Multiyear Partnership with Video Art–Focused Vega Foundation",
+      "url": "https://www.artnews.com/art-news/news/new-museum-vega-foundation-partnership-1234806199/",
+      "summary": "First up is a commission by Korakrit Arunanondchai, who will soon have a solo show.",
+      "published": "2026-11-17T17:00:00+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "RIP to the National Historic Preservation Act",
+      "url": "https://hyperallergic.com/rip-to-the-national-historic-preservation-act/",
+      "summary": "The Act survived Republican and Democratic administrations, recessions, and wars, but its health declined precipitously this year after a devastating bout of congressional malpractice. There’s still time to save it.",
+      "published": "2026-11-17T16:44:12+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Who Gets Remembered in Art History? New Free Online Course Explores Women Who Shaped Indonesian Art",
+      "url": "https://hyperallergic.com/who-gets-remembered-in-art-history-new-free-online-course-explores-women-who-shaped-indonesian-art/",
+      "summary": "Co-developed by National Gallery Singapore and independent curator Alia Swastika, the course foregrounds women’s contributions to Indonesian art.",
+      "published": "2026-11-17T16:15:00+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Anawana Haloba Chosen for Tate Modern’s 2027 Infinities Commission",
+      "url": "https://www.artnews.com/art-news/news/anawana-haloba-tate-modern-2027-infinities-commission-1234806320/",
+      "summary": "Anawana Haloba will become the third artist to create a major new work for Tate Modern’s Infinities Commission, to be unveiled in June 2027.",
+      "published": "2026-11-17T16:13:01+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Sotheby’s, Blaquier-Arrieta Family Reach Deal With Fischer Heirs, Clearing Way for $180 M. Van Gogh Sale",
+      "url": "https://www.artnews.com/art-news/market/sothebys-van-gogh-restitution-settlement-fischer-heirs-1234806294/",
+      "summary": "The timing of the claim raised eyebrows and some saw it as a last minute simply pressure tactic before a major sale.",
+      "published": "2026-11-17T14:59:04+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Framework’s better couch keyboard is now available for preorder",
+      "url": "https://www.theverge.com/tech/1035805/framework-wireless-touchpad-keyboard-preorder-open",
+      "summary": "Framework announced its Wireless Touchpad Keyboard earlier this year with the goal of delivering a better couch keyboarding experience than the Logitech K400. According to The Verge's Sean Hollister who went hands-on wit",
+      "published": "2026-11-17T14:38:42-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "California just banned Waymo from all state freeways",
+      "url": "https://www.theverge.com/transportation/1035789/california-dmv-bans-waymo-freeways-construction-zone-safety",
+      "summary": "California has pulled the plug on Waymo's driverless freeway rides across the entire state, citing potential safety hazards. In a statement, the California Department of Motor Vehicles said that the ban went into effect ",
+      "published": "2026-11-17T14:38:05-05:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "For Abi Palmer, Chronic Illness Is Like Being an Indoor Cat",
+      "url": "https://www.artnews.com/art-in-america/columns/abi-palmer-chronic-illness-cat-goldsmiths-slugs-1234806312/",
+      "summary": "For disabled people, humor can be a survival tactic.",
+      "published": "2026-11-17T14:37:37+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "JBL’s headphones that are great for in-flight entertainment are 67 percent off",
+      "url": "https://www.theverge.com/gadgets/1035085/jbl-tour-one-m3-deal-sale-black-friday-2026",
+      "summary": "If you’re looking to upgrade your headphones before the big wave of Black Friday deals arrives, you can buy JBL’s Tour One M3 for a new low price of $149 ($300 off) at Amazon, Best Buy, and directly from JBL. The deal is",
+      "published": "2026-11-17T14:19:10-05:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Rashid Johnson, Christopher Wool, and Dawoud Bey Enter MCA Chicago Collection Through 65-Work Gift",
+      "url": "https://www.artnews.com/art-news/news/mca-chicago-guthman-gift-rashid-johnson-christopher-wool-1234806296/",
+      "summary": "The gift comes from longtime MCA Chicago supporters Jack and Sandra Guthman.",
+      "published": "2026-11-17T13:59:12+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig ",
+      "published": "2026-11-17T13:58:01-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Meta is testing a new standalone messaging app called Direct",
+      "url": "https://www.theverge.com/tech/1035740/meta-instagram-direct-messaging-app",
+      "summary": "Meta announced Direct, a new messaging app from Instagram that it's currently testing in Turkey and Thailand on iOS and Android. Direct is essentially Instagram's direct messaging without Instagram's other features. Meta",
+      "published": "2026-11-17T13:33:02-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Amflow’s new urban e-bike series is deliciously overpowered for flat city streets",
+      "url": "https://www.theverge.com/transportation/1035318/amflow-ue-carbon-pro-commuter-ebike-dji-avinox-price-specs",
+      "summary": "DJI spinoff Amflow has spent the last couple of years shaking up the electric mountain bike (eMTB) market with ridiculously high-torque, lightweight models. Today, it's bringing that same overengineered energy to pavemen",
+      "published": "2026-11-17T13:30:03-05:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Artsy and Artnet Acquire First Thursday as Art-Tech Expansion Picks Up Speed",
+      "url": "https://www.artnews.com/art-news/news/artsy-artnet-acquire-first-thursday-gallery-software-1234806185/",
+      "summary": "First Thursday specializes \"collector intelligence\": gathering years of emails, sales records, inquiries, and notes into one searchable place.",
+      "published": "2026-11-17T13:00:00+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "YouTube found a new way to inflate view counts",
+      "url": "https://www.theverge.com/streaming/1035683/youtube-co-views-count",
+      "summary": "YouTube's view counts will now include the number of people that it estimates are watching a video together on TV. In an update on Monday, the platform says it's bringing \"co-views\" to public view counts across long-form",
+      "published": "2026-11-17T12:50:22-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "The iPhone Duo feels far more intuitive with Apple’s new face unlock",
+      "url": "https://www.theverge.com/tech/1035437/iphone-duo-face-unlock-front-camera-hands-on",
+      "summary": "Apple is testing adding face unlock to the iPhone Duo - not true Face ID, but something a little simpler and less secure. So far, it works great, and even with a few Apple-imposed security limitations, it makes the Duo q",
+      "published": "2026-11-17T12:41:22-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Inside Microsoft’s giant Outlook outage",
+      "url": "https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad",
+      "summary": "At 9AM last Thursday, everything seemed normal. Microsoft employees were arriving on campus, ready for a regular day of emails and meetings. But barely an hour later, one of Microsoft's worst outages in history started t",
+      "published": "2026-11-17T12:00:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "The DOJ says it’s investigating Megaspeed",
+      "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+      "summary": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investiga",
+      "published": "2026-11-17T11:19:03-05:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Latinx Art’s New Visionaries",
+      "url": "https://hyperallergic.com/latinx-arts-new-visionaries/",
+      "summary": "Arlene Dávila on the rallying cry of contemporary Latinx artists, Stephanie Wambugu on Mary Lovelace O’Neal, and Martin Puryear’s quiet revolution.",
+      "published": "2026-11-17T11:00:00+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "At Sotheby’s $378.7 M. Doubleheader, Buyers Take Risks Again, Even as Bidding Drags",
       "url": "https://www.artnews.com/art-news/market/sothebys-november-2026-baum-collection-contemporary-auction-1234806277/",
       "summary": "The Ted and Ruth Baum collection sold every lot, and Yayoi Kusama set a new auction record, but a slow second half showed collectors are still choosy.",
       "published": "2026-11-17T05:44:41+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Yayoi Kusama ‘Infinity Net’ Painting Sells for $15.1 M. at Sotheby’s, Setting a Record",
-      "url": "https://www.artnews.com/art-news/market/yayoi-kusama-infinity-net-painting-record-sale-sothebys-1234806198/",
-      "summary": "The work, No. 3P.B. (1960), was estimated at $10 million to $15 million.",
-      "published": "2026-11-17T02:08:25+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Who Sat for Jan van Eyck’s Arnolfini Portrait? A New Catalog Essay Suggests It May Have Been the Artist",
-      "url": "https://www.artnews.com/art-news/news/van-eyck-s-arnolfini-portrait-possibly-self-portrait-essay-1234806231/",
-      "summary": "A catalog essay for the exhibition “Van Eyck: The Portraits” posits that the man in the Early Netherlandish master’s 1434 painting is Van Eyck himself",
-      "published": "2026-11-16T22:20:21+00:00"
     },
     {
       "sourceId": "hyperallergic",
@@ -55,13 +237,6 @@
       "url": "https://hyperallergic.com/why-is-the-whitney-museum-selling-a-de-kooning-painting/",
       "summary": "“Yellow River” (1958) was deaccessioned and will be auctioned at Christie's just three years after it was gifted to the museum in 2023.",
       "published": "2026-11-16T22:08:38+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Sotheby’s Hospices de Beaune Charity Wine Sale Nets $15.8 M. in France, with One Barrel Selling for Record $1.1 M.",
-      "url": "https://www.artnews.com/art-news/market/sothebys-hospices-de-beaune-charity-wine-sale-results-1234806240/",
-      "summary": "The annual Hospices de Beaune charity wine auction in Burgundy, France, organized by Sotheby’s, generated €14.4 million ($15.8 million) on Sunday.",
-      "published": "2026-11-16T21:36:35+00:00"
     },
     {
       "sourceId": "hyperallergic",
@@ -85,46 +260,11 @@
       "published": "2026-11-16T20:59:20+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "Arta Moves Beyond Shipping Art, to Helping Collectors Pay for It",
-      "url": "https://www.artnews.com/art-news/news/arta-pay-art-collector-financing-launch-1234806229/",
-      "summary": "The art logistics company is expanding into financing, allowing collectors to pay for purchases over ten months while galleries and auction houses receive payment in full.",
-      "published": "2026-11-16T20:58:29+00:00"
-    },
-    {
       "sourceId": "hyperallergic",
       "title": "What Does Frida Kahlo Mean Today?",
       "url": "https://hyperallergic.com/what-does-frida-kahlo-mean-today/",
       "summary": "A new documentary poses this question across socio-cultural contexts, steering clear of whitewashing the artist’s personal history.",
       "published": "2026-11-16T20:43:21+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Video Artist Pipilotti Rist Wins MIT’s $100,000 Arts Award",
-      "url": "https://www.artnews.com/art-news/news/pipilotti-rist-wins-mit-arts-award-1234806214/",
-      "summary": "She will soon stage an installation at the Guggenheim Abu Dhabi.",
-      "published": "2026-11-16T20:37:01+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "TEFAF Maastricht Names 277 Exhibitors for 2027 Fair",
-      "url": "https://www.artnews.com/art-news/news/tefaf-maastricht-2027-exhibitor-list-1234806213/",
-      "summary": "The fair opens for previews on March 11, 2027, and features 22 first-time exhibitors.",
-      "published": "2026-11-16T20:23:05+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Martin Puryear’s Liberatory Violence",
-      "url": "https://hyperallergic.com/martin-puryears-liberatory-violence/",
-      "summary": "A concern with liberation and revolution runs throughout his exhibition at the High Museum.",
-      "published": "2026-11-16T20:16:32+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Restitution Claim on $180M Van Gogh Shakes Up Sotheby's Marquee Week",
-      "url": "https://hyperallergic.com/restitution-claim-on-180m-van-gogh-shakes-up-sothebys-marquee-week/",
-      "summary": "Heirs of the Jewish publisher Samuel Fischer, who once owned the painting, are requesting it be withdrawn from auction.",
-      "published": "2026-11-16T20:07:12+00:00"
     },
     {
       "sourceId": "nieman",
@@ -134,62 +274,6 @@
       "published": "2026-11-16T20:01:56+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "Vienna Museum’s Mummified Remains Reveal Cats Lived and Died Brutally in Ancient Egypt",
-      "url": "https://www.artnews.com/art-news/news/mummified-cat-remains-vienna-1234806201/",
-      "summary": "Research into 131 skulls from a funerary site in Middle Egypt revealed \"disturbing\" news.",
-      "published": "2026-11-16T20:00:24+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Volcanoes! Floods! The Apocalypse! All Appear in a Rare $1.3 M. German Manuscript Coming to Christie’s",
-      "url": "https://www.artnews.com/art-news/market/volcanoes-floods-apocalypse-german-manuscript-christies-1234806173/",
-      "summary": "The Augsburg Book of Miracles comes from the holdings of Mickey Cartin, a onetime ARTnews Top 200 collector.",
-      "published": "2026-11-16T18:38:23+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
-      "url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
-      "summary": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS). ",
-      "published": "2026-11-16T18:35:58-05:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "“Mighty Miniatures” Features Over 300 Tiny Artworks From Indigenous Communities Across the Western Hemisphere",
-      "url": "https://hyperallergic.com/mighty-miniatures-features-over-300-tiny-artworks-from-indigenous-communities-across-the-western-hemisphere/",
-      "summary": "Opening November 21 at the National Museum of the American Indian in New York, this exhibition includes masterpieces created over a span of nearly two centuries.",
-      "published": "2026-11-16T18:30:00+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "British Museums Are Experiencing a ‘Bayeux Bounce’ in Attendance, Thanks to Replicas of the Tapestry",
-      "url": "https://www.artnews.com/art-news/news/british-museums-experiencing-bayeux-bounce-attendance-1234806172/",
-      "summary": "Reading Museum and the Great North Museum: Hancock have seen a rise in visitorship.",
-      "published": "2026-11-16T18:27:13+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
-      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board w",
-      "published": "2026-11-16T18:17:34-05:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Tate Turns Julio Le Parc Into Instagram Art",
-      "url": "https://hyperallergic.com/tate-turns-julio-le-parc-into-instagram-art/",
-      "summary": "The show elides the artist’s political motivations, instead cheerfully encouraging visitors to “let these mesmerizing works engage your senses.”",
-      "published": "2026-11-16T18:02:14+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "United Airlines system outage disrupts departures just days after the big ground stop",
-      "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
-      "summary": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. At 6:13PM ET, United said ",
-      "published": "2026-11-16T17:54:59-05:00"
-    },
-    {
       "sourceId": "nieman",
       "title": "Traffic is declining for local newspapers. Here are some things that helped small publishers make gains.",
       "url": "https://www.niemanlab.org/2026/11/traffic-is-declining-for-local-newspapers-here-are-some-things-that-helped-small-publishers-make-gains/",
@@ -197,81 +281,11 @@
       "published": "2026-11-16T16:49:01+00:00"
     },
     {
-      "sourceId": "verge",
-      "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
-      "url": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
-      "summary": "Before Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bones to become more attractive, there was an older generation of creators building massive followings ",
-      "published": "2026-11-16T16:41:57-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "California sues OpenAI over rogue AI hacking incidents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating ",
-      "published": "2026-11-16T15:46:01-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
-      "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own c",
-      "published": "2026-11-16T15:41:28-05:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Draconian Trump Executive Order Could Strip Art Orgs of Nonprofit Status",
-      "url": "https://hyperallergic.com/draconian-trump-executive-order-could-strip-art-orgs-of-nonprofit-status/",
-      "summary": "The order under consideration would strip all nonprofit organizations with alleged “terrorist ties” of their tax-exempt status.",
-      "published": "2026-11-16T15:36:18+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Some of our favorite PlayStation games are steeply discounted for Black Friday",
-      "url": "https://www.theverge.com/gadgets/1034339/sony-black-friday-game-sale-2026-deals",
-      "summary": "Black Friday is approaching, and some companies are already rolling out the discounts ahead of the big day. If you’re hunting for PlayStation 5 accessories, we’ve already rounded up some of our favorite controllers and h",
-      "published": "2026-11-16T15:36:14-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
-      "url": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
-      "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call la",
-      "published": "2026-11-16T15:29:37-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "US data centers now burn more electricity than a midsized country",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-      "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively tha",
-      "published": "2026-11-16T15:27:58-05:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Advance Your Creative Practice With a Graduate Degree From the University of Louisville",
-      "url": "https://hyperallergic.com/advance-your-creative-practice-with-a-graduate-degree-from-the-university-of-louisville/",
-      "summary": "All MFA and MA students receive generous scholarships, with additional support for research, creative projects, and travel.",
-      "published": "2026-11-16T15:16:00+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
-      "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
-      "summary": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new a",
-      "published": "2026-11-16T14:50:47-05:00"
-    },
-    {
       "sourceId": "filmmaker",
       "title": "History’s Nightmares",
       "url": "https://filmmakermagazine.com/134798-historys-nightmares/",
       "summary": "The image, at first, seems clear enough: a rocky surface viewed in monochrome through the extreme close-up of a macro lens, its worn textures providing an impressively wide range of grays. The composition centers an arra",
       "published": "2026-11-16T14:00:11+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Hockney and His Beverly Hills Patron",
-      "url": "https://hyperallergic.com/hockney-and-his-beverly-hills-patron/",
-      "summary": "A review of James Cahill’s book on the painter and the patron in “Beverly Hills Housewife,” the state of arts journalism, and why Tribal Nations are opposing a Congressional bill.",
-      "published": "2026-11-16T11:00:00+00:00"
     },
     {
       "sourceId": "nieman",
@@ -349,20 +363,6 @@
       "url": "https://filmmakermagazine.com/134766-albert-serra-dares-to-look/",
       "summary": "“I will not shoot a film about a concert. I don’t give a shit about a concert.” So was Sixteen Moments of My Life (2026), a film about a concert, introduced by its director, Albert Serra, ahead of its world premiere at L",
       "published": "2026-11-09T15:40:02+00:00"
-    },
-    {
-      "sourceId": "nieman",
-      "title": "The Nieman Lab News-About-News Quiz, November 6, 2026",
-      "url": "https://www.niemanlab.org/2026/11/the-nieman-lab-news-about-news-quiz-november-6-2026/",
-      "summary": "What a week! Recap it with the second edition of the Nieman Lab News-About-News Quiz, your weekly incentive to keep up with the latest happenings in the world of digital journalism. All questions are based on the week’s ",
-      "published": "2026-11-06T13:30:40+00:00"
-    },
-    {
-      "sourceId": "nieman",
-      "title": "Meta pulls down controversial terms of service",
-      "url": "https://www.niemanlab.org/2026/11/meta-pulls-down-controversial-terms-of-service/",
-      "summary": "Meta has indefinitely delayed its proposed commercial terms of service, which would have permitted the company to scrape the websites of Meta Business account users. On Thursday, the company took down the preview link to",
-      "published": "2026-11-05T23:27:49+00:00"
     },
     {
       "sourceId": "filmmaker",
