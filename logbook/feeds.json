@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T22:02:15.064158+00:00",
+  "updatedAt": "2026-11-17T07:54:57.721896+00:00",
   "sources": [
     {
       "id": "hyperallergic",
@@ -28,6 +28,34 @@
     }
   ],
   "items": [
+    {
+      "sourceId": "artnews",
+      "title": "At Sotheby’s $378.7 M. Doubleheader, Buyers Take Risks Again, Even as Bidding",
+      "url": "https://www.artnews.com/art-news/market/sothebys-november-2026-baum-collection-contemporary-auction-1234806277/",
+      "summary": "The Ted and Ruth Baum collection sold every lot, and Yayoi Kusama set a new auction record, but a slow second half showed collectors are still choosy.",
+      "published": "2026-11-17T05:44:41+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Yayoi Kusama ‘Infinity Net’ Painting Sells for $15.1 M. at Sotheby’s, Setting a Record",
+      "url": "https://www.artnews.com/art-news/market/yayoi-kusama-infinity-net-painting-record-sale-sothebys-1234806198/",
+      "summary": "The work, No. 3P.B. (1960), was estimated at $10 million to $15 million.",
+      "published": "2026-11-17T02:08:25+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Who Sat for Jan van Eyck’s Arnolfini Portrait? A New Catalog Essay Suggests It May Have Been the Artist",
+      "url": "https://www.artnews.com/art-news/news/van-eyck-s-arnolfini-portrait-possibly-self-portrait-essay-1234806231/",
+      "summary": "A catalog essay for the exhibition “Van Eyck: The Portraits” posits that the man in the Early Netherlandish master’s 1434 painting is Van Eyck himself",
+      "published": "2026-11-16T22:20:21+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Why Is the Whitney Museum Selling a De Kooning Painting?",
+      "url": "https://hyperallergic.com/why-is-the-whitney-museum-selling-a-de-kooning-painting/",
+      "summary": "“Yellow River” (1958) was deaccessioned and will be auctioned at Christie's just three years after it was gifted to the museum in 2023.",
+      "published": "2026-11-16T22:08:38+00:00"
+    },
     {
       "sourceId": "artnews",
       "title": "Sotheby’s Hospices de Beaune Charity Wine Sale Nets $15.8 M. in France, with One Barrel Selling for Record $1.1 M.",
@@ -120,6 +148,13 @@
       "published": "2026-11-16T18:38:23+00:00"
     },
     {
+      "sourceId": "verge",
+      "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+      "url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
+      "summary": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS). ",
+      "published": "2026-11-16T18:35:58-05:00"
+    },
+    {
       "sourceId": "hyperallergic",
       "title": "“Mighty Miniatures” Features Over 300 Tiny Artworks From Indigenous Communities Across the Western Hemisphere",
       "url": "https://hyperallergic.com/mighty-miniatures-features-over-300-tiny-artworks-from-indigenous-communities-across-the-western-hemisphere/",
@@ -134,6 +169,13 @@
       "published": "2026-11-16T18:27:13+00:00"
     },
     {
+      "sourceId": "verge",
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board w",
+      "published": "2026-11-16T18:17:34-05:00"
+    },
+    {
       "sourceId": "hyperallergic",
       "title": "Tate Turns Julio Le Parc Into Instagram Art",
       "url": "https://hyperallergic.com/tate-turns-julio-le-parc-into-instagram-art/",
@@ -141,18 +183,11 @@
       "published": "2026-11-16T18:02:14+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "After Exile, Luis Manuel Otero Alcántara’s Prison Drawings Arrive in New York",
-      "url": "https://www.artnews.com/art-news/artists/luis-manuel-otero-alcantara-prison-drawings-new-york-1234806094/",
-      "summary": "While incarcerated in Cuba for five years, the artist undertook an \"involuntary artistic gesture.\"",
-      "published": "2026-11-16T17:59:29+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Curator Christiane Paul Helped Write the History of Net Art. She’s Doing It Again with a New Survey at the Whitney.",
-      "url": "https://www.artnews.com/art-news/news/christiane-paul-artport-whitney-museum-exhibition-1234806131/",
-      "summary": "With over 100 works from between the 1990s and the present, the show fills an entire floor.",
-      "published": "2026-11-16T17:34:52+00:00"
+      "sourceId": "verge",
+      "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+      "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
+      "summary": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. At 6:13PM ET, United said ",
+      "published": "2026-11-16T17:54:59-05:00"
     },
     {
       "sourceId": "nieman",
@@ -172,7 +207,7 @@
       "sourceId": "verge",
       "title": "California sues OpenAI over rogue AI hacking incidents",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating con",
+      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating ",
       "published": "2026-11-16T15:46:01-05:00"
     },
     {
@@ -225,34 +260,6 @@
       "published": "2026-11-16T14:50:47-05:00"
     },
     {
-      "sourceId": "verge",
-      "title": "Mercedes-Benz takes on Tesla FSD with new point-to-point city driving assist",
-      "url": "https://www.theverge.com/transportation/1034321/mercedes-benz-mb-drive-assist-pro-hands-free-highway-assist-2027",
-      "summary": "Mercedes-Benz is tossing its hat into the partial autonomy ring with the launch of two new features next year: hands-free highway driving and a point-to-point city navigation system. The new features will put the German ",
-      "published": "2026-11-16T14:49:12-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-      "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-      "summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors.",
-      "published": "2026-11-16T14:24:40-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-      "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
-      "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a",
-      "published": "2026-11-16T14:23:45-05:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Sotheby’s $180 M. Van Gogh Sale Faces Nazi-Era Restitution Claim, What Happened to Lucas Museum’s Educational Programming? and More: Morning Links for November 16, 2026",
-      "url": "https://www.artnews.com/art-news/news/what-happened-to-lucas-museums-educational-programming-1234806126/",
-      "summary": "Here's what we're reading this morning.",
-      "published": "2026-11-16T14:15:00+00:00"
-    },
-    {
       "sourceId": "filmmaker",
       "title": "History’s Nightmares",
       "url": "https://filmmakermagazine.com/134798-historys-nightmares/",
@@ -265,13 +272,6 @@
       "url": "https://hyperallergic.com/hockney-and-his-beverly-hills-patron/",
       "summary": "A review of James Cahill’s book on the painter and the patron in “Beverly Hills Housewife,” the state of arts journalism, and why Tribal Nations are opposing a Congressional bill.",
       "published": "2026-11-16T11:00:00+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Special Edition: Jesus",
-      "url": "https://hyperallergic.com/11-14-26-weekly-newsletter-2/",
-      "summary": "Mona Chalabi, Anne Anlin Cheng and Patty Chang, Miles Greenberg, Betsy James Wyeth, and the hottest memes about the Nvidia honeypot.",
-      "published": "2026-11-14T11:00:00+00:00"
     },
     {
       "sourceId": "nieman",
