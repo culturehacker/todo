@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T20:31:44.663808+00:00",
+  "updatedAt": "2026-11-19T07:26:02.386037+00:00",
   "sources": [
     {
       "id": "hyperallergic",
@@ -28,6 +28,97 @@
     }
   ],
   "items": [
+    {
+      "sourceId": "artnews",
+      "title": "Led by Record-Breaking $190.4 M. van Gogh, Sotheby’s Impressionist and Modern Art Sales Rake in $777.8 M.",
+      "url": "https://www.artnews.com/art-news/market/sothebys-modern-art-sale-blaquier-arrieta-van-gogh-1234806802/",
+      "summary": "The 12-work Blaquier-Arrieta collection brought in $412 million, a record for a single-owner Impressionist-modern sale at the house.",
+      "published": "2026-11-19T05:13:14+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "A Tiny Monet With a Wild Backstory Just Fetched More Than 20 Times its Estimate at a Christie’s Day Sale",
+      "url": "https://www.artnews.com/art-news/market/tiny-monet-wild-backstory-7-million-christies-day-sale-1234806754/",
+      "summary": "The painting was commissioned by a French dealer, owned by a notorious Paris fraudster, and later acquired by major American collectors of Impressionism.",
+      "published": "2026-11-19T02:04:08+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Cézanne ‘Arlequin’ Sells for $111 M. at Sotheby’s, Becoming One of the Most Expensive Paintings by the Artist",
+      "url": "https://www.artnews.com/art-news/market/cezanne-arlequin-sothebys-sale-1234806687/",
+      "summary": "The painting missed beating the artist's auction record, but its sale still received applause.",
+      "published": "2026-11-18T23:40:29+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Van Gogh Slashes Auction Record at Sotheby’s, Selling for $190.4 M.",
+      "url": "https://www.artnews.com/art-news/market/van-gogh-auction-record-sothebys-chataigniers-en-fleurs-2026-1234806413/",
+      "summary": "For much of the past week, there was some question whether the sale would happen at all.",
+      "published": "2026-11-18T23:26:36+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Georgia O'Keeffe Painting Found in NYC Closet Sells for $4.9M",
+      "url": "https://hyperallergic.com/georgia-okeeffe-painting-found-in-nyc-closet-sells-for-4-9m/",
+      "summary": "Calls to exclude Russia from Venice Architecture Biennale, Public Art Fund announces 2027 program, and more in today's art news.",
+      "published": "2026-11-18T22:56:15+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Is My Art Funny to You?",
+      "url": "https://hyperallergic.com/is-my-art-funny-to-you/",
+      "summary": "A sprawling exhibition across two New York campus galleries explores humor in contemporary art, imploring us to take seriously the jokes artists made and preserved in time.",
+      "published": "2026-11-18T22:22:24+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Phillips Evening Sale Tops $104 M., Led By $44.6 M. Modigliani Sculpture",
+      "url": "https://www.artnews.com/art-news/market/phillips-evening-sale-modigliani-sculpture-2026-november-1234806710/",
+      "summary": "The auction house touted the total as a 55 percent increase over the equivalent sale last year.",
+      "published": "2026-11-18T21:36:16+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "A Marquee Week of Indulgence",
+      "url": "https://hyperallergic.com/a-marquee-week-of-indulgence/",
+      "summary": "The latest from the fall auctions, museum protests, and tackling the British Empire one video at a time.",
+      "published": "2026-11-18T21:31:17+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Arpita Singh, Indian Painter Who Never Stopped Innovating, Dies at 89",
+      "url": "https://hyperallergic.com/obits-2/",
+      "summary": "In this column honoring those we lost in the art world, we also remember a British painter of bewitching scenes and one of Japan’s greatest manga artists.",
+      "published": "2026-11-18T21:27:22+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "MoMA to Host First US Ana Mendieta Retrospective in Over 20 Years",
+      "url": "https://hyperallergic.com/moma-to-host-first-us-ana-mendieta-retrospective-in-over-20-years/",
+      "summary": "The 200-work exhibition will open in December 2027, almost a year after the closing of the Tate Modern’s current retrospective on the late Cuban-American artist.",
+      "published": "2026-11-18T21:03:18+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Edward Said Speaks More Urgently Than Ever",
+      "url": "https://hyperallergic.com/edward-said-speaks-more-urgently-than-ever/",
+      "summary": "As a new documentary shows, the Palestinian scholar believed an intellectual must always oppose domination while cultivating resistance.",
+      "published": "2026-11-18T20:49:17+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Nina Kintsurashvili's Paintings of Yearning",
+      "url": "https://hyperallergic.com/nina-kintsurashvilis-paintings-of-yearning/",
+      "summary": "The Georgian painter’s fragmented, dense compositions draw from her country’s rich history and complex present.",
+      "published": "2026-11-18T20:42:45+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Elon Musk tries to explain what’s going on with Ukraine and Starlink",
+      "url": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
+      "summary": "Elon Musk said Ukrainian president Volodymyr Zelenskyy is lying about disruptions to Starshield in Ukraine and that he's trying to misuse SpaceX's consumer service, Starlink, for military purposes. Musk made the comments",
+      "published": "2026-11-18T20:39:45-05:00"
+    },
     {
       "sourceId": "artnews",
       "title": "Trump Accepts Artistic Gift from India Just Months After Branding it a “Hellhole” Country",
@@ -64,18 +155,18 @@
       "published": "2026-11-18T18:55:54+00:00"
     },
     {
+      "sourceId": "verge",
+      "title": "The nation’s largest school districts consider ditching Google Search",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next yea",
+      "published": "2026-11-18T18:18:35-05:00"
+    },
+    {
       "sourceId": "artnews",
       "title": "Mary Miss’s Long Fight to Keep Public Art Alive",
       "url": "https://www.artnews.com/art-in-america/features/mary-misss-fight-public-art-lawsuit-greenwood-pond-1234806328/",
       "summary": "“I really got beaten down in the ’90s,“ she said. “I’m glad I reached my optimism again.",
       "published": "2026-11-18T18:10:09+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "EU Countries Renew Call To Exclude Russia from Venice Ahead of 2027 Architecture Biennale",
-      "url": "https://www.artnews.com/art-news/news/eu-countries-renew-call-to-exclude-russia-from-venice-ahead-of-2027-architecture-biennale-1234806682/",
-      "summary": "The Venice Architecture Biennale is set to open to the public on May 8, 2027, under the theme “Do Architecture — For the Possibility of Coexistence Facing a Real Reality.\"",
-      "published": "2026-11-18T17:50:33+00:00"
     },
     {
       "sourceId": "nieman",
@@ -85,25 +176,18 @@
       "published": "2026-11-18T17:35:58+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "UK Culture Secretary Faces Scrutiny After British Council’s Donation to Palestinian Museum",
-      "url": "https://www.artnews.com/art-news/news/uklfi-condemns-culture-secretary-british-council-donation-1234806665/",
-      "summary": "The British Council’s Cultural Protection Fund has provided the Palestinian Museum with numerous grants since 2018.",
-      "published": "2026-11-18T16:35:46+00:00"
+      "sourceId": "verge",
+      "title": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
+      "url": "https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs",
+      "summary": "Senate commerce committee Chair Ted Cruz (R-TX) began a meeting Wednesday meant to confirm President Donald Trump's nominee to the Federal Communications Commission with a lopsided dais. To his right sat all 14 Republica",
+      "published": "2026-11-18T17:05:48-05:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "Wyoming Art Dealer Sentenced After Falsely Claiming Native American Heritage",
-      "url": "https://www.artnews.com/art-news/news/wyoming-art-dealer-false-native-american-heritage-1234806657/",
-      "summary": "He has been sentenced to 24 months of supervised probation and ordered to pay $14,100 in restitution.",
-      "published": "2026-11-18T16:15:45+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Billionaire Collector Ken Griffin Loans Three Dinosaur Fossils to Pittsburgh Museum",
-      "url": "https://www.artnews.com/art-news/news/ken-griffin-dinosaur-fossil-loans-carnegie-museum-1234806632/",
-      "summary": "He also gave $5 million to the Carnegie Museum of Natural History.",
-      "published": "2026-11-18T16:08:18+00:00"
+      "sourceId": "verge",
+      "title": "Absolute Batman can save DC Studios",
+      "url": "https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios",
+      "summary": "With James Gunn and Peter Safran out as the co-heads of DC Studios following Skydance's acquisition of Warner Bros. Discovery, it's unclear what will become of the cinematic universe that was building around movies like ",
+      "published": "2026-11-18T16:20:00-05:00"
     },
     {
       "sourceId": "hyperallergic",
@@ -120,13 +204,6 @@
       "published": "2026-11-18T15:15:00+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "MoMA Plans First US Ana Mendieta Retrospective in Nearly 25 Years for 2027",
-      "url": "https://www.artnews.com/art-news/news/moma-ana-mendieta-retrospective-2027-1234806347/",
-      "summary": "The show will feature around 200 of the artist’s works, including rarely seen paintings from Mendieta’s student days.",
-      "published": "2026-11-18T15:00:00+00:00"
-    },
-    {
       "sourceId": "verge",
       "title": "Trump’s latest land grab is an AI hub in the Philippines",
       "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
@@ -135,7 +212,7 @@
     },
     {
       "sourceId": "verge",
-      "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
+      "title": "Nvidia’s rise, visualized",
       "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
       "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to ",
       "published": "2026-11-18T14:30:00-05:00"
@@ -158,7 +235,7 @@
       "sourceId": "verge",
       "title": "The leaked Lenovo Legion Go Beam could be the affordable handheld we need",
       "url": "https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need",
-      "summary": "For a while there, it seemed like Lenovo had given up on selling handheld gaming PCs, hiking the price of its Legion Go 2 and Legion Go S even higher than other RAM-starved competitors. A decent one can easily cost $1,00",
+      "summary": "For a while there, it seemed like Lenovo had given up on selling handheld gaming PCs, hiking the price of its Legion Go 2 and Legion Go S far higher than other RAM-starved competitors. A decent one can easily cost $1,000",
       "published": "2026-11-18T14:11:50-05:00"
     },
     {
@@ -167,34 +244,6 @@
       "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
       "summary": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits. On ",
       "published": "2026-11-18T14:07:29-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "The best early Black Friday deals you can already shop",
-      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-      "summary": "The countdown to Black Friday is on, and the discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. ",
-      "published": "2026-11-18T13:44:27-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "The first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI",
-      "url": "https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops",
-      "summary": "After the first RTX Spark laptops launched earlier this year, Nvidia's RTX Spark N1X chip is also now available in desktops from Asus, Dell, and MSI. More RTX Spark desktops are coming later from Acer, Gigabyte, and HP, ",
-      "published": "2026-11-18T13:34:55-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "What is Nvidia without AI’s sugar daddy in charge?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
-      "summary": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is i",
-      "published": "2026-11-18T13:34:15-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Our favorite accessories to level up your gaming setup ahead of GTA VI",
-      "url": "https://www.theverge.com/gadgets/1033262/best-gta-6-gaming-accessories-controllers-headsets-tvs",
-      "summary": "With Grand Theft Auto VI set to finally launch tomorrow, November 19th, our long-awaited return to Vice City is nearly here. But after all this time, some of the gear you’ve used in San Andreas might feel out of place on",
-      "published": "2026-11-18T13:19:15-05:00"
     },
     {
       "sourceId": "hyperallergic",
@@ -211,60 +260,11 @@
       "published": "2026-11-17T22:40:09+00:00"
     },
     {
-      "sourceId": "hyperallergic",
-      "title": "How Should We Memorialize the Trump Era?",
-      "url": "https://hyperallergic.com/how-should-we-memorialize-the-trump-era/",
-      "summary": "Anti-monumentalism responds not with grand equestrian statues or neoclassical columns, but with absence and anxiety, minimalism and melancholy.",
-      "published": "2026-11-17T21:36:07+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Shahzia Sikander Confronts British Colonial Legacy in High Line Video Work",
-      "url": "https://hyperallergic.com/shahzia-sikander-confronts-british-colonial-legacy-in-high-line-video-work/",
-      "summary": "With work by Shahzia Sikander and Hylozoic/Desires, “Between Salt and Smoke” simultaneously probes and defies the violent and extractive legacies of British imperialism across Asia.",
-      "published": "2026-11-17T21:26:29+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Olivia Reavey's Impromptu Sensuality",
-      "url": "https://hyperallergic.com/olivia-reaveys-impromptu-sensuality/",
-      "summary": "Everything is a treasured scrap for Reavey to pull from in her unorthodox black-and-white photography.",
-      "published": "2026-11-17T21:15:03+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Meet Natalie White, Photography’s Giant Polaroid Whisperer",
-      "url": "https://hyperallergic.com/meet-natalie-white-photographys-giant-polaroid-whisperer/",
-      "summary": "The artist is among the few shooting on the company’s 20x24, creating otherworldly double-exposure self-portraits with a rapidly dwindling stock of nearly 20-year-old film.",
-      "published": "2026-11-17T20:46:59+00:00"
-    },
-    {
       "sourceId": "nieman",
       "title": "“A healthy degree of vitality”: Medill takes a look at the Twin Cities’ local news ecosystem",
       "url": "https://www.niemanlab.org/2026/11/a-healthy-degree-of-vitality-medill-takes-a-look-at-the-twin-cities-local-news-ecosystem/",
       "summary": "This year’s State of Local News Report from Medill was grim. But in the Twin Cities, Neal St. Anthony writes, a rich local news ecosystem offers a more hopeful picture. The metro area of more than 3 million people is hom",
       "published": "2026-11-17T20:31:17+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "MFA, MA, and PhD Programs to Apply for by Early 2027",
-      "url": "https://hyperallergic.com/mfa-ma-and-phd-programs-to-apply-for-by-early-2027/",
-      "summary": "A list of arts-related graduate programs to explore and apply to before deadlines close.",
-      "published": "2026-11-17T19:29:45+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "The Met and the Shanghai Museum Sign Collaborative Agreement",
-      "url": "https://hyperallergic.com/the-met-and-the-shanghai-museum-sign-collaborative-agreement/",
-      "summary": "The collaboration comes just weeks after MoMA, Paris’s Centre Pompidou, and Hong Kong’s M+ Museum embarked on a similar alliance.",
-      "published": "2026-11-17T19:27:56+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Beer With a Painter: Ouattara Watts",
-      "url": "https://hyperallergic.com/beer-with-a-painter-ouattara-watts/",
-      "summary": "The Ivorian-born painter works only at night, when the veil with the spiritual realm is thinnest and the outside voices of the physical world are quietest.",
-      "published": "2026-11-17T19:21:51+00:00"
     },
     {
       "sourceId": "nieman",
