@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T07:16:01.421062+00:00",
+  "updatedAt": "2026-11-20T20:19:41.669027+00:00",
   "sources": [
     {
       "id": "hyperallergic",
@@ -30,17 +30,171 @@
   "items": [
     {
       "sourceId": "artnews",
-      "title": "Christie’s Notches a $145.9 M. Sale of 21st-Century Art, Led by a $32.9 M. Basquiat, amid Flagging Energy",
-      "url": "https://www.artnews.com/art-news/market/christies-21st-century-art-sale-november-2026-1234806916/",
-      "summary": "“The estimates were too high for this market,” dealer Jeanne Greenberg Rohatyn said, on her way out of the sale.",
-      "published": "2026-11-20T03:49:20+00:00"
+      "title": "The Beauty of the Game: Artist Paul Pfeiffer and Collectors Larry and Allison Berg on the Evolving Crossover Between Art and Sports",
+      "url": "https://www.artnews.com/art-news/news/paul-pfeiffer-larry-allison-berg-sports-art-week-nyc-1234807147/",
+      "summary": "Larry Berg is the co-managing owner of the Los Angeles Football Club and the incoming commissioner of Major League Soccer.",
+      "published": "2026-11-20T19:57:47+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "The Real Miami Museums and Artists Behind GTA VI’s Vice City",
+      "url": "https://hyperallergic.com/the-real-miami-museums-and-artists-behind-gta-vis-vice-city/",
+      "summary": "From The Bass in Miami Beach to the murals of Wynwood, the long-awaited Grand Theft Auto VI is heavily inspired by the local arts scene.",
+      "published": "2026-11-20T19:42:28+00:00"
     },
     {
       "sourceId": "artnews",
-      "title": "The Landing, Beloved Los Angeles Gallery with a Keen Eye for Pairing Historical and Contemporary Artists, Closes After 14 Years",
-      "url": "https://www.artnews.com/art-news/news/the-landing-los-angeles-gallery-closes-1234806982/",
-      "summary": "Its last exhibition was a one-night only solo for Maxwell Hendler staged on October 29.",
-      "published": "2026-11-20T00:02:11+00:00"
+      "title": "Student Wrecks Scottish Exhibit in Attempt to Sit on Stone of Destiny",
+      "url": "https://www.artnews.com/art-news/news/student-smashed-stone-of-destiny-1234807142/",
+      "summary": "The relic at the Perth Museum that had been used to crown Scottish monarchs until the 13th century.",
+      "published": "2026-11-20T19:16:57+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "A View From the Easel: Rei Xiao",
+      "url": "https://hyperallergic.com/a-view-from-the-easel-rei-xiao/",
+      "summary": "“I love that my roommate’s cat, Astrid, whom I appointed as my studio assistant, can always come and join me when I am painting.”",
+      "published": "2026-11-20T19:01:28+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Yoshitomo Nara Painting Fetches $15.9 M., Outselling Koons and Richter in New York",
+      "url": "https://www.artnews.com/art-news/news/yoshitomo-nara-fair-warning-15-million-auction-1234807111/",
+      "summary": "The painting sold through Fair Warning for just above its $15 million high estimate, the third-highest price for a Nara at auction and narrowly short of second place.",
+      "published": "2026-11-20T18:54:35+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "The Best Booths at Frieze Abu Dhabi, From a Surrealist Take on the Iran-Iraq War to Mosaics",
+      "url": "https://www.artnews.com/list/art-news/news/8-best-booths-at-frieze-abu-dhabi-1234807046/",
+      "summary": "The most striking works confront regional conflict, as well as ideas of masculinity, memory, and religion.",
+      "published": "2026-11-20T18:08:38+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Ron Howard on Telling Richard Avedon’s ‘Very Human Story’ in New Netflix Doc",
+      "url": "https://www.artnews.com/art-news/news/ron-howard-richard-avedon-documentary-netflix-very-human-story-1234807103/",
+      "summary": "The documentary about famed fashion and portrait photographer Richard Avedon premiered on Netflix on Nov. 11.",
+      "published": "2026-11-20T17:38:04+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "In Sammy Baloji’s Hands, ‘Objective’ Materials Reveal New Truths About African History",
+      "url": "https://www.artnews.com/art-news/artists/sammy-baloji-venice-biennale-wexner-center-1234807096/",
+      "summary": "In presentations at the Venice Biennale and Ohio's Wexner Center, he explores the legacies of European colonialism in the Democratic Republic of Congo.",
+      "published": "2026-11-20T17:03:01+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "MoMA PS1 Plans ‘Malvestir,’ Exhibition Looking at Latin American and Latinx Fashion and Contemporary Art",
+      "url": "https://www.artnews.com/art-news/news/moma-ps1-malvestir-exhibition-latinx-fashion-art-1234807040/",
+      "summary": "The show will feature 20 artists and designers, including Willy Chavarria, Camila Falquez, Carla Fernández, Bárbara Sánchez-Kane, and Troy Montes Michie.",
+      "published": "2026-11-20T15:39:06+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Hilma af Klint Painting Sells in Sweden for $12.7 M., Setting New Auction Record",
+      "url": "https://www.artnews.com/art-news/news/hilma-af-klint-painting-auction-record-sweden-1234807039/",
+      "summary": "At least one art historian argued that the work should not have sold.",
+      "published": "2026-11-20T14:48:49+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Rockstar says GTA VI made $3.79 billion in its first day",
+      "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
+      "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million in pre-orders. \"It is",
+      "published": "2026-11-20T14:35:06-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
+      "summary": "Hosting Thanksgiving can be fun, but cleaning up afterwards? Not so much. Eufy’s Omni C28 robot vacuum / mop hybrid can help, and thanks to an early Black Friday deal, you can pick it up at a new low price of $379.99 ($4",
+      "published": "2026-11-20T14:15:00-05:00"
+    },
+    {
+      "sourceId": "nieman",
+      "title": "The Nieman Lab News-About-News Quiz, November 20, 2026",
+      "url": "https://www.niemanlab.org/2026/11/the-nieman-lab-news-about-news-quiz-november-20-2026/",
+      "summary": "It’s been yet another busy week. Recap it with the fourth edition of the Nieman Lab News-About-News Quiz, your weekly incentive to keep up with the latest happenings in the world of digital journalism. All questions are ",
+      "published": "2026-11-20T14:00:46+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "LA’s The Landing Gallery Closes, Christie’s Brings in $145.9 M. But Falls Short of Estimates, and More: Morning Links for November 19, 2026",
+      "url": "https://www.artnews.com/art-news/news/the-landing-la-gallery-closes-morning-links-1234806998/",
+      "summary": "Here's what we're reading this morning.",
+      "published": "2026-11-20T14:00:00+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"",
+      "published": "2026-11-20T13:50:19-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Multiplying your Switch 2’s storage costs less than usual right now",
+      "url": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale",
+      "summary": "Expanding your Nintendo Switch 2’s 256GB of built-in storage with a microSD card is pricier than it was with Nintendo’s original console. That’s because microSD Express cards, while physically identical to ones you might",
+      "published": "2026-11-20T13:15:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
+      "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
+      "summary": "Google is announcing some significant changes to its smart home software. Starting next year, the company will shut down the Nest app in favor of the Google Home app and retire Google Assistant on its smart home devices.",
+      "published": "2026-11-20T13:00:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
+      "summary": "A new pair of AirPods or the latest Apple Watch can make a great holiday gift, but they can also take a pretty big dent out of your budget. That’s especially true this year, as rising hardware prices have made MacBooks a",
+      "published": "2026-11-20T12:33:59-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Teenage Engineering’s first CD player puts the spinning disc on display",
+      "url": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
+      "summary": "Teenage Engineering announced what it describes as \"a modern take on a classic CD player\" with its new EP/BC-1 featuring a slab-like design that leaves the spinning disc exposed instead of hiding it under a lid or inside",
+      "published": "2026-11-20T12:05:52-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's ",
+      "published": "2026-11-20T11:34:13-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION",
+      "url": "https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview",
+      "summary": "If you're wondering how Alex Ridha's (aka Boys Noize) collaboration with Nine Inch Nails influenced his new record 7LLVSION, the answer is simple: It didn't. That's not to say Ridha didn't learn anything from the virtuos",
+      "published": "2026-11-20T11:22:15-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Andrey Zvyagintsev believes filmmakers know what the audience wants — not executives",
+      "url": "https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director",
+      "summary": "The year is 2022. Vladimir Putin has announced the military draft. In Andrey Zvyagintsev's Minotaur, set in the fictional town of Krasoborsk, a quietly unhappy couple, called Gleb and Galina, carry on with their lives, o",
+      "published": "2026-11-20T11:00:00-05:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Hilma af Klint Is Rolling in Her Grave",
+      "url": "https://hyperallergic.com/hilma-af-klint-is-rolling-in-her-grave/",
+      "summary": "The Swedish artist’s painting went under the hammer for an obscene amount of money. Plus: Lowery Stokes Sims reviews Richard Powell’s new book on pigment, Blackness, and paint.",
+      "published": "2026-11-20T11:00:00+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Was Grandma Moses a Foil to Modernity, or a Product of It?",
+      "url": "https://www.artnews.com/art-in-america/aia-reviews/grandma-moses-survey-modernity-crystal-bridges-arkansas-1234806881/",
+      "summary": "Her landmark survey is on view at Crystal Bridges.",
+      "published": "2026-11-20T10:00:00+00:00"
     },
     {
       "sourceId": "hyperallergic",
@@ -50,32 +204,11 @@
       "published": "2026-11-19T22:36:49+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "Frieze Abu Dhabi Debuts to Brisk Sales and Confident Dealers",
-      "url": "https://www.artnews.com/art-news/market/frieze-abu-dhabi-rebrands-high-quality-art-large-sums-1234806923/",
-      "summary": "The art fair had a strong participation pull with private collectors and institutions spending liberally, from sold out booths to a seven-figure sale.",
-      "published": "2026-11-19T22:00:23+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Ahmed Morsi, Whose Poetic Paintings Long for His Egyptian Homeland, Dies at 96",
-      "url": "https://www.artnews.com/art-news/news/ahmed-morsi-painter-poet-dead-1234806958/",
-      "summary": "He died in Cairo of natural causes.",
-      "published": "2026-11-19T21:59:00+00:00"
-    },
-    {
       "sourceId": "hyperallergic",
       "title": "Rare Hilma af Klint Painting Sells for Staggering $12.7M",
       "url": "https://hyperallergic.com/rare-hilma-af-klint-painting-sells-for-staggering-12-7m/",
       "summary": "The 1920 painting smashed its original sale estimate and the previous benchmark for a work by the Swedish forebearer of abstraction.",
       "published": "2026-11-19T21:51:36+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Benin Puts Pressure on Musée du Quai Branly in Paris to Return 35 Looted Objects",
-      "url": "https://www.artnews.com/art-news/news/benin-musee-du-quai-branly-paris-looted-objects-1234806938/",
-      "summary": "One of the most important contested objects is a hammered iron sculpture of Gou, a god of metalworking and war.",
-      "published": "2026-11-19T21:49:13+00:00"
     },
     {
       "sourceId": "hyperallergic",
@@ -113,13 +246,6 @@
       "published": "2026-11-19T19:23:10+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "Piaget’s Latest Release Is a Limited-Edition Andy Warhol Camouflage Watch",
-      "url": "https://www.artnews.com/art-news/news/piaget-warhol-foundation-collaboration-art-week-nyc-2026-1234806880/",
-      "summary": "Piaget's Head of Patrimony Jean-Bernard Forot spoke the Andy Warhol Watch line during the inaugural Art Week NYC.",
-      "published": "2026-11-19T19:17:06+00:00"
-    },
-    {
       "sourceId": "hyperallergic",
       "title": "Native Artist Receives $10K Grant to Revive Visor Craftmaking",
       "url": "https://hyperallergic.com/native-artist-receives-10k-grant-to-revive-visor-craftmaking/",
@@ -127,46 +253,11 @@
       "published": "2026-11-19T19:02:14+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "Amsterdam’s Stedelijk Museum Names Krist Gruijthuijsen as Next Director",
-      "url": "https://www.artnews.com/art-news/news/stedelijk-museum-krist-gruijthuijsen-director-1234806867/",
-      "summary": "Gruijthuijsen, a self-described “artist-driven curator,” will succeed Rein Wolfs in July 2027.",
-      "published": "2026-11-19T18:14:19+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Apple is hiring engineers to build its own AI agent",
-      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg,",
-      "published": "2026-11-19T17:31:41-05:00"
-    },
-    {
       "sourceId": "hyperallergic",
       "title": "Richard Powell Unsettles Race and Color Theory",
       "url": "https://hyperallergic.com/richard-powell-unsettles-race-and-color-theory/",
       "summary": "Drawing on the work of artists and theorists alike, the art historian traces how generations of Black painters have deployed color and how color, in turn, shapes our understanding of Blackness.",
       "published": "2026-11-19T17:13:40+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "A brief history of Nvidia’s recent stock fluctuations",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-      "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 pe",
-      "published": "2026-11-19T16:59:35-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Meta now sells 3D movies on Quest VR headsets",
-      "url": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
-      "summary": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spide",
-      "published": "2026-11-19T16:12:06-05:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Guadalupe Maravilla to Offer Midnight Mass Sound Bath at St. John the Divine Cathedral",
-      "url": "https://www.artnews.com/art-news/news/guadalupe-maravilla-midnight-mass-sound-bath-creative-time-1234806824/",
-      "summary": "His Creative Time project will offer eight sound baths during its run, as well as other programming.",
-      "published": "2026-11-19T16:00:00+00:00"
     },
     {
       "sourceId": "hyperallergic",
@@ -183,95 +274,11 @@
       "published": "2026-11-19T15:43:36+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "Art World Advice Columnists Chen & Lampert Answered Questions as Old as Time",
-      "url": "https://www.artnews.com/art-news/news/advice-columnists-chen-lampert-answered-questions-art-week-nyc-2026-1234806741/",
-      "summary": "Among them: Do mean people in the art world actually like art?",
-      "published": "2026-11-19T15:31:21+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Meta’s Muse Charm might cost $300",
-      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and sai",
-      "published": "2026-11-19T15:22:17-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Google is putting AI chats right on the homepage",
-      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the G",
-      "published": "2026-11-19T15:05:06-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
-      "url": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
-      "summary": "The Federal Communications Commission voted unanimously to allow state and local prisons to jam cellphones. In an announcement on Thursday, the FCC argues the rule will help combat an \"influx of contraband cellphones\" us",
-      "published": "2026-11-19T14:40:28-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Sony’s WH-1000XM5 are cheaper than ever for Black Friday",
-      "url": "https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale",
-      "summary": "Back in my day, the only “Doorbuster” sales were at physical retail stores. But now, you can get ultra-low prices before Black Friday whether you want to shop in-store or online. One that stands out is the previous-gener",
-      "published": "2026-11-19T14:35:52-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "You can now buy a Steam Machine without getting on a waitlist",
-      "url": "https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply",
-      "summary": "Valve announced some updates about Steam Machine availability today, including good news if you want to buy one right now and potential bad news about future supply due to RAMaggedon. The good news: You can now purchase ",
-      "published": "2026-11-19T14:33:22-05:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Laura Hoptman Wins CCS Bard’s 2027 Audrey Irmas Award for Curatorial Excellence",
-      "url": "https://www.artnews.com/art-news/news/laura-hoptman-winner-2027-audrey-irmas-award-ccs-bard-1234806705/",
-      "summary": "Hoptman will receive $25,000 and will be honored at CCS Bard’s spring gala in April",
-      "published": "2026-11-19T14:19:17+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Some creators are skeptical of Instagram’s new affiliate program",
-      "url": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
-      "summary": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a way to ",
-      "published": "2026-11-19T14:12:30-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
-      "url": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
-      "summary": "Sonos speakers and soundbars aren’t exactly cheap, but thankfully the company’s Black Friday sale has already begun, making everything a little easier to afford through November 30th. Most notably, you can pick up the Ar",
-      "published": "2026-11-19T13:33:08-05:00"
-    },
-    {
       "sourceId": "hyperallergic",
       "title": "Recovering Edward Said’s Voice",
       "url": "https://hyperallergic.com/recovering-edward-saids-voice/",
       "summary": "Moustafa Bayoumi on a new documentary about the legendary Palestinian critic and activist; plus, can contemporary art make us laugh?",
       "published": "2026-11-19T11:00:00+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Georgia O'Keeffe Painting Found in NYC Closet Sells for $4.9M",
-      "url": "https://hyperallergic.com/georgia-okeeffe-painting-found-in-nyc-closet-sells-for-4-9m/",
-      "summary": "Calls to exclude Russia from Venice Architecture Biennale, Public Art Fund announces 2027 program, and more in today's art news.",
-      "published": "2026-11-18T22:56:15+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Is My Art Funny to You?",
-      "url": "https://hyperallergic.com/is-my-art-funny-to-you/",
-      "summary": "A sprawling exhibition across two New York campus galleries explores humor in contemporary art, imploring us to take seriously the jokes artists made and preserved in time.",
-      "published": "2026-11-18T22:22:24+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "A Marquee Week of Indulgence",
-      "url": "https://hyperallergic.com/a-marquee-week-of-indulgence/",
-      "summary": "The latest from the fall auctions, museum protests, and tackling the British Empire one video at a time.",
-      "published": "2026-11-18T21:31:17+00:00"
     },
     {
       "sourceId": "nieman",
@@ -356,13 +363,6 @@
       "url": "https://filmmakermagazine.com/134785-letterboxd-for-sale/",
       "summary": "Depending on one’s level of engagement, Letterboxd—the wildly popular film-logging and review platform, with a user base that recently topped 30 million—has two very different sides. My years of firsthand reconnaissance ",
       "published": "2026-11-11T15:26:41+00:00"
-    },
-    {
-      "sourceId": "nieman",
-      "title": "Some local news outlets are losing physical newsrooms",
-      "url": "https://www.niemanlab.org/2026/11/some-local-news-outlets-are-losing-physical-newsrooms/",
-      "summary": "When the Covid-19 pandemic normalized remote work, a second trend caught on: shutting down physical newsrooms. A report from Northwestern University’s Local News Initiative, published Tuesday, looks at the cultural losse",
-      "published": "2026-11-10T20:47:26+00:00"
     },
     {
       "sourceId": "filmmaker",
