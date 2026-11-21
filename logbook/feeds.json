@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T07:07:44.663586+00:00",
+  "updatedAt": "2026-11-21T19:15:52.588266+00:00",
   "sources": [
     {
       "id": "hyperallergic",
@@ -28,6 +28,97 @@
     }
   ],
   "items": [
+    {
+      "sourceId": "artnews",
+      "title": "Art Advisor Sophia Cohen on How the Next Generation of Collectors Is Approaching the Art Market",
+      "url": "https://www.artnews.com/art-news/news/sophia-cohen-siren-projects-art-week-nyc-1234807155/",
+      "summary": "Cohen, formerly of Gavin Brown's enterprise and Gagosian, launched Siren Projects in 2024.",
+      "published": "2026-11-21T14:00:00+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Ireland’s Experiment in Paying Artists a Basic Income Is Working as Intended For Artists",
+      "url": "https://www.artnews.com/art-news/news/is-ireland-experiment-in-paying-artists-basic-income-working-1234806168/",
+      "summary": "While Ireland’s Basic Income for the Arts scheme was only made permanent in February, the pilot project ran for three years before.",
+      "published": "2026-11-21T13:19:00+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "The FBI and USDA were reportedly hacked",
+      "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+      "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this ti",
+      "published": "2026-11-21T12:42:27-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
+      "url": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
+      "summary": "You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliable source of laughs, ",
+      "published": "2026-11-21T11:00:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
+      "summary": "Amazon only announced its first digital photo frame less than a month ago, but it’s already getting a sizable discount for Black Friday. You can currently grab the Alexa Photo Frame at Amazon and Best Buy starting at $11",
+      "published": "2026-11-21T11:00:00-05:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Hail to the Squash King",
+      "url": "https://hyperallergic.com/hail-to-the-squash-king/",
+      "summary": "Hilma af Klint painting shatters records, new Edward Said documentary, the politics of pigment, and how should we memorialize the Trump era?",
+      "published": "2026-11-21T11:00:00+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Can Anthropic afford to put safety first?",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last T",
+      "published": "2026-11-21T10:00:00-05:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Maren Hassinger Won’t Be Weighed Down",
+      "url": "https://www.artnews.com/art-in-america/aia-reviews/maren-hassinger-bampfa-retrospective-berkeley-1234806748/",
+      "summary": "Her retrospective at the Berkeley Art Museum and Pacific Film Archive (BAMPFA) highlights the artist's love of metal and motion.",
+      "published": "2026-11-21T10:00:00+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+      "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
+      "summary": "If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That’s the lowest price we’ve seen for Anker’s excellent wireless earbuds, whic",
+      "published": "2026-11-21T09:55:28-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, ",
+      "published": "2026-11-21T09:00:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
+      "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
+      "summary": "Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the",
+      "published": "2026-11-21T08:00:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "The game of the year is finally here",
+      "url": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the ol",
+      "published": "2026-11-21T08:00:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Harbinger is building the unsexy EVs that keep the economy moving",
+      "url": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
+      "summary": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round, capping a banner stretch th",
+      "published": "2026-11-21T07:00:00-05:00"
+    },
     {
       "sourceId": "hyperallergic",
       "title": "Is GTA VI the Art Miami Deserves?",
@@ -120,25 +211,11 @@
       "published": "2026-11-20T20:21:25+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "The Beauty of the Game: Artist Paul Pfeiffer and Collectors Larry and Allison Berg on the Evolving Crossover Between Art and Sports",
-      "url": "https://www.artnews.com/art-news/news/paul-pfeiffer-larry-allison-berg-sports-art-week-nyc-1234807147/",
-      "summary": "Larry Berg is the co-managing owner of the Los Angeles Football Club and the incoming commissioner of Major League Soccer.",
-      "published": "2026-11-20T19:57:47+00:00"
-    },
-    {
       "sourceId": "hyperallergic",
       "title": "The Real Miami Museums and Artists Behind GTA VI’s Vice City",
       "url": "https://hyperallergic.com/the-real-miami-museums-and-artists-behind-gta-vis-vice-city/",
       "summary": "From The Bass in Miami Beach to the murals of Wynwood, the long-awaited Grand Theft Auto VI is heavily inspired by the local arts scene.",
       "published": "2026-11-20T19:42:28+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Student Wrecks Scottish Exhibit in Attempt to Sit on Stone of Destiny",
-      "url": "https://www.artnews.com/art-news/news/student-smashed-stone-of-destiny-1234807142/",
-      "summary": "The relic at the Perth Museum that had been used to crown Scottish monarchs until the 13th century.",
-      "published": "2026-11-20T19:16:57+00:00"
     },
     {
       "sourceId": "hyperallergic",
@@ -148,13 +225,6 @@
       "published": "2026-11-20T19:01:28+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "Yoshitomo Nara Painting Fetches $15.9 M., Outselling Koons and Richter in New York",
-      "url": "https://www.artnews.com/art-news/news/yoshitomo-nara-fair-warning-15-million-auction-1234807111/",
-      "summary": "The painting sold through Fair Warning for just above its $15 million high estimate, the third-highest price for a Nara at auction and narrowly short of second place.",
-      "published": "2026-11-20T18:54:35+00:00"
-    },
-    {
       "sourceId": "verge",
       "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
       "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
@@ -162,74 +232,11 @@
       "published": "2026-11-20T15:43:52-05:00"
     },
     {
-      "sourceId": "verge",
-      "title": "Rockstar says GTA VI made $3.79 billion in its first day",
-      "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
-      "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million preorder copies. \"It ",
-      "published": "2026-11-20T14:35:06-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
-      "url": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
-      "summary": "Hosting Thanksgiving can be fun, but cleaning up afterwards? Not so much. Eufy’s Omni C28 robot vacuum / mop hybrid can help, and thanks to an early Black Friday deal, you can pick it up at a new low price of $379.99 ($4",
-      "published": "2026-11-20T14:15:00-05:00"
-    },
-    {
       "sourceId": "nieman",
       "title": "The Nieman Lab News-About-News Quiz, November 20, 2026",
       "url": "https://www.niemanlab.org/2026/11/the-nieman-lab-news-about-news-quiz-november-20-2026/",
       "summary": "It’s been yet another busy week. Recap it with the fourth edition of the Nieman Lab News-About-News Quiz, your weekly incentive to keep up with the latest happenings in the world of digital journalism. All questions are ",
       "published": "2026-11-20T14:00:46+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"",
-      "published": "2026-11-20T13:50:19-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Multiplying your Switch 2’s storage costs less than usual right now",
-      "url": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale",
-      "summary": "Expanding your Nintendo Switch 2’s 256GB of built-in storage with a microSD card is pricier than it was with Nintendo’s original console. That’s because microSD Express cards, while physically identical to ones you might",
-      "published": "2026-11-20T13:15:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
-      "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
-      "summary": "Google is announcing some significant changes to its smart home software. Starting next year, the company will shut down the Nest app in favor of the Google Home app and retire Google Assistant on its smart home devices.",
-      "published": "2026-11-20T13:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
-      "url": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
-      "summary": "A new pair of AirPods or the latest Apple Watch can make a great holiday gift, but they can also take a pretty big dent out of your budget. That’s especially true this year, as rising hardware prices have made MacBooks a",
-      "published": "2026-11-20T12:33:59-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Teenage Engineering’s first CD player puts the spinning disc on display",
-      "url": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
-      "summary": "Teenage Engineering announced what it describes as \"a modern take on a classic CD player\" with its new EP/BC-1 featuring a slab-like design that leaves the spinning disc exposed instead of hiding it under a lid or inside",
-      "published": "2026-11-20T12:05:52-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-      "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's ",
-      "published": "2026-11-20T11:34:13-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION",
-      "url": "https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview",
-      "summary": "If you're wondering how Alex Ridha's (aka Boys Noize) collaboration with Nine Inch Nails influenced his new record 7LLVSION, the answer is simple: It didn't. That's not to say Ridha didn't learn anything from the virtuos",
-      "published": "2026-11-20T11:22:15-05:00"
     },
     {
       "sourceId": "hyperallergic",
@@ -251,13 +258,6 @@
       "url": "https://hyperallergic.com/drawing-centers-laura-hoptman-wins-curatorial-excellence-award/",
       "summary": "Plus: Joyce Awards winners announced, Agnes Gund's gift to art in schools, and Derrick Adams and LEGO make a splash in Miami.",
       "published": "2026-11-19T22:36:49+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Rare Hilma af Klint Painting Sells for Staggering $12.7M",
-      "url": "https://hyperallergic.com/rare-hilma-af-klint-painting-sells-for-staggering-12-7m/",
-      "summary": "The 1920 painting smashed its original sale estimate and the previous benchmark for a work by the Swedish forebearer of abstraction.",
-      "published": "2026-11-19T21:51:36+00:00"
     },
     {
       "sourceId": "nieman",
