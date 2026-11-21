@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T20:19:41.669027+00:00",
+  "updatedAt": "2026-11-21T07:07:44.663586+00:00",
   "sources": [
     {
       "id": "hyperallergic",
@@ -28,6 +28,97 @@
     }
   ],
   "items": [
+    {
+      "sourceId": "hyperallergic",
+      "title": "Is GTA VI the Art Miami Deserves?",
+      "url": "https://hyperallergic.com/is-gta-vi-the-art-miami-deserves/",
+      "summary": "Miami-based artists Leo Castañeda and misael soto join Hyperallergic in a conversation about the tensions of a game that portrays a changing city locked in time.",
+      "published": "2026-11-20T23:51:17+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "A Sprawling Exhibition of Latin American Art and Fashion Is Coming to NYC",
+      "url": "https://hyperallergic.com/a-sprawling-exhibition-of-latin-american-art-and-fashion-is-coming-to-nyc/",
+      "summary": "Twenty artists and designers across the Americas will be featured in \"Malvestir\" at MoMA PS1 this spring, probing the historical and contemporary resonances of Latin American dress.",
+      "published": "2026-11-20T22:58:48+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "In a Midtown Office, Artists Sift Through the Junkspace of Capitalism",
+      "url": "https://hyperallergic.com/in-a-midtown-office-artists-sift-through-the-junkspace-of-capitalism/",
+      "summary": "An intergenerational group of artists confronts technology as both a pathogen and a cure for today’s cultural ailments in the husk of an office at 260 Madison.",
+      "published": "2026-11-20T22:52:02+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "The Venice Biennale's Sham Awards Cannot Artwash Genocide",
+      "url": "https://hyperallergic.com/the-venice-biennales-sham-awards-cannot-artwash-genocide/",
+      "summary": "This year’s historic actions demonstrated that Israel’s unspeakable assault on Palestine will not be ignored — and that the power of boycott has never been greater.",
+      "published": "2026-11-20T22:00:00+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "The 16 Most Expensive Artworks Ever Sold at Auction",
+      "url": "https://www.artnews.com/list/art-news/market/most-expensive-artworks-ever-sold-at-auction-1234736898/",
+      "summary": "With each record-breaking sale, the bar gets set higher, the stakes get sharper, and the frenzy deepens.",
+      "published": "2026-11-20T22:00:00+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "So You Want to Run an Artist’s Estate?",
+      "url": "https://hyperallergic.com/so-you-want-to-run-an-artists-estate/",
+      "summary": "A how-to guide on all things inventory, planning, appraisals, conservation, and more.",
+      "published": "2026-11-20T21:50:18+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "El Greco Masterpiece Gets Its Colors Back After More Than 400 Years",
+      "url": "https://www.artnews.com/art-news/news/el-greco-martyrdom-saint-maurice-restoration-1234807093/",
+      "summary": "“El Greco was the Jeff Koons or Damien Hirst of his day,” said Carmen Reviriego, founder of the Callia Foundation, which helped fund the restoration.",
+      "published": "2026-11-20T21:49:51+00:00"
+    },
+    {
+      "sourceId": "hyperallergic",
+      "title": "Threading the Names of Alabama’s Black Belt History",
+      "url": "https://hyperallergic.com/threading-the-names-of-alabamas-black-belt-history/",
+      "summary": "In a community center across from Mt. Willing Baptist Church, a group of women is sewing the legacies of enslaved people into their quilts.",
+      "published": "2026-11-20T21:47:05+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Grand Theft Auto VI ’s Vice City Pays Homage to the Bass, Among More Art Easter Eggs",
+      "url": "https://www.artnews.com/art-news/news/grand-theft-auto-vice-city-bass-museum-art-oregano-basel-1234807185/",
+      "summary": "The game even rendered a riff on 'Miami Mountain', a tower of boulders by Ugo Rondinone installed outside the Bass.",
+      "published": "2026-11-20T21:12:22+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Judge Allows Lawsuit Over Allegedly Stolen Fra Angelico to Move Forward",
+      "url": "https://www.artnews.com/art-news/news/bic-heirs-fra-angelico-lawsuit-feigen-estate-ruling-1234807135/",
+      "summary": "The ruling is good news for the Bich heirs, though there's still a long way to go. The judge hasn't decided who owns the painting, or even whether it was stolen.",
+      "published": "2026-11-20T21:03:44+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "How do Artworks Acquire Value? New York Art Dealers David Nolan and Anton Svyatsky Weigh In.",
+      "url": "https://www.artnews.com/art-news/news/david-nolan-anton-svyatsky-art-week-nyc-2026-1234806643/",
+      "summary": "An art world veteran and a relative newcomer offer their perspectives on the role of the art collector in today's market.",
+      "published": "2026-11-20T21:00:00+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Working Mothers Face Pervasive Discrimination in London Art World, Study Finds",
+      "url": "https://www.artnews.com/art-news/news/working-mothers-face-discrimination-in-london-art-world-1234807151/",
+      "summary": "For many, having children comes at a professional cost",
+      "published": "2026-11-20T20:54:37+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "15 Van Gogh Masterpieces that Set Auction Records",
+      "url": "https://www.artnews.com/list/art-news/market/van-gogh-masterpieces-that-set-auction-records-1234784867/",
+      "summary": "Each of these works has achieved a place among the highest prices for a Van Gogh in auction history",
+      "published": "2026-11-20T20:21:25+00:00"
+    },
     {
       "sourceId": "artnews",
       "title": "The Beauty of the Game: Artist Paul Pfeiffer and Collectors Larry and Allison Berg on the Evolving Crossover Between Art and Sports",
@@ -64,45 +155,17 @@
       "published": "2026-11-20T18:54:35+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "The Best Booths at Frieze Abu Dhabi, From a Surrealist Take on the Iran-Iraq War to Mosaics",
-      "url": "https://www.artnews.com/list/art-news/news/8-best-booths-at-frieze-abu-dhabi-1234807046/",
-      "summary": "The most striking works confront regional conflict, as well as ideas of masculinity, memory, and religion.",
-      "published": "2026-11-20T18:08:38+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Ron Howard on Telling Richard Avedon’s ‘Very Human Story’ in New Netflix Doc",
-      "url": "https://www.artnews.com/art-news/news/ron-howard-richard-avedon-documentary-netflix-very-human-story-1234807103/",
-      "summary": "The documentary about famed fashion and portrait photographer Richard Avedon premiered on Netflix on Nov. 11.",
-      "published": "2026-11-20T17:38:04+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "In Sammy Baloji’s Hands, ‘Objective’ Materials Reveal New Truths About African History",
-      "url": "https://www.artnews.com/art-news/artists/sammy-baloji-venice-biennale-wexner-center-1234807096/",
-      "summary": "In presentations at the Venice Biennale and Ohio's Wexner Center, he explores the legacies of European colonialism in the Democratic Republic of Congo.",
-      "published": "2026-11-20T17:03:01+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "MoMA PS1 Plans ‘Malvestir,’ Exhibition Looking at Latin American and Latinx Fashion and Contemporary Art",
-      "url": "https://www.artnews.com/art-news/news/moma-ps1-malvestir-exhibition-latinx-fashion-art-1234807040/",
-      "summary": "The show will feature 20 artists and designers, including Willy Chavarria, Camila Falquez, Carla Fernández, Bárbara Sánchez-Kane, and Troy Montes Michie.",
-      "published": "2026-11-20T15:39:06+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Hilma af Klint Painting Sells in Sweden for $12.7 M., Setting New Auction Record",
-      "url": "https://www.artnews.com/art-news/news/hilma-af-klint-painting-auction-record-sweden-1234807039/",
-      "summary": "At least one art historian argued that the work should not have sold.",
-      "published": "2026-11-20T14:48:49+00:00"
+      "sourceId": "verge",
+      "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+      "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
+      "summary": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"i",
+      "published": "2026-11-20T15:43:52-05:00"
     },
     {
       "sourceId": "verge",
       "title": "Rockstar says GTA VI made $3.79 billion in its first day",
       "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
-      "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million in pre-orders. \"It is",
+      "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million preorder copies. \"It ",
       "published": "2026-11-20T14:35:06-05:00"
     },
     {
@@ -118,13 +181,6 @@
       "url": "https://www.niemanlab.org/2026/11/the-nieman-lab-news-about-news-quiz-november-20-2026/",
       "summary": "It’s been yet another busy week. Recap it with the fourth edition of the Nieman Lab News-About-News Quiz, your weekly incentive to keep up with the latest happenings in the world of digital journalism. All questions are ",
       "published": "2026-11-20T14:00:46+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "LA’s The Landing Gallery Closes, Christie’s Brings in $145.9 M. But Falls Short of Estimates, and More: Morning Links for November 19, 2026",
-      "url": "https://www.artnews.com/art-news/news/the-landing-la-gallery-closes-morning-links-1234806998/",
-      "summary": "Here's what we're reading this morning.",
-      "published": "2026-11-20T14:00:00+00:00"
     },
     {
       "sourceId": "verge",
@@ -176,13 +232,6 @@
       "published": "2026-11-20T11:22:15-05:00"
     },
     {
-      "sourceId": "verge",
-      "title": "Andrey Zvyagintsev believes filmmakers know what the audience wants — not executives",
-      "url": "https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director",
-      "summary": "The year is 2022. Vladimir Putin has announced the military draft. In Andrey Zvyagintsev's Minotaur, set in the fictional town of Krasoborsk, a quietly unhappy couple, called Gleb and Galina, carry on with their lives, o",
-      "published": "2026-11-20T11:00:00-05:00"
-    },
-    {
       "sourceId": "hyperallergic",
       "title": "Hilma af Klint Is Rolling in Her Grave",
       "url": "https://hyperallergic.com/hilma-af-klint-is-rolling-in-her-grave/",
@@ -190,11 +239,11 @@
       "published": "2026-11-20T11:00:00+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "Was Grandma Moses a Foil to Modernity, or a Product of It?",
-      "url": "https://www.artnews.com/art-in-america/aia-reviews/grandma-moses-survey-modernity-crystal-bridges-arkansas-1234806881/",
-      "summary": "Her landmark survey is on view at Crystal Bridges.",
-      "published": "2026-11-20T10:00:00+00:00"
+      "sourceId": "hyperallergic",
+      "title": "Still Here and Independent",
+      "url": "https://hyperallergic.com/still-here-and-independent/",
+      "summary": "And a new logo and website coming soon.",
+      "published": "2026-11-20T06:30:00+00:00"
     },
     {
       "sourceId": "hyperallergic",
@@ -211,20 +260,6 @@
       "published": "2026-11-19T21:51:36+00:00"
     },
     {
-      "sourceId": "hyperallergic",
-      "title": "The Ebullient Ecofeminism of Carolina Caycedo",
-      "url": "https://hyperallergic.com/the-ebullient-ecofeminism-of-carolina-caycedo/",
-      "summary": "Her candy-colored drawings lure the eye only to disquiet the mind, exposing the contradictions of so-called clean energy.",
-      "published": "2026-11-19T21:25:44+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Laia Abril Photographs the Instruments of Rape Culture",
-      "url": "https://hyperallergic.com/laia-abril-photographs-the-instruments-of-rape-culture/",
-      "summary": "In her latest show, garments and other objects serve as stand-ins for the systems that allow sexual assault to persist.",
-      "published": "2026-11-19T20:44:40+00:00"
-    },
-    {
       "sourceId": "nieman",
       "title": "Election season lifted public radio sites. So did a Supreme Court scandal and license plate drama.",
       "url": "https://www.niemanlab.org/2026/11/election-season-lifted-public-radio-sites-so-did-a-supreme-court-scandal-and-license-plate-drama/",
@@ -239,46 +274,11 @@
       "published": "2026-11-19T19:58:34+00:00"
     },
     {
-      "sourceId": "hyperallergic",
-      "title": "Art Dealer Sentenced for Falsely Claiming Native Heritage",
-      "url": "https://hyperallergic.com/art-dealer-sentenced-for-falsely-claiming-native-heritage/",
-      "summary": "Jose Martinez adopted the name Joseph Skywolf and ran a traveling gallery that sold products falsely marketed as Native, violating the Indian Arts and Crafts Act.",
-      "published": "2026-11-19T19:23:10+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Native Artist Receives $10K Grant to Revive Visor Craftmaking",
-      "url": "https://hyperallergic.com/native-artist-receives-10k-grant-to-revive-visor-craftmaking/",
-      "summary": "Dustin Newman (Unangax̂/Deg Hit’an Athabascan) will use the Walker Youngbird Foundation grant to revive the qayaatx̂ux, or chief visor.",
-      "published": "2026-11-19T19:02:14+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Richard Powell Unsettles Race and Color Theory",
-      "url": "https://hyperallergic.com/richard-powell-unsettles-race-and-color-theory/",
-      "summary": "Drawing on the work of artists and theorists alike, the art historian traces how generations of Black painters have deployed color and how color, in turn, shapes our understanding of Blackness.",
-      "published": "2026-11-19T17:13:40+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Iconic and Independent: New York Studio School's MFA Program",
-      "url": "https://hyperallergic.com/iconic-and-independent-new-york-studio-schools-mfa-program/",
-      "summary": "NYSS is now accepting applications from independent thinkers and experimenters in the arts.",
-      "published": "2026-11-19T15:45:00+00:00"
-    },
-    {
       "sourceId": "filmmaker",
       "title": "Andrey Zvyagintsev: “The War Is Everywhere You Look”",
       "url": "https://filmmakermagazine.com/134823-andrey-zvyagintsev-the-war-is-everywhere-you-look/",
       "summary": "Andrey Zvyagintsev’s Minotaur (2026) shouldn’t exist; that it does is something of a miracle. In 2020, the director suffered a near-fatal bout of COVID, which kept him in an induced coma for 40 days. He was then transfer",
       "published": "2026-11-19T15:43:36+00:00"
-    },
-    {
-      "sourceId": "hyperallergic",
-      "title": "Recovering Edward Said’s Voice",
-      "url": "https://hyperallergic.com/recovering-edward-saids-voice/",
-      "summary": "Moustafa Bayoumi on a new documentary about the legendary Palestinian critic and activist; plus, can contemporary art make us laugh?",
-      "published": "2026-11-19T11:00:00+00:00"
     },
     {
       "sourceId": "nieman",
