@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T06:47:37.059743+00:00",
+  "updatedAt": "2026-11-22T19:40:05.684488+00:00",
   "sources": [
     {
       "id": "hyperallergic",
@@ -29,18 +29,81 @@
   ],
   "items": [
     {
-      "sourceId": "verge",
-      "title": "Amazon is complaining about NYC Council on shipping labels, too",
-      "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
-      "summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Ama",
-      "published": "2026-11-21T16:59:31-05:00"
+      "sourceId": "artnews",
+      "title": "Carolina Herrera’s Wes Gordon and Oribe’s Daniel Kaner on Collecting as a Personal Passion and a Creative Practice",
+      "url": "https://www.artnews.com/art-news/news/wes-gordon-daniel-kaner-carolina-herrera-oribe-art-week-nyc-2026-1234806633/",
+      "summary": "Gordon and Kaner reveal how they've build their own collections, and what inspires their work in the fashion and beauty world.",
+      "published": "2026-11-22T14:00:00+00:00"
     },
     {
       "sourceId": "verge",
-      "title": "The UN fails to agree on rules regulating ‘killer robots’",
-      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings a",
-      "published": "2026-11-21T15:03:37-05:00"
+      "title": "Delta flights in and out of Atlanta delayed due to system outage",
+      "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+      "summary": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta's l",
+      "published": "2026-11-22T12:46:44-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs ",
+      "published": "2026-11-22T12:25:20-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+      "url": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+      "summary": "Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In addition to a $50 off",
+      "published": "2026-11-22T12:00:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
+      "url": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
+      "summary": "Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched folk-noir debut LP that's ",
+      "published": "2026-11-22T11:33:29-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Protesters storm Meta offices in India",
+      "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+      "summary": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company r",
+      "published": "2026-11-22T10:15:07-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
+      "summary": "Those hoping to save some cash on a Nintendo Switch 2 can do so starting today, November 22nd, through Saturday, December 5th, giving you plenty of time to think about it after Cyber Monday has passed. For a limited time",
+      "published": "2026-11-22T09:00:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "‘The show is starting soon. Please turn on your headphones.’",
+      "url": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
+      "summary": "Up a few concrete steps and through the front door of a 200-year-old row house in New York City, I follow a crowd of people into the 178-seat SoHo Playhouse. As we filter to our seats, ushers hand each person a black dra",
+      "published": "2026-11-22T09:00:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "How Tamagotchis got us hooked on digital pets",
+      "url": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
+      "summary": "If you were are a kid in the late 1990s, there's a near-100 percent chance you either had a Tamagotchi or knew someone who did. The tiny digital pets came out of nowhere and became an overnight sensation, as millions of ",
+      "published": "2026-11-22T08:15:27-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Your questions about Apple HomeView’s audio, answered",
+      "url": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
+      "summary": "After I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker. So, I spent a bunch more time testing its audio capabilities and support",
+      "published": "2026-11-22T08:00:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday",
+      "published": "2026-11-22T08:00:00-05:00"
     },
     {
       "sourceId": "artnews",
@@ -57,27 +120,6 @@
       "published": "2026-11-21T13:19:00+00:00"
     },
     {
-      "sourceId": "verge",
-      "title": "The FBI and USDA were reportedly hacked",
-      "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
-      "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this ti",
-      "published": "2026-11-21T12:42:27-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
-      "url": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
-      "summary": "You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliable source of laughs, ",
-      "published": "2026-11-21T11:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
-      "url": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
-      "summary": "Amazon only announced its first digital photo frame less than a month ago, but it’s already getting a sizable discount for Black Friday. You can currently grab the Alexa Photo Frame at Amazon and Best Buy starting at $11",
-      "published": "2026-11-21T11:00:00-05:00"
-    },
-    {
       "sourceId": "hyperallergic",
       "title": "Hail to the Squash King",
       "url": "https://hyperallergic.com/hail-to-the-squash-king/",
@@ -85,46 +127,11 @@
       "published": "2026-11-21T11:00:00+00:00"
     },
     {
-      "sourceId": "verge",
-      "title": "Can Anthropic afford to put safety first?",
-      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last T",
-      "published": "2026-11-21T10:00:00-05:00"
-    },
-    {
       "sourceId": "artnews",
       "title": "Maren Hassinger Won’t Be Weighed Down",
       "url": "https://www.artnews.com/art-in-america/aia-reviews/maren-hassinger-bampfa-retrospective-berkeley-1234806748/",
       "summary": "Her retrospective at the Berkeley Art Museum and Pacific Film Archive (BAMPFA) highlights the artist's love of metal and motion.",
       "published": "2026-11-21T10:00:00+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
-      "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
-      "summary": "If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That’s the lowest price we’ve seen for Anker’s excellent wireless earbuds, whic",
-      "published": "2026-11-21T09:55:28-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
-      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
-      "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, ",
-      "published": "2026-11-21T09:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
-      "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
-      "summary": "Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the",
-      "published": "2026-11-21T08:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "The game of the year is finally here",
-      "url": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
-      "summary": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the ol",
-      "published": "2026-11-21T08:00:00-05:00"
     },
     {
       "sourceId": "hyperallergic",
@@ -209,13 +216,6 @@
       "url": "https://www.artnews.com/art-news/news/working-mothers-face-discrimination-in-london-art-world-1234807151/",
       "summary": "For many, having children comes at a professional cost",
       "published": "2026-11-20T20:54:37+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "15 Van Gogh Masterpieces that Set Auction Records",
-      "url": "https://www.artnews.com/list/art-news/market/van-gogh-masterpieces-that-set-auction-records-1234784867/",
-      "summary": "Each of these works has achieved a place among the highest prices for a Van Gogh in auction history",
-      "published": "2026-11-20T20:21:25+00:00"
     },
     {
       "sourceId": "hyperallergic",
