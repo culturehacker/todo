@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T19:40:05.684488+00:00",
+  "updatedAt": "2026-11-23T07:37:54.604516+00:00",
   "sources": [
     {
       "id": "hyperallergic",
@@ -28,6 +28,20 @@
     }
   ],
   "items": [
+    {
+      "sourceId": "verge",
+      "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+      "url": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+      "summary": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display",
+      "published": "2026-11-22T22:00:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "We haven’t seen the last of the major tech outages",
+      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are m",
+      "published": "2026-11-22T17:48:02-05:00"
+    },
     {
       "sourceId": "artnews",
       "title": "Carolina Herrera’s Wes Gordon and Oribe’s Daniel Kaner on Collecting as a Personal Passion and a Creative Practice",
@@ -90,20 +104,6 @@
       "url": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
       "summary": "If you were are a kid in the late 1990s, there's a near-100 percent chance you either had a Tamagotchi or knew someone who did. The tiny digital pets came out of nowhere and became an overnight sensation, as millions of ",
       "published": "2026-11-22T08:15:27-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Your questions about Apple HomeView’s audio, answered",
-      "url": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
-      "summary": "After I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker. So, I spent a bunch more time testing its audio capabilities and support",
-      "published": "2026-11-22T08:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "The vibe-coding revolution is coming to all the gadgets",
-      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday",
-      "published": "2026-11-22T08:00:00-05:00"
     },
     {
       "sourceId": "artnews",
