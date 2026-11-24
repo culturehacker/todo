@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T09:54:04.083205+00:00",
+  "updatedAt": "2026-11-24T22:26:34.652533+00:00",
   "sources": [
     {
       "id": "hyperallergic",
@@ -29,6 +29,160 @@
   ],
   "items": [
     {
+      "sourceId": "artnews",
+      "title": "Thelma Golden To Step Down From Role as Director of Studio Museum in Harlem",
+      "url": "https://www.artnews.com/art-news/artists/thelma-golden-to-step-down-director-studio-museum-in-harlem-1234807621/",
+      "summary": "The announcement coincides with Golden's 20th anniversary in the role, which she assumed in 2006, and just one year after the museum reopened in a new, purpose-built building after a seven year closure.",
+      "published": "2026-11-24T21:52:47+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Military History Museum in Dresden Agrees to Return Contested Nazi-Era Family Archive to Jehovah’s Witnesses",
+      "url": "https://www.artnews.com/art-news/news/jehovahs-witnesses-military-history-museum-dresden-family-archive-nazi-era-1234807616/",
+      "summary": "Annemarie Kusserow was one of 11 children from a family of Jehovah's Witnesses that faced persecution during World War II.",
+      "published": "2026-11-24T21:20:01+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Bukhara Biennial Unveils ‘The Long Welcome’ Theme and Names First Artists",
+      "url": "https://www.artnews.com/art-news/news/bukhara-biennial-theme-first-artists-1234807593/",
+      "summary": "The exhibition is scheduled for September 3 through November 21.",
+      "published": "2026-11-24T21:15:46+00:00"
+    },
+    {
+      "sourceId": "nieman",
+      "title": "The Wall Street Journal joins a growing list of publishers disallowing bots by default",
+      "url": "https://www.niemanlab.org/2026/11/the-wall-street-journal-joins-growing-list-of-publishers-disallowing-bots-by-default/",
+      "summary": "One of the world’s largest business publishers is shutting the door on unwelcome bots. In May, Dow Jones overhauled its bot strategy and now disallows all bots by default, the company told Nieman Lab. The new bot permiss",
+      "published": "2026-11-24T19:27:08+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Iraq’s Museums Are Finally Opening Their Doors Again",
+      "url": "https://www.artnews.com/art-news/news/iraq-museums-reopen-national-museum-1234807536/",
+      "summary": "In Baghdad alone, the National Museum, the Abbasid Palace, and the Shamash Museum are slowly opening up to the world.",
+      "published": "2026-11-24T18:59:27+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "EVA International Announces Theme for 50th Anniversary Edition in 2027",
+      "url": "https://www.artnews.com/art-news/news/eva-international-announces-details-1234807519/",
+      "summary": "Director Matt Packer will step down in spring 2028 after 10 years.",
+      "published": "2026-11-24T18:40:31+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Dora Maar’s Paris Apartment Is For Sale, Picasso Wall Drawings and All",
+      "url": "https://www.artnews.com/art-news/news/dora-maar-paris-apartment-sale-picasso-wall-drawings-1234807368/",
+      "summary": "The artist's home has been listed for about $3.1 million.",
+      "published": "2026-11-24T17:30:33+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Huawei found guilty of stealing trade secrets",
+      "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+      "summary": "A jury has found Huawei guilty of stealing US trade secrets, according to reports from NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the",
+      "published": "2026-11-24T17:23:27-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "GTA VI PC recompilation project shut down by Take-Two",
+      "url": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two",
+      "summary": "Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old \"NotRexed,\" has vanished after a DMCA takedown",
+      "published": "2026-11-24T16:39:14-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "The Verge’s 2026 holiday gift guide for moms",
+      "url": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
+      "summary": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life?",
+      "published": "2026-11-24T16:09:59-05:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "A Minimalist, a Maximalist, and 30 Years of Friendship",
+      "url": "https://www.artnews.com/art-in-america/interviews/sarah-lucas-cerith-wyn-evans-gladstone-1234807421/",
+      "summary": "Sarah Lucas and Cerith Wyn Evans on their new two-person show, creative community, and why they’ve never been strategic about art.",
+      "published": "2026-11-24T15:33:48+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "TikTok was down",
+      "url": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
+      "summary": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do. Videos sometimes wouldn't load in the For You feed on my iPhone, and search r",
+      "published": "2026-11-24T15:27:27-05:00"
+    },
+    {
+      "sourceId": "nieman",
+      "title": "Confident kids, cautious elders: What we get wrong (and right) about who really understands social media algorithms",
+      "url": "https://www.niemanlab.org/2026/11/confident-kids-cautious-elders-what-we-get-wrong-and-right-about-who-really-understands-social-media-algorithms/",
+      "summary": "Ask a 19-year-old how TikTok decides what to show them, and you’ll likely get a fast, confident answer about watch time, likes, and how “the algorithm just gets me.” Ask their grandmother, and you’re more likely to get a",
+      "published": "2026-11-24T15:06:36+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job ",
+      "published": "2026-11-24T15:02:03-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "The clock is running out for America’s most contentious spying law",
+      "url": "https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave",
+      "summary": "Weeks before the end of the legislative session, some members of Congress are scrambling to reauthorize a controversial warrantless wiretapping authority, possibly by attaching it to a must-pass military spending bill. S",
+      "published": "2026-11-24T15:00:00-05:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "South African Artist Tamlin Blake Found Dead, Germany to Restitute Archive of Nazi-Persecuted Jehovah’s Witnesses to Family, and More: Morning Links for November 24, 2026",
+      "url": "https://www.artnews.com/art-news/news/south-african-artist-and-curator-tamlin-blake-found-dead-1234807445/",
+      "summary": "Here's what we're reading this morning.",
+      "published": "2026-11-24T14:30:33+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Amazon is knocking almost $50 off six months of Apple TV",
+      "url": "https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday",
+      "summary": "Streaming deals aren’t as plentiful as they used to be, but they’re still around if you know where to look. One that caught our eye is an offer for Apple TV for those with an Amazon account in the US. Apple’s streaming s",
+      "published": "2026-11-24T14:00:00-05:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Frieze Los Angeles Lines Up 102 Exhibitors for 2027 Edition",
+      "url": "https://www.artnews.com/art-news/market/frieze-los-angeles-2027-exhibitor-list-1234807432/",
+      "summary": "The upcoming fair will run February 25–28 at the Santa Monica Airport.",
+      "published": "2026-11-24T14:00:00+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Now Firefox can select which sites use its VPN, and clear your browsing history with one click",
+      "url": "https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button",
+      "summary": "Mozilla released Firefox 161 on Tuesday with a new setting you can use to choose which pages automatically open with the browser's VPN active. Using the \"Manage VPN rules\" option in Firefox's VPN panel, you can set it to",
+      "published": "2026-11-24T13:44:57-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether gen",
+      "published": "2026-11-24T13:15:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Dreame and Eufy are offering nearly 60 percent off robovacs for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1040315/black-friday-best-early-robot-vacuum-mop-deals-2026",
+      "summary": "Between putting up decorations, entertaining guests, and meal prep, the holidays are busy enough without worrying about vacuuming. Thankfully, a proper robot vacuum can do the dirty work while you focus on more enjoyable",
+      "published": "2026-11-24T12:30:00-05:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "A New Museum in Georgia’s Wine Country Shows Another Side of the Country’s Art History",
+      "url": "https://www.artnews.com/art-news/news/kvareli-foundation-for-contemporary-art-georgia-opening-1234807297/",
+      "summary": "The Kvareli Foundation for Contemporary Art opens with a survey of unofficial Georgian art amid an ongoing government crackdown on civil society.",
+      "published": "2026-11-24T12:26:01+00:00"
+    },
+    {
       "sourceId": "hyperallergic",
       "title": "Trump Hits New Low With Bizarre Nvidia CEO Meme",
       "url": "https://hyperallergic.com/trump-hits-new-low-with-bizarre-nvidia-ceo-meme/",
@@ -57,32 +211,11 @@
       "published": "2026-11-23T21:33:27+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "Since 2020, the Canon Has Grown Bigger Than Ever Before. Will Museums and the Market Continue to Listen?",
-      "url": "https://www.artnews.com/art-news/news/2020s-expanding-canon-art-week-nyc-1234807332/",
-      "summary": "Experts gathered during Art Week NYC to discuss the art world since 2020.",
-      "published": "2026-11-23T21:19:24+00:00"
-    },
-    {
       "sourceId": "hyperallergic",
       "title": "Something Strange at Maggie Ellis’s Thanksgiving Table",
       "url": "https://hyperallergic.com/something-strange-at-maggie-elliss-thanksgiving-table/",
       "summary": "In Ellis's world, you can never be quite sure whether you've stumbled into a dream, a nightmare, or someone else's very strange family gathering.",
       "published": "2026-11-23T20:54:21+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Faurschou Ends Its Public Exhibition Program as Its New York Space Heads for Demolition",
-      "url": "https://www.artnews.com/art-news/news/faurschou-foundation-ends-shows-sells-new-york-building-1234807321/",
-      "summary": "After four decades, Faurschou's public shows are over.",
-      "published": "2026-11-23T20:10:42+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Lynette Yiadom-Boakye and Anne Imhof Make Vogue’s 2026 Best-Dressed List",
-      "url": "https://www.artnews.com/art-news/news/lynette-yiadom-boakye-anne-imhof-vogue-best-dressed-list-1234807360/",
-      "summary": "The list also included dancer Devon Teuscher and architect Sumayya Vally.",
-      "published": "2026-11-23T20:08:13+00:00"
     },
     {
       "sourceId": "hyperallergic",
@@ -106,27 +239,6 @@
       "published": "2026-11-23T19:14:13+00:00"
     },
     {
-      "sourceId": "artnews",
-      "title": "13th-Century Carving Stolen by Art Thief ‘Eric the Belgian’ Recovered in the UK",
-      "url": "https://www.artnews.com/art-news/news/13th-century-carving-stolen-art-thief-eric-the-belgian-recovered-uk-1234807344/",
-      "summary": "The so-called \"gentleman thief\" was known for robbing churches and monasteries in rural Spain in the 1970s and '80s.",
-      "published": "2026-11-23T19:08:45+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Friedrich Christian Flick, Art Collector and Scion of German Industrialists with Nazi Past, Dies at 82",
-      "url": "https://www.artnews.com/art-news/news/friedrich-christian-flick-collection-dead-82-1234807322/",
-      "summary": "Flick reportedly died after suffering injuries from a fall days earlier.",
-      "published": "2026-11-23T19:03:52+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Google alternative Kagi launches an email service",
-      "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
-      "summary": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email ser",
-      "published": "2026-11-23T19:02:52-05:00"
-    },
-    {
       "sourceId": "nieman",
       "title": "An open laptop, a crowded Orange Line train, and a tipster",
       "url": "https://www.niemanlab.org/2026/11/an-open-laptop-a-crowded-orange-line-train-and-a-tipster/",
@@ -139,104 +251,6 @@
       "url": "https://hyperallergic.com/trump-staffer-unwittingly-reveals-smithsonian-takeover-plan/",
       "summary": "Reviews of the institution's exhibitions, termination of the American History Museum director, and financial restructuring are all on the line.",
       "published": "2026-11-23T18:43:28+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
-      "url": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
-      "summary": "Arion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI developer Rockstar Games and other companies, including Uber and Revolut, was sentenced to seven years in prison but released on license, the BBC ",
-      "published": "2026-11-23T18:25:01-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "The Verge’s 2026 holiday gift guide",
-      "url": "https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026",
-      "summary": "Gift-giving isn't just about grabbing something solid under a determined spending limit. It's an expression of love, a way to show someone how well you really know them. That doesn't mean you have to do it all on your ow",
-      "published": "2026-11-23T18:14:10-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Ladybird, the first new browser engine in years, is now available to test",
-      "url": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
-      "summary": "Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and Linux fol",
-      "published": "2026-11-23T17:38:09-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Trump engineered a risky comeback for Jensen Huang",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
-      "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on St",
-      "published": "2026-11-23T17:25:12-05:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Mohamed bin Zayed University of Artificial Intelligence Launches $250,000 Art Commission Program",
-      "url": "https://www.artnews.com/art-news/news/mbzuai-launches-inaugural-250000-commission-1234807312/",
-      "summary": "The winning commission will be displayed in the university’s new cultural center that’s slated to open in 2027.",
-      "published": "2026-11-23T17:20:49+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "With MoMA, M+, and the Centre Pompidou’s Alliance, Museums Enter a New Era of Collaboration",
-      "url": "https://www.artnews.com/art-news/opinion/moma-m-plus-centre-pompidou-alliance-collaboration-1234807316/",
-      "summary": "Maximizing and leveraging the reach of individual collections is only the start.",
-      "published": "2026-11-23T17:16:58+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Tim",
-      "published": "2026-11-23T17:10:32-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Welcome to elite impunity, Jensen Huang",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
-      "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. N",
-      "published": "2026-11-23T17:09:26-05:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Did a Trump Staffer Accidentally Reveal White House Plans to Revamp the Smithsonian?",
-      "url": "https://www.artnews.com/art-news/news/trump-staffer-reveal-white-house-plans-revamp-smithsonian-1234807305/",
-      "summary": "The staffer, likely one Sam Bock, was seen working on a “renewal plan” while riding a commuter train.",
-      "published": "2026-11-23T16:49:30+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
-      "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
-      "summary": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new a",
-      "published": "2026-11-23T16:36:48-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "AI data centers throw another wrench into chaotic UN climate talks",
-      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-      "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations",
-      "published": "2026-11-23T16:09:37-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Apple renews Ted Lasso for season 5",
-      "url": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
-      "summary": "One of Apple's biggest shows is sticking around for at least one more season. The streamer announced today that Ted Lasso has been renewed for a fifth season on Apple TV, after what the company calls a \"record-breaking s",
-      "published": "2026-11-23T15:56:00-05:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Controversial Venice Biennale Closes, Athens Police Seize 35 Forgeries, and More: Morning Links for November 23, 2026",
-      "url": "https://www.artnews.com/art-news/news/controversial-venice-biennale-closes-morning-links-1234807296/",
-      "summary": "Here's what we're reading this morning.",
-      "published": "2026-11-23T14:23:00+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Hauser & Wirth Now Represents Ser Serpas, Fast-Rising Artist Who Combs the Detritus of Everyday Life",
-      "url": "https://www.artnews.com/art-news/market/ser-serpas-hauser-and-wirth-gallery-representation-1234807276/",
-      "summary": "She will have her first show at the gallery’s Paris space in January.",
-      "published": "2026-11-23T14:00:00+00:00"
     },
     {
       "sourceId": "hyperallergic",
@@ -342,20 +356,6 @@
       "url": "https://filmmakermagazine.com/134798-historys-nightmares/",
       "summary": "The image, at first, seems clear enough: a rocky surface viewed in monochrome through the extreme close-up of a macro lens, its worn textures providing an impressively wide range of grays. The composition centers an arra",
       "published": "2026-11-16T14:00:11+00:00"
-    },
-    {
-      "sourceId": "nieman",
-      "title": "The Nieman Lab News-About-News Quiz, November 13, 2026",
-      "url": "https://www.niemanlab.org/2026/11/the-nieman-lab-news-about-news-quiz-november-13-2026/",
-      "summary": "It’s been another busy week. Recap it with the third edition of the Nieman Lab News-About-News Quiz, your weekly incentive to keep up with the latest happenings in the world of digital journalism. All questions are based",
-      "published": "2026-11-13T14:00:33+00:00"
-    },
-    {
-      "sourceId": "nieman",
-      "title": "Indonesia’s new copyright bill would force Google and Meta to pay to aggregate news",
-      "url": "https://www.niemanlab.org/2026/11/indonesias-new-copyright-bill-would-force-google-and-meta-to-pay-to-aggregate-news/",
-      "summary": "On Wednesday, Meta, TikTok, and Google testified in the Indonesian parliament in opposition to a new copyright bill. The proposed law would require digital platforms to pay news publishers in Indonesia for aggregating an",
-      "published": "2026-11-12T21:52:25+00:00"
     },
     {
       "sourceId": "filmmaker",
