@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T23:53:50.445868+00:00",
+  "updatedAt": "2026-11-24T09:54:04.083205+00:00",
   "sources": [
     {
       "id": "hyperallergic",
@@ -120,6 +120,13 @@
       "published": "2026-11-23T19:03:52+00:00"
     },
     {
+      "sourceId": "verge",
+      "title": "Google alternative Kagi launches an email service",
+      "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+      "summary": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email ser",
+      "published": "2026-11-23T19:02:52-05:00"
+    },
+    {
       "sourceId": "nieman",
       "title": "An open laptop, a crowded Orange Line train, and a tipster",
       "url": "https://www.niemanlab.org/2026/11/an-open-laptop-a-crowded-orange-line-train-and-a-tipster/",
@@ -216,13 +223,6 @@
       "url": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
       "summary": "One of Apple's biggest shows is sticking around for at least one more season. The streamer announced today that Ted Lasso has been renewed for a fifth season on Apple TV, after what the company calls a \"record-breaking s",
       "published": "2026-11-23T15:56:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Claude AI can review pull requests and ship fixes on its own now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-      "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have a",
-      "published": "2026-11-23T15:00:00-05:00"
     },
     {
       "sourceId": "artnews",
