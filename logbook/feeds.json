@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T22:26:34.652533+00:00",
+  "updatedAt": "2026-11-25T08:34:08.175541+00:00",
   "sources": [
     {
       "id": "hyperallergic",
@@ -50,11 +50,25 @@
       "published": "2026-11-24T21:15:46+00:00"
     },
     {
+      "sourceId": "verge",
+      "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
+      "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
+      "summary": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that re",
+      "published": "2026-11-24T20:00:00-05:00"
+    },
+    {
       "sourceId": "nieman",
       "title": "The Wall Street Journal joins a growing list of publishers disallowing bots by default",
       "url": "https://www.niemanlab.org/2026/11/the-wall-street-journal-joins-growing-list-of-publishers-disallowing-bots-by-default/",
       "summary": "One of the world’s largest business publishers is shutting the door on unwelcome bots. In May, Dow Jones overhauled its bot strategy and now disallows all bots by default, the company told Nieman Lab. The new bot permiss",
       "published": "2026-11-24T19:27:08+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "The Verge’s 2026 gift guide for dads",
+      "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
+      "summary": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find somethi",
+      "published": "2026-11-24T18:59:29-05:00"
     },
     {
       "sourceId": "artnews",
@@ -71,6 +85,13 @@
       "published": "2026-11-24T18:40:31+00:00"
     },
     {
+      "sourceId": "verge",
+      "title": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa",
+      "url": "https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa",
+      "summary": "The US Army is moving ahead with plans to detonate the nation's stockpile of lead azide at an ammunition plant in Middletown, Iowa, at approximately 9:00AM CST on Wednesday. The Verge reached out to experts on what to ex",
+      "published": "2026-11-24T18:25:46-05:00"
+    },
+    {
       "sourceId": "artnews",
       "title": "Dora Maar’s Paris Apartment Is For Sale, Picasso Wall Drawings and All",
       "url": "https://www.artnews.com/art-news/news/dora-maar-paris-apartment-sale-picasso-wall-drawings-1234807368/",
@@ -81,7 +102,7 @@
       "sourceId": "verge",
       "title": "Huawei found guilty of stealing trade secrets",
       "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
-      "summary": "A jury has found Huawei guilty of stealing US trade secrets, according to reports from NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the",
+      "summary": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Ch",
       "published": "2026-11-24T17:23:27-05:00"
     },
     {
@@ -109,7 +130,7 @@
       "sourceId": "verge",
       "title": "TikTok was down",
       "url": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
-      "summary": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do. Videos sometimes wouldn't load in the For You feed on my iPhone, and search r",
+      "summary": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do, following a slew of other outages over the past couple of weeks. Videos somet",
       "published": "2026-11-24T15:27:27-05:00"
     },
     {
@@ -153,27 +174,6 @@
       "url": "https://www.artnews.com/art-news/market/frieze-los-angeles-2027-exhibitor-list-1234807432/",
       "summary": "The upcoming fair will run February 25–28 at the Santa Monica Airport.",
       "published": "2026-11-24T14:00:00+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Now Firefox can select which sites use its VPN, and clear your browsing history with one click",
-      "url": "https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button",
-      "summary": "Mozilla released Firefox 161 on Tuesday with a new setting you can use to choose which pages automatically open with the browser's VPN active. Using the \"Manage VPN rules\" option in Firefox's VPN panel, you can set it to",
-      "published": "2026-11-24T13:44:57-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
-      "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
-      "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether gen",
-      "published": "2026-11-24T13:15:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Dreame and Eufy are offering nearly 60 percent off robovacs for Black Friday",
-      "url": "https://www.theverge.com/gadgets/1040315/black-friday-best-early-robot-vacuum-mop-deals-2026",
-      "summary": "Between putting up decorations, entertaining guests, and meal prep, the holidays are busy enough without worrying about vacuuming. Thankfully, a proper robot vacuum can do the dirty work while you focus on more enjoyable",
-      "published": "2026-11-24T12:30:00-05:00"
     },
     {
       "sourceId": "artnews",
