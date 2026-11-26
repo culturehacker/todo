@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T21:42:10.232297+00:00",
+  "updatedAt": "2026-11-26T08:17:10.397534+00:00",
   "sources": [
     {
       "id": "hyperallergic",
@@ -53,7 +53,7 @@
       "sourceId": "artnews",
       "title": "Dead Man Is Accused of Stealing Art from Michigan Museums",
       "url": "https://www.artnews.com/art-news/news/dead-man-art-theft-michigan-museums-1234807950/",
-      "summary": "Mikolai Augustine Stasiulewicz,allegedly stole artworks from the Grand Rapids Art Museum and Western Michigan University.",
+      "summary": "Mikolai Augustine Stasiulewicz allegedly stole artworks from the Grand Rapids Art Museum and Western Michigan University.",
       "published": "2026-11-25T20:02:06+00:00"
     },
     {
@@ -71,11 +71,39 @@
       "published": "2026-11-25T19:24:50+00:00"
     },
     {
+      "sourceId": "verge",
+      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+      "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+      "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to th",
+      "published": "2026-11-25T19:04:34-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Amazon loses its latest attempt to get out of handling more recall notices",
+      "url": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
+      "summary": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District of Maryland ruled in fav",
+      "published": "2026-11-25T18:56:44-05:00"
+    },
+    {
       "sourceId": "artnews",
       "title": "Warhol’s Watches",
       "url": "https://www.artnews.com/art-news/sponsored-content/piaget-warhols-watches-1234805785/",
       "summary": "Piaget’s second collaboration with The Andy Warhol Foundation for the Visual Arts translates the pop artist’s 1986 Camouflage self-portraits into dials made of gemstone marquetry.",
       "published": "2026-11-25T17:01:00+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The",
+      "published": "2026-11-25T16:51:26-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "The Verge’s 2026 holiday gift guide for travelers",
+      "url": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
+      "summary": "Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut like a goat, and make friends wherever they",
+      "published": "2026-11-25T16:48:00-05:00"
     },
     {
       "sourceId": "artnews",
@@ -141,32 +169,11 @@
       "published": "2026-11-25T12:44:51-05:00"
     },
     {
-      "sourceId": "verge",
-      "title": "The Verge’s guide to the best gifts under $100",
-      "url": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
-      "summary": "Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and well-made, but not so pricey that it's likely to le",
-      "published": "2026-11-25T12:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Nothing offers a full look at its AI earbuds and charging case",
-      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
-      "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize yo",
-      "published": "2026-11-25T11:00:59-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "The Verge’s guide to affordable holiday gifts under $25",
-      "url": "https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026",
-      "summary": "Gift-giving on a tight budget is tough, but constraints can also encourage some creative thinking. We thought for a long while (and asked other Verge staffers) about the best items out there, and we're pretty happy with ",
-      "published": "2026-11-25T10:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
-      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
-      "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of prod",
-      "published": "2026-11-25T09:12:33-05:00"
+      "sourceId": "filmmaker",
+      "title": "Weaving a “Wicker” Prince Charming",
+      "url": "https://filmmakermagazine.com/134841-considerations-weaving-wicker-prince-charming/",
+      "summary": "Wētā Workshop’s Joe Dunckley has designed prosthetic makeup for several sci-fi projects, including District 9 (2009), Elysian (2013), and the FX/Hulu series Alien: Earth (2025). But when he first read the script for Alex",
+      "published": "2026-11-24T23:19:06+00:00"
     },
     {
       "sourceId": "nieman",
@@ -181,6 +188,13 @@
       "url": "https://www.niemanlab.org/2026/11/confident-kids-cautious-elders-what-we-get-wrong-and-right-about-who-really-understands-social-media-algorithms/",
       "summary": "Ask a 19-year-old how TikTok decides what to show them, and you’ll likely get a fast, confident answer about watch time, likes, and how “the algorithm just gets me.” Ask their grandmother, and you’re more likely to get a",
       "published": "2026-11-24T15:06:36+00:00"
+    },
+    {
+      "sourceId": "filmmaker",
+      "title": "Lance Hammer Trusts the Process",
+      "url": "https://filmmakermagazine.com/134833-lance-hammer-trusts-the-process/",
+      "summary": "It has been almost two decades since the writer-director-editor Lance Hammer arrived on the American independent film scene with his Sundance-winning Ballast (2008), a plaintive, raw-nerved drama about the tricky attachm",
+      "published": "2026-11-23T23:16:14+00:00"
     },
     {
       "sourceId": "hyperallergic",
@@ -405,20 +419,6 @@
       "url": "https://filmmakermagazine.com/134700-the-rise-of-surprise/",
       "summary": "Shortly after its 1974 inception, the Telluride Film Festival began to foster a sense of surprise and exclusivity. The festival, whose slate is composed entirely of North American premieres, doesn’t announce its program ",
       "published": "2026-11-02T19:19:40+00:00"
-    },
-    {
-      "sourceId": "filmmaker",
-      "title": "Fall 2026 Festigraphix",
-      "url": "https://filmmakermagazine.com/134683-fall-2026-festigraphix/",
-      "summary": "The fall is a time of plentiful options at the cinema. Advocacy from trusted voices can help you get your bearings, but sometimes, it’s helpful to get a wider view of common themes and interests to crack the code of the ",
-      "published": "2026-10-30T17:05:34+00:00"
-    },
-    {
-      "sourceId": "filmmaker",
-      "title": "Diego Marcon’s Kids Are Not All Right",
-      "url": "https://filmmakermagazine.com/134583-diego-marcons-kids-are-not-all-right/",
-      "summary": "[Please note that the following article contains graphic imagery and description. —Eds.] Diego Marcon’s videos merge the misadventures of coming of age with the whimsical terror of Grimm’s Fairy Tales, telling tales of f",
-      "published": "2026-10-29T15:12:33+00:00"
     }
   ]
 }
