@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T08:33:18.435567+00:00",
+  "updatedAt": "2026-11-27T21:17:39.703247+00:00",
   "sources": [
     {
       "id": "hyperallergic",
@@ -30,17 +30,129 @@
   "items": [
     {
       "sourceId": "artnews",
+      "title": "Hoor Al Qasimi Named Curator of 2028 Venice Biennale, Report Details Limited Damage to Bayeux Tapestry Following Transport to the British Museum, and More: Morning Links for Novemb",
+      "url": "https://www.artnews.com/art-news/news/breakfast-with-artnews-morning-links-for-november-27-2026-1234808138/",
+      "summary": "Here's what we're reading this morning.",
+      "published": "2026-11-27T18:46:52+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Russia Is Erasing Memories of the Gulag and Reframing Stalin’s History",
+      "url": "https://www.artnews.com/art-news/news/russia-erasing-memories-gulag-and-reframing-stalin-history-1234808113/",
+      "summary": "Since 2022, at least 26 memorials dedicated to Gulag victims have disappeared.",
+      "published": "2026-11-27T18:35:57+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "German Museum Transforms Permanent Collection Galleries into Gym to Attract Youth",
+      "url": "https://www.artnews.com/art-news/news/german-museum-transforms-collection-galleries-into-gym-1234808112/",
+      "summary": "\"Gym. Fit with Art\" unfolds in galleries at Düsseldorf's Kunstpalast museum displaying historic and contemporary art.",
+      "published": "2026-11-27T18:23:54+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Final Report Details Minor, But Visible Damage to the Bayeux Tapestry Following Trip to the British Museum",
+      "url": "https://www.artnews.com/art-news/news/report-details-minor-damage-bayeux-tapestry-following-journey-1234808106/",
+      "summary": "Experts reportedly stated that the overall condition of the nearly 1000-year-old tapestry remained “satisfactory,” but noted “two zones of fiber breakage,” among other issues.",
+      "published": "2026-11-27T16:21:49+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "The absolute best Black Friday deals we’ve found (so far)",
+      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+      "summary": "This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store and online for video g",
+      "published": "2026-11-27T16:09:43-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "My favorite MPC beat maker is ready for your vibe-coded firmware and effects",
+      "url": "https://www.theverge.com/gadgets/1044485/mpc-sample-firmware-sdk",
+      "summary": "Akai is continuing to open up its various music-making platforms with the MPC Sample 1.4 firmware. My favorite (and the most affordable) of the MPC samplers has become a popular home for vibe-coded custom firmwares and m",
+      "published": "2026-11-27T15:48:04-05:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Rachel Whiteread Has Designed the 2027 Brit Awards Trophy",
+      "url": "https://www.artnews.com/art-news/news/rachel-whiteread-designed-2027-brit-awards-trophy-1234808097/",
+      "summary": "The artist was the first woman to win the Turner Prize in 1993.",
+      "published": "2026-11-27T15:33:46+00:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Nothing’s ANC-equipped earbuds are on sale for less than $20 for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1041717/nothing-cmf-buds-2a-earbuds-black-friday-2026-deal-sale",
+      "summary": "If our sub-$30 Black Friday roundup has you hungry for more great gadgets at low prices, you can currently grab the Nothing CMF Buds 2A in black starting at $17.89 on Amazon for Black Friday, which is about $11 less than",
+      "published": "2026-11-27T15:30:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Apple’s latest AirTags have dropped to just $18 a pop for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1042841/apple-airtag-2-black-friday-deal-2026-sale",
+      "summary": "If you’re tired of constantly scrounging around for your lost belongings, Apple’s second-gen AirTags are on sale for an all-time low of $18 at Amazon, Walmart, and Best Buy. The handy location trackers have a list price ",
+      "published": "2026-11-27T15:30:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "You might lose your Oura health data if you’re still using an old Android phone",
+      "url": "https://www.theverge.com/gadgets/1044314/oura-ring-health-data-android-11",
+      "summary": "Oura will be dropping support for Android 11 on December 8th, 2026, and users may not have access to all of their data if they don't upgrade to Android 12 or higher before the deadline. The support page now reads: Oura w",
+      "published": "2026-11-27T14:44:19-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "The best Black Friday deals on smart home gear",
+      "url": "https://www.theverge.com/gadgets/1043912/best-smart-home-deals-black-friday",
+      "summary": "I’ve spent my post-turkey haze powering through reams of deals on smart home gadgets to find the best discounts on some of my favorite products. Smart home is often one of the best categories to shop around Black Friday,",
+      "published": "2026-11-27T14:30:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Anker’s 100W universal travel charger is down to $60, its lowest price yet",
+      "url": "https://www.theverge.com/gadgets/1041006/anker-100w-universal-travel-charger-black-friday-deal-sale",
+      "summary": "During Black Friday, the Anker 100W Universal Charger is on sale for $59.99 at Amazon, Best Buy, and Walmart, a $20 discount from its list price. That’s a few dollars lower than the previous best, with both the dark gray",
+      "published": "2026-11-27T13:30:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "Here are the best Black Friday deals you can grab for $30 or less",
+      "url": "https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026",
+      "summary": "What can you get for $30 these days? When it comes to tech, you might be surprised. Even as gadgets get more expensive, $30 can still go a long way, especially on Black Friday. For just $8, for instance, TP-Link’s Tapo s",
+      "published": "2026-11-27T12:30:00-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "The best Black Friday deals on AirPods, MacBooks, and other Apple gear",
+      "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
+      "summary": "Black Friday is one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch. After all, the holiday savings can help offset the unfortunate price hikes from earlier this year, w",
+      "published": "2026-11-27T11:30:37-05:00"
+    },
+    {
+      "sourceId": "verge",
+      "title": "You can grab a 12-pack of Zepath’s rechargeable AA batteries for just $24",
+      "url": "https://www.theverge.com/gadgets/1043272/zepath-rechargeable-aa-batteries-black-friday-2026-deal-sale",
+      "summary": "If you’re picking up any gifts that require AA batteries, it’s not a bad idea to buy a set you can keep using long after the holidays. Thankfully, you can currently get a 12-pack of Zepath’s rechargeable 3,000mWh AAs on ",
+      "published": "2026-11-27T10:30:00-05:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Carroll Dunham Calls His Filthy Formalism “Abstraction with a Hard-On”",
+      "url": "https://www.artnews.com/art-in-america/features/carroll-dunham-ica-miami-laurie-simmons-1234807999/",
+      "summary": "Ahead of his Miami retrospective, the artist and his allies help a skeptic understand his work.",
+      "published": "2026-11-27T10:00:00+00:00"
+    },
+    {
+      "sourceId": "artnews",
+      "title": "Batima Zaurbekova’s Textiles Meld Traditional Kazakh Techniques with Modernist Influences, Defying Easy Categorization",
+      "url": "https://www.artnews.com/art-news/artists/batima-zaurbekova-retrospective-almaty-kazakhstan-1234807853/",
+      "summary": "The 80-year-old artist is the subject of a major retrospective at the Abylkhan Kasteyev National Museum of Arts.",
+      "published": "2026-11-27T10:00:00+00:00"
+    },
+    {
+      "sourceId": "artnews",
       "title": "Rare Marie Antoinette ‘Breast Bowl’ Hammers for $2.47 M. in Paris, Surpassing Top Estimate",
       "url": "https://www.artnews.com/art-news/market/marie-antoinette-breast-bowl-hammers-past-estimate-rare-1234808074/",
       "summary": "The rare “nipple bowl” is one of four such bowls that was made for the French queen’s \"pleasure dairy\" near the Château de Versailles.",
       "published": "2026-11-26T18:28:25+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Netflix’s coziest show has made a very quiet return",
-      "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
-      "summary": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing librar",
-      "published": "2026-11-26T16:00:00-05:00"
     },
     {
       "sourceId": "artnews",
@@ -55,118 +167,6 @@
       "url": "https://www.artnews.com/art-news/news/has-the-myth-been-shattered-exhibition-the-broad-la-1234807846/",
       "summary": "From Andy Warhol’s silkscreens of police brutality to Guadalupe Rosales’s mirrored newspaper, a new exhibition examines the injustices that America has struggled to leave behind.",
       "published": "2026-11-26T15:30:00+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Kevin Love’s Miami Home Features Work by Antony Gormley, Rashid Johnson, Ed Ruscha and Richard Prince",
-      "url": "https://www.artnews.com/art-news/news/kevin-love-miami-home-artworks-rashid-johnson-ed-ruscha-1234808032/",
-      "summary": "The the five-time NBA All-Star opened up about collecting and his friendships with artists Jonas Wood and Rashid Johnson.",
-      "published": "2026-11-26T14:47:22+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
-      "url": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
-      "summary": "The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to its O",
-      "published": "2026-11-26T14:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
-      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
-      "summary": "If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to ",
-      "published": "2026-11-26T12:07:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Android app developers will soon have to share their address publicly",
-      "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
-      "summary": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to m",
-      "published": "2026-11-26T12:06:24-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "The best Black Friday deals we’ve already found",
-      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-      "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our favori",
-      "published": "2026-11-26T11:55:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
-      "url": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
-      "summary": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First A",
-      "published": "2026-11-26T11:38:00-05:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Hoor Al Qasimi Named Curator of 2028 Venice Biennale",
-      "url": "https://www.artnews.com/art-news/news/hoor-al-qasimi-named-curator-2028-venice-biennale-1234808028/",
-      "summary": "The Venice Biennale will run from April 8 to November 26, 2028.",
-      "published": "2026-11-26T11:34:06+00:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
-      "url": "https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026",
-      "summary": "Black Friday isn’t just a good time to save on a new TV but also a chance to spend less on what you watch on it. The shopping holiday often brings steep streaming discounts, and this year is no exception, with some strea",
-      "published": "2026-11-26T11:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "GTA VI developers vote against unionization",
-      "url": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
-      "summary": "Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization. The Independent Workers Union of G",
-      "published": "2026-11-26T10:55:24-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Why GTA VI’s version of Florida feels so real",
-      "url": "https://www.theverge.com/entertainment/1042629/gta-6-city-design",
-      "summary": "There are plenty of reasons why Grand Theft Auto VI is so popular: the 13 years of anticipation, the relatable lead characters and romantic storyline, the sheer level of depth. But another major factor is the sense of pl",
-      "published": "2026-11-26T10:00:00-05:00"
-    },
-    {
-      "sourceId": "verge",
-      "title": "Here’s where you can save (a little) on the Ocarina of Time remake",
-      "url": "https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale",
-      "summary": "A lot of people have The Legend of Zelda: Ocarina of Time for the Nintendo Switch 2 on their holiday wishlist. In case you haven’t bought it yet, I wanted to share some small but welcome deals happening on the physical a",
-      "published": "2026-11-26T09:00:00-05:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Smithsonian Head Assures Staff of Independence After Glimpse of White House Overhaul Plan",
-      "url": "https://www.artnews.com/art-news/news/lonnie-bunch-smithsonian-staff-letter-white-house-overhaul-1234807831/",
-      "summary": "A Trump aide was photographed holding a document titled \"Smithsonian Institution Renewal Plan.\"",
-      "published": "2026-11-25T20:44:50+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Tate Liverpool Plans Fall 2027 Reopening With Surrealism Survey",
-      "url": "https://www.artnews.com/art-news/news/tate-liverpool-plans-fall-2027-reopening-surrealism-survey-1234807954/",
-      "summary": "The surrealism exhibition will run from fall 2027 to spring 2028 and include works by Salvador Dalí, Eileen Agar and Man Ray.",
-      "published": "2026-11-25T20:38:16+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Shahzia Sikander Sculpture in St. Louis Generates Protests and Counterprotests",
-      "url": "https://www.artnews.com/art-news/news/shahzia-sikander-protest-st-louis-1234807974/",
-      "summary": "The same work was the subject of heated protest in Texas in 2024.",
-      "published": "2026-11-25T20:07:54+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "Dead Man Is Accused of Stealing Art from Michigan Museums",
-      "url": "https://www.artnews.com/art-news/news/dead-man-art-theft-michigan-museums-1234807950/",
-      "summary": "Mikolai Augustine Stasiulewicz allegedly stole artworks from the Grand Rapids Art Museum and Western Michigan University.",
-      "published": "2026-11-25T20:02:06+00:00"
-    },
-    {
-      "sourceId": "artnews",
-      "title": "The Critic as Artist (And Vice Versa): A Fireside Chat with Jerry Saltz",
-      "url": "https://www.artnews.com/art-news/news/jerry-saltz-art-week-nyc-talk-1234807901/",
-      "summary": "It wouldn’t be a conversation with him without plenty of engagement with the audience.",
-      "published": "2026-11-25T19:26:33+00:00"
     },
     {
       "sourceId": "filmmaker",
